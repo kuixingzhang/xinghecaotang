@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "文集"
     url: /posts/
-  - title: "Categories"
+  - title: "行旅"
     url: /categories/
-  - title: "Tags"
+  - title: "詩稿"
     url: /tags/
-  - title: "About"
+  - title: "關於"
     url: /about/
