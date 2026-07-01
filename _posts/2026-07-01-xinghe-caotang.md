@@ -1,4 +1,3 @@
-Markdown
 ---
 title: "星河草堂序"
 date: 2026-07-01
