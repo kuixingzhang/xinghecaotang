@@ -1,9 +1,12 @@
 main:
   - title: "文集"
-    url: /posts/
+    url: /wenji/
+
   - title: "行旅"
-    url: /categories/
+    url: /xinglv/
+
   - title: "詩稿"
-    url: /tags/
+    url: /shigao/
+
   - title: "關於"
     url: /about/
