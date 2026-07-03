@@ -211,7 +211,8 @@ body {
     min-height: 240px;
   }
 }
-/* 隐藏 Hero 图片上的大标题“星河草堂” */
-.page__hero .page__title {
+/* 只隐藏 Hero Banner 上的大标题 */
+.page__hero--overlay .page__title,
+.page__hero--overlay h1 {
   display: none !important;
 }
