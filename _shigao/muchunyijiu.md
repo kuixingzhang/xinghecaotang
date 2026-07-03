@@ -12,8 +12,6 @@ permalink: /shigao/muchunyijiu/
 
 # 暮春憶舊
 
-![濟南同窗舊影](/assets/images/poetry/College%20Jinan%201994.jpeg)
-
 齊州煙雨入殘春，千佛山下憶同門。  
 
 青衿未改凌雲志，紅袖猶書濟世文。  
@@ -23,3 +21,5 @@ permalink: /shigao/muchunyijiu/
 莫把金樽空對月，落花仍是意中人。  
 
 *寫於 2026年5月25日*
+
+![濟南同窗舊影](/assets/images/poetry/College%20Jinan%201994.jpeg)
