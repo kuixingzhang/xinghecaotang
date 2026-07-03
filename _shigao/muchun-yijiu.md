@@ -6,7 +6,7 @@ title: "暮春憶舊"
 
 date: 2026-05-25
 
-permalink: /shigao/muchunyijiu/
+permalink: /shigao/muchun-yijiu/
 
 ---
 
