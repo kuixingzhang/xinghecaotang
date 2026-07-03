@@ -73,18 +73,16 @@ body {
    星河草堂序
 ========================================= */
 
-.hero-intro {
-  max-width: 1400px;
-  margin: 3rem auto 3.5rem auto;
-  padding: 0 2rem;
-}
-
-.intro-text {
+.hero-intro p {
+  margin: 0 0 0.7rem 0;
   font-size: 1.35rem;
-  line-height: 1.9;
+  line-height: 1.8;
   text-align: left;
   color: #333;
-  margin: 0;
+}
+
+.hero-intro p:last-child {
+  margin-bottom: 0;
 }
 
 
