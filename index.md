@@ -10,15 +10,12 @@ author_profile: false
 
 header:
 
-  overlay_color: "#000"
-
-  overlay_filter: 0.35
+    overlay_image: /assets/images/hero.jpg
+    overlay_filter: 0.45
 
 # image: /assets/images/banner.jpg
 
 ---
-
-# 
 
 > 星河浩瀚，草堂卑微，渺予小子，偏居宇宙一隅，上下求索，得此方寸之地。
 
