@@ -5,8 +5,14 @@ layout: single
 author_profile: false
 ---
 
-# 詩稿
+{% assign poems = site.shigao | sort: "date" | reverse %}
 
-古體詩、近體詩、現代詩及隨筆。
+{% for poem in poems %}
 
-（建设中）
+## [{{ poem.title }}]({{ poem.url | relative_url }})
+
+{% if poem.image %}
+[![{{ poem.title }}]({{ poem.image | relative_url }})]({{ poem.url | relative_url }})
+{% endif %}
+
+{% endfor %}
