@@ -8,5 +8,8 @@ main:
   - title: "詩稿"
     url: /shigao/
 
+  - title: "專業"
+    url: /professional/
+
   - title: "關於"
     url: /about/
