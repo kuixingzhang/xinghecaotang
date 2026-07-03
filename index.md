@@ -5,7 +5,7 @@ permalink: /
 author_profile: false
 
 header:
-  overlay_image: /assets/images/hero.jpg
+  overlay_image: /assets/images/hero1.jpg
   overlay_filter: 0.45
 ---
 
