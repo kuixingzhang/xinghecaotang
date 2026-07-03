@@ -35,13 +35,6 @@ header:
     <p>記錄山川、人文與世界。</p>
     <a href="/xinglv/">進入行旅</a>
   </div>
-
-  <div class="section-card">
-    <h2>詩稿</h2>
-    <p>古體詩、現代詩與隨筆。</p>
-    <a href="/shigao/">進入詩稿</a>
-  </div>
-
   <div class="section-card">
     <h2>關於</h2>
     <p>草堂主人與星河草堂的緣起。</p>
