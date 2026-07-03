@@ -10,7 +10,6 @@ permalink: /shigao/muchunyijiu/
 
 ---
 
-# 暮春憶舊
 
 齊州煙雨入殘春，千佛山下憶同門。  
 
