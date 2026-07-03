@@ -51,24 +51,30 @@ header:
 
 </div>
 
+<div class="home-sections">
+
 <div class="section-card">
-
-<h2>詩稿</h2>
-
-<p>
-古體、近體、隨筆與詩。
-</p>
-
+<h2>📚 文集</h2>
+<p>医学、信仰、历史、社会。</p>
+<a href="/categories/">进入文集</a>
 </div>
 
 <div class="section-card">
+<h2>🌍 行旅</h2>
+<p>记录世界各地的山川、人文与见闻。</p>
+<a href="/travel/">进入行旅</a>
+</div>
 
-<h2>關於</h2>
+<div class="section-card">
+<h2>✒ 诗稿</h2>
+<p>古体诗、现代诗与随笔。</p>
+<a href="/poetry/">进入诗稿</a>
+</div>
 
-<p>
-草堂主人，以及星河草堂。
-</p>
-
+<div class="section-card">
+<h2>👤 关于</h2>
+<p>关于作者，以及建立星河草堂的缘起。</p>
+<a href="/about/">了解更多</a>
 </div>
 
 </div>
