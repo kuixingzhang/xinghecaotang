@@ -1,18 +1,11 @@
 ---
+layout: single
 title: "詩稿"
 permalink: /shigao/
-layout: single
 author_profile: false
 ---
 
-{% assign poems = site.shigao | sort: "date" | reverse %}
+## 詩稿目錄
 
-{% for poem in poems %}
-
-## [{{ poem.title }}]({{ poem.url | relative_url }})
-
-{% if poem.image %}
-[![{{ poem.title }}]({{ poem.image | relative_url }})]({{ poem.url | relative_url }})
-{% endif %}
-
-{% endfor %}
+- [暮春憶舊](/shigao/muchun-yijiu/)  
+  <small>2026年5月25日</small>
