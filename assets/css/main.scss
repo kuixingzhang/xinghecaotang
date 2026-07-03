@@ -1,18 +1,234 @@
 ---
 ---
 
-@import "minimal-mistakes";
+@use "minimal-mistakes" as *;
 
-/* ==========================
-   星河草堂 自定义样式
-========================== */
+/* ====================================
+   星河草堂
+==================================== */
 
-body{
-    background:#faf8f3;
-    color:#222;
-    font-family:
-        "Noto Serif SC",
-        "Source Han Serif SC",
-        "Songti SC",
-        serif;
+body {
+  background: #f8f6f1;
+  color: #2b2b2b;
+  font-family:
+    "Noto Serif SC",
+    "Source Han Serif SC",
+    "Songti SC",
+    serif;
+  line-height: 2;
+}
+
+/* ====================================
+   Hero Banner
+==================================== */
+
+.page__hero {
+  height: 72vh !important;
+  min-height: 540px;
+}
+
+.page__hero--overlay {
+  background-position: center;
+  background-size: cover;
+}
+
+.page__hero-caption {
+  display: none;
+}
+
+.page__hero .page__title {
+  font-size: 4.5rem;
+  letter-spacing: .15em;
+  font-weight: 700;
+  text-shadow: 0 5px 20px rgba(0,0,0,.55);
+}
+
+/* ====================================
+   首页正文
+==================================== */
+
+.page__content {
+  max-width: 980px;
+  margin: auto;
+  font-size: 1.25rem;
+}
+
+.hero-intro{
+    margin:4rem auto 5rem auto;
+}
+
+.intro-text{
+    font-size:2rem;
+    line-height:2.2;
+    text-align:center;
+    color:#333;
+}
+
+.page__content hr{
+    margin:4rem auto;
+    width:80px;
+}
+
+/* ====================================
+   四个卡片
+==================================== */
+
+.home-sections{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:2rem;
+
+    margin:4rem auto 6rem auto;
+
+}
+
+.section-card{
+
+    background:white;
+
+    border-radius:16px;
+
+    padding:2.5rem;
+
+    text-align:center;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+
+    transition:.35s;
+
+}
+
+.section-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 20px 45px rgba(0,0,0,.15);
+
+}
+
+.section-card h2{
+
+    font-size:1.8rem;
+
+    margin-bottom:1rem;
+
+}
+
+.section-card p{
+
+    color:#666;
+
+    min-height:4rem;
+
+}
+
+.section-card a{
+
+    display:inline-block;
+
+    margin-top:1rem;
+
+    padding:.7rem 1.8rem;
+
+    border-radius:30px;
+
+    border:1px solid #333;
+
+    text-decoration:none;
+
+    color:#333;
+
+    transition:.25s;
+
+}
+
+.section-card a:hover{
+
+    background:#333;
+
+    color:white;
+
+}
+
+/* ====================================
+   导航栏
+==================================== */
+
+.masthead{
+
+    border-bottom:none;
+
+    box-shadow:0 1px 8px rgba(0,0,0,.05);
+
+}
+
+.greedy-nav{
+
+    background:white;
+
+}
+
+.site-title{
+
+    font-weight:700;
+
+    letter-spacing:.08em;
+
+}
+
+/* ====================================
+   手机
+==================================== */
+
+@media(max-width:900px){
+
+.home-sections{
+
+grid-template-columns:repeat(2,1fr);
+
+}
+
+.page__hero{
+
+height:50vh!important;
+
+}
+
+.page__hero .page__title{
+
+font-size:3rem;
+
+}
+
+.intro-text{
+
+font-size:1.5rem;
+
+}
+
+}
+
+@media(max-width:600px){
+
+.home-sections{
+
+grid-template-columns:1fr;
+
+}
+
+.page__content{
+
+font-size:1.05rem;
+
+}
+
+.intro-text{
+
+font-size:1.2rem;
+
+}
+
 }
