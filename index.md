@@ -2,7 +2,7 @@
 
 layout: splash
 
-title: "星河草堂"
+title: ""
 
 permalink: /
 
@@ -18,7 +18,7 @@ header:
 
 ---
 
-# 序
+# 
 
 > 星河浩瀚，草堂卑微，渺予小子，偏居宇宙一隅，上下求索，得此方寸之地。
 
