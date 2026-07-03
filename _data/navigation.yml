@@ -1,13 +1,4 @@
 main:
-  - title: "文集"
-    url: /wenji/
-
-  - title: "行旅"
-    url: /xinglv/
-
-  - title: "詩稿"
-    url: /shigao/
-
   - title: "專業"
     url: /professional/
 
