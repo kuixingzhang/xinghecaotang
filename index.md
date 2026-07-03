@@ -26,18 +26,18 @@ header:
 
   <div class="section-card">
     <h2>文集</h2>
-    <p>信仰、歷史、社會與語言。</p>
+    <p>信仰、歷史、社會</p>
     <a href="/wenji/">進入文集</a>
   </div>
 
   <div class="section-card">
     <h2>行旅</h2>
-    <p>記錄山川、人文與世界。</p>
+    <p>山川、人文。</p>
     <a href="/xinglv/">進入行旅</a>
   </div>
 
 <div class="section-card">
 <h2>詩稿</h2>
-<p>古體詩與現代詩。</p>
+<p>古體詩、現代詩。</p>
 <a href="/shigao/">進入詩稿</a>
 </div>
