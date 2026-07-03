@@ -26,26 +26,31 @@ header:
 
 <div class="home-sections">
 
-<div class="section-card">
-<h2>📚 文集</h2>
-<p>醫學、信仰、歷史、社會。</p>
-<p><strong>建設中</strong></p>
-</div>
+  <div class="section-card">
+    <h2>文集</h2>
+    <p>信仰、歷史、社會、語言與隨筆。</p>
+    <a href="/wenji/">進入文集</a>
+  </div>
 
-<div class="section-card">
-<h2>🌍 行旅</h2>
-<p>記錄山川、人文與世界。</p>
-<p><strong>建設中</strong></p>
-</div>
+  <div class="section-card">
+    <h2>行旅</h2>
+    <p>記錄山川、人文與世界。</p>
+    <a href="/xinglv/">進入行旅</a>
+  </div>
 
-<div class="section-card">
-<h2>✒ 詩稿</h2>
-<p>古體詩、現代詩與隨筆。</p>
-<p><strong>建設中</strong></p>
-</div>
+  <div class="section-card">
+    <h2>詩稿</h2>
+    <p>古體詩、現代詩與隨筆。</p>
+    <a href="/shigao/">進入詩稿</a>
+  </div>
 
-<div class="section-card">
-<h2>👤 關於</h2>
+  <div class="section-card">
+    <h2>關於</h2>
+    <p>草堂主人與星河草堂的緣起。</p>
+    <a href="/about/">了解更多</a>
+  </div>
+
+</div>
 <p>作者簡介與星河草堂的緣起。</p>
 <p><strong>建設中</strong></p>
 </div>
