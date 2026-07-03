@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/hero.jpg
   overlay_filter: 0.45
 ---
-
 <div class="hero-intro">
 
 <p class="intro-text">
@@ -25,32 +24,30 @@ header:
 
 </div>
 
-<hr>
-
 <div class="home-sections">
 
 <div class="section-card">
 <h2>📚 文集</h2>
 <p>醫學、信仰、歷史、社會。</p>
-<a href="/categories/">進入文集</a>
+<p><strong>建設中</strong></p>
 </div>
 
 <div class="section-card">
 <h2>🌍 行旅</h2>
 <p>記錄山川、人文與世界。</p>
-<a href="/travel/">進入行旅</a>
+<p><strong>建設中</strong></p>
 </div>
 
 <div class="section-card">
 <h2>✒ 詩稿</h2>
 <p>古體詩、現代詩與隨筆。</p>
-<a href="/poetry/">進入詩稿</a>
+<p><strong>建設中</strong></p>
 </div>
 
 <div class="section-card">
 <h2>👤 關於</h2>
-<p>關於作者，以及建立星河草堂的緣起。</p>
-<a href="/about/">了解更多</a>
+<p>作者簡介與星河草堂的緣起。</p>
+<p><strong>建設中</strong></p>
 </div>
 
 </div>
