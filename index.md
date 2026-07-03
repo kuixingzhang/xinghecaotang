@@ -32,12 +32,12 @@ header:
 
   <div class="section-card">
     <h2>行旅</h2>
-    <p>山川、人文。</p>
+    <p>山川、人文</p>
     <a href="/xinglv/">進入行旅</a>
   </div>
 
 <div class="section-card">
 <h2>詩稿</h2>
-<p>古體詩、現代詩。</p>
+<p>古體詩、現代詩</p>
 <a href="/shigao/">進入詩稿</a>
 </div>
