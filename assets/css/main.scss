@@ -216,3 +216,18 @@ body {
 .page__hero--overlay h1 {
   display: none !important;
 }
+/* 隐藏底部 Feed */
+.page__footer-follow {
+  display: none !important;
+}
+
+/* 隐藏 Powered by Jekyll & Minimal Mistakes */
+.page__footer-copyright {
+  font-size: 0;
+}
+
+/* 只显示自己的版权 */
+.page__footer-copyright::after {
+  content: "© 2026 星河草堂";
+  font-size: 0.85rem;
+}
