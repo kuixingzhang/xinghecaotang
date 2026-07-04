@@ -38,7 +38,7 @@ collections:
 
   wenji:
     output: true
-    permalink: /wenji/:path/
+    permalink: /wenji/:name/
     
 include:
   - _pages
