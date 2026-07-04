@@ -1,23 +1,22 @@
 ---
 layout: single
-title: "詩稿"
+title: ""
 permalink: /shigao/
 author_profile: false
 ---
 
 ## 詩稿目錄
 
-- [暮春憶舊](/shigao/muchun-yijiu/)  
-  <small>2026年5月25日</small>
+<h1>詩稿目錄</h1>
 
-- [別故鄉](/shigao/bieguxiang/)  
-  <small>2026年1月17日</small>
+<div class="poetry-grid">
 
-- [鼓浪嶼印象](/shigao/gulangyu-yinxiang/)  
-  <small>2024年9月20日</small>
+  <a href="/shigao/muchun-yijiu/">暮春憶舊</a>
 
-- [時鐘](/shigao/shizhong/)  
-  <small>2024年5月27日</small>
+  <a href="/shigao/bieguxiang/">別故鄉</a>
 
-- [柳絮](/shigao/liuxu/)  
-  <small>2024年5月12日</small>
+  <a href="/shigao/gulangyu-yinxiang/">鼓浪嶼印象</a>
+
+  <a href="/shigao/shizhong/">時鐘</a>
+
+  <a href="/shigao/liuxu/">柳絮</a>
