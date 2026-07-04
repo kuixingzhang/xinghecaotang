@@ -221,6 +221,38 @@ body {
   display: none !important;
 }
 
+/* =========================================
+   詩稿兩欄目錄
+========================================= */
+
+.poetry-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem 3rem;
+  margin-top: 2rem;
+  max-width: 800px;
+}
+
+.poetry-grid a {
+  display: block;
+  padding: 0.7rem 0;
+  color: #4f8fa8;
+  font-size: 1.15rem;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(139, 109, 63, 0.18);
+}
+
+.poetry-grid a:hover {
+  color: #8b6d3f;
+}
+
+/* 手機自動變成一欄 */
+@media (max-width: 600px) {
+  .poetry-grid {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+}
 /* 只显示自己的版权 */
 .page__footer-copyright::after {
   content: "© 2026 星河草堂";
