@@ -216,6 +216,11 @@ body {
 .page__hero--overlay h1 {
   display: none !important;
 }
+
+/* =========================================
+   底部区域
+========================================= */
+
 /* 隐藏底部 Feed */
 .page__footer-follow {
   display: none !important;
@@ -226,9 +231,11 @@ body {
   font-size: 0;
 }
 
-.poetry-page .pagination {
+/* 隐藏文章底部 Previous / Next 导航 */
+.pagination {
   display: none !important;
 }
+
 /* 只显示自己的版权 */
 .page__footer-copyright::after {
   content: "© 2026 星河草堂";
