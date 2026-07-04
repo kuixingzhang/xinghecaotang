@@ -226,6 +226,9 @@ body {
   font-size: 0;
 }
 
+.poetry-page .pagination {
+  display: none !important;
+}
 /* 只显示自己的版权 */
 .page__footer-copyright::after {
   content: "© 2026 星河草堂";
