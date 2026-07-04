@@ -15,3 +15,6 @@ author_profile: false
 
 - [鼓浪嶼印象](/shigao/gulangyu-yinxiang/)  
   <small>2024年9月20日</small>
+
+- [時鐘](/shigao/shizhong/)  
+  <small>2024年5月27日</small>
