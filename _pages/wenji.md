@@ -1,12 +1,21 @@
----
-title: "文集"
-permalink: /wenji/
-layout: single
-author_profile: false
----
+<a class="essay-category-card" href="/wenji/jinian/">
+    <h2>紀念</h2>
+    <p>故人、親情與生命記憶</p>
+  </a>
 
-# 文集
+  <a class="essay-category-card" href="/wenji/xinyang/">
+    <h2>信仰</h2>
+    <p>聖經、神學與生命思考</p>
+  </a>
 
-这里收藏医学、信仰、历史、语言、社会及随笔文章。
+  <a class="essay-category-card" href="/wenji/lishi/">
+    <h2>歷史</h2>
+    <p>人物、事件與文明興衰</p>
+  </a>
 
-（建设中）
+  <a class="essay-category-card" href="/wenji/shehui/">
+    <h2>社會</h2>
+    <p>時事、文化與社會觀察</p>
+  </a>
+
+</div>
