@@ -12,3 +12,6 @@ author_profile: false
 
 - [別故鄉](/shigao/bieguxiang/)  
   <small>2026年1月17日</small>
+
+- [鼓浪嶼印象](/shigao/gulangyu-yinxiang/)  
+  <small>2024年9月20日</small>
