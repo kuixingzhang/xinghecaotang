@@ -24,20 +24,19 @@ header:
 
 <div class="home-sections">
 
-  <div class="section-card">
+  <a href="/wenji/" class="section-card">
     <h2>文集</h2>
     <p>信仰、歷史、社會</p>
-    <a href="/wenji/">進入文集</a>
-  </div>
+  </a>
 
-  <div class="section-card">
+  <a href="/xinglv/" class="section-card">
     <h2>行旅</h2>
     <p>山川、人文</p>
-    <a href="/xinglv/">進入行旅</a>
-  </div>
+  </a>
 
-<div class="section-card">
-<h2>詩稿</h2>
-<p>古體詩、現代詩</p>
-<a href="/shigao/">進入詩稿</a>
+  <a href="/shigao/" class="section-card">
+    <h2>詩稿</h2>
+    <p>古體詩、現代詩</p>
+  </a>
+
 </div>
