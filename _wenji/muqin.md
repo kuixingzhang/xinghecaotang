@@ -56,7 +56,7 @@ author_profile: false
 
 <p><em>寫於 2026年1月13日</em></p>
 
-<img src="/assets/images/muqin.jpg"
+<img src="/assets/images/wenji/muqin.jpg"
      alt="母親"
      style="max-width:100%; height:auto;">
 
