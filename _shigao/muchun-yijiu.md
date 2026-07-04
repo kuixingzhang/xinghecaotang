@@ -8,6 +8,7 @@ date: 2026-05-25
 
 permalink: /shigao/muchun-yijiu/
 
+classes: poetry-page
 ---
 昨日還是求學少年，今天已經年過半百。惜乎時不我待，人生只有歸途；事事如煙，回憶卻時常入夢。
 
