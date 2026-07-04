@@ -9,3 +9,6 @@ author_profile: false
 
 - [暮春憶舊](/shigao/muchun-yijiu/)  
   <small>2026年5月25日</small>
+
+- [別故鄉](/shigao/bieguxiang/)  
+  <small>2026年1月17日</small>
