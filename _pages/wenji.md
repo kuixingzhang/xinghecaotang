@@ -1,4 +1,15 @@
-<a class="essay-category-card" href="/wenji/jinian/">
+---
+layout: single
+title: ""
+permalink: /wenji/
+author_profile: false
+---
+
+<h1>文集</h1>
+
+<div class="essay-category-grid">
+
+  <a class="essay-category-card" href="/wenji/jinian/">
     <h2>紀念</h2>
     <p>故人、親情與生命記憶</p>
   </a>
