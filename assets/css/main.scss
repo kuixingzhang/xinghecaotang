@@ -258,3 +258,55 @@ body {
   content: "© 2026 星河草堂";
   font-size: 0.85rem;
 }
+
+/* =========================================
+   文集分類目錄
+========================================= */
+
+.essay-category-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+  max-width: 850px;
+}
+
+.essay-category-card {
+  display: block;
+  padding: 1.8rem 2rem;
+  background: #ffffff;
+  border: 1px solid rgba(139, 109, 63, 0.18);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+  text-decoration: none !important;
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.essay-category-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(139, 109, 63, 0.45);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.10);
+}
+
+.essay-category-card h2 {
+  margin: 0 0 0.6rem;
+  color: #4f8fa8;
+  font-size: 1.4rem;
+}
+
+.essay-category-card p {
+  margin: 0;
+  color: #666666;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+/* 手機自動變成一欄 */
+@media (max-width: 600px) {
+  .essay-category-grid {
+    grid-template-columns: 1fr;
+  }
+}
