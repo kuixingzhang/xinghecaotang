@@ -13,4 +13,5 @@ author_profile: false
   <a href="/shigao/gulangyu-yinxiang/">鼓浪嶼印象</a>
   <a href="/shigao/shizhong/">時鐘</a>
   <a href="/shigao/liuxu/">柳絮</a>
+  <a href="/shigao/guxiang/">故鄉</a>
 </div>
