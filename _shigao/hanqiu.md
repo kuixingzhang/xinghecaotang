@@ -19,6 +19,6 @@ classes: poetry-page
 
 ![寒秋](/assets/images/poetry/hanqiu.jpg)
 
-</p>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
+</p>
