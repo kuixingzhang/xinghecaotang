@@ -3,6 +3,7 @@ layout: single
 title: "別故鄉"
 date: 2026-01-17
 permalink: /shigao/bieguxiang/
+author_profile: false
 classes: poetry-page
 ---
 
@@ -15,7 +16,7 @@ classes: poetry-page
 </p>
 
 <p>
-離開的飛機上下望朵朵白雲，來去無蹤，聚散無常，我們一生所能擁有的，也許只有這朵朵白雲而已。
+離開的飛機上俯望朵朵白雲，來去無蹤，聚散無常，我們一生所能擁有的，也許只有這朵朵白雲而已。
 </p>
 
 <p>正是：</p>
@@ -28,6 +29,7 @@ classes: poetry-page
 <p><em>寫於 2026年1月17日</em></p>
 
 ![別故鄉](/assets/images/poetry/bieguxiang.jpg)
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
