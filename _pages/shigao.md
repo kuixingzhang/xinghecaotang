@@ -16,4 +16,5 @@ author_profile: false
   <a href="/shigao/guxiang/">水鄉</a>
   <a href="/shigao/piaopeng/">飄蓬</a>
   <a href="/shigao/youdao-sanfan/">浪淘沙·又到三藩</a>
+  <a href="/shigao/danzhuanghui/">丹莊會</a>
 </div> 
