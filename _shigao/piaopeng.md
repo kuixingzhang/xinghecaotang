@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "飄蓬"
+title: ""
 permalink: /shigao/piaopeng/
 author_profile: false
 ---
