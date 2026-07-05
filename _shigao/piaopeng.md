@@ -32,7 +32,8 @@ author_profile: false
       翩翩何所似，宇宙一飄蓬
     </p>
   </div>
-  <p class="poem-date">2024年4月27日</p>
+
+  <p><em>寫於 2024年4月27日</em></p>
 
   <img src="/assets/images/poetry/piaopeng.jpg"
        alt="飄蓬"
