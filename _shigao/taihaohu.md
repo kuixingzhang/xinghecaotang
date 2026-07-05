@@ -19,4 +19,7 @@ classes: poetry-page
 
 ![九月遊太浩湖](/assets/images/poetry/taihaohu.jpg)
 
-[← 返回詩稿目錄](/shigao/)
+</p>
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/shigao/">← 返回詩稿目錄</a>
+</p>
