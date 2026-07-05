@@ -20,8 +20,7 @@ classes: poetry-page
 
 *寫於 2024年1月20日*
 
-
-![浪淘沙·又到三藩](/assets/images/poetry/youdaosanfan.jpg)
+![浪淘沙·又到三藩](/assets/images/poetry/youdao-sanfan.jpg)
 <div class="poetry-back">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </div>
