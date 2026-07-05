@@ -22,7 +22,6 @@ classes: poetry-page
 
 ![浪淘沙·又到三藩](/assets/images/poetry/youdao-sanfan.jpg)
 
-</p>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
- 
+</p>
