@@ -19,5 +19,6 @@ author_profile: false
   <a href="/shigao/danzhuanghui/">丹莊會</a>
   <a href="/shigao/taihaohu/">九月遊太浩湖</a>
   <a href="/shigao/beimeihuayi/">北美華醫2023年洛城年會有感</a>
+  <a href="/shigao/ganhuai/">感懷</a>
 </div> 
  
