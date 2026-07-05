@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: https://github.com/kuixingzhang/xinghecaotang
-  branch: main
+  repo: kuixingzhang/xinghecaotang
+  branch: master
 
 locale: zh_Hant
 
