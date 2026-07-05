@@ -19,6 +19,6 @@ classes: poetry-page
 
 ![北美華醫2023年洛城年會有感](/assets/images/poetry/beimeihuayi.jpg)
 
-</p>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
+</p>
