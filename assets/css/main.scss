@@ -310,3 +310,8 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+/* 詩稿頁隱藏 Updated 日期 */
+.poetry-page .page__meta {
+  display: none !important;
+}
