@@ -25,3 +25,4 @@ classes: poetry-page
 <div class="poetry-back">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </div>
+ 
