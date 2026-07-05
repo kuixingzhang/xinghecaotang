@@ -21,5 +21,5 @@ author_profile: false
   <a href="/shigao/beimeihuayi/">北美華醫2023年洛城年會有感</a>
   <a href="/shigao/ganhuai/">感懷</a>
   <a href="/shigao/hanqiu/">寒秋</a>
-</div> 
- 
+  <a href="/shigao/2022-shenzhou-dahui/">2022 神州大會有感</a>
+</div>
