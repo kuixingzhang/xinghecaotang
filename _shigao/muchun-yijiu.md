@@ -22,7 +22,7 @@ classes: poetry-page
 
 *寫於 2026年5月25日*
 
-![濟南同窗舊影](/assets/images/poetry/muchunyijiu.jpeg)
+![濟南同窗舊影](/assets/images/poetry/muchunyijiu.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
