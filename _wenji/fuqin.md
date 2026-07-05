@@ -35,3 +35,7 @@ author_profile: false
 <img src="/assets/images/wenji/fuqin.jpg"
      alt="父親"
      style="max-width:100%; height:auto;">
+
+<p style="margin-top: 2.5rem;">
+  <a href="/wenji/jinian/">← 返回紀念目錄</a>
+</p>
