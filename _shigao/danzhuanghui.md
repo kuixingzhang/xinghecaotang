@@ -24,6 +24,6 @@ author_profile: false
 
 ---
 
-</p>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
+</p>
