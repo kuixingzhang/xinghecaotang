@@ -1,0 +1,152 @@
+backend:
+  name: github
+  repo: https://github.com/kuixingzhang/xinghecaotang
+  branch: main
+
+locale: zh_Hant
+
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+publish_mode: simple
+
+collections:
+
+  # =====================================
+  # 詩稿
+  # =====================================
+
+  - name: "shigao"
+    label: "詩稿"
+    label_singular: "詩稿"
+    folder: "_shigao"
+    create: true
+    delete: true
+
+    slug: "{{slug}}"
+
+    editor:
+      preview: true
+
+    fields:
+
+      - label: "版面"
+        name: "layout"
+        widget: "hidden"
+        default: "single"
+
+      - label: "標題"
+        name: "title"
+        widget: "string"
+
+      - label: "網址名稱"
+        name: "slug"
+        widget: "string"
+        hint: "例如：suimohuaixiang"
+
+      - label: "永久網址"
+        name: "permalink"
+        widget: "string"
+        hint: "例如：/shigao/suimohuaixiang/"
+
+      - label: "作者資料"
+        name: "author_profile"
+        widget: "hidden"
+        default: false
+
+      - label: "頁面類別"
+        name: "classes"
+        widget: "hidden"
+        default: "poetry-page"
+
+      - label: "寫作日期"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+
+      - label: "序文"
+        name: "preface"
+        widget: "text"
+        required: false
+
+      - label: "詩詞正文"
+        name: "body"
+        widget: "markdown"
+
+      - label: "圖片"
+        name: "image"
+        widget: "image"
+        required: false
+
+
+  # =====================================
+  # 文集
+  # =====================================
+
+  - name: "wenji"
+    label: "文集"
+    label_singular: "文章"
+    folder: "_wenji"
+    create: true
+    delete: true
+
+    slug: "{{slug}}"
+
+    editor:
+      preview: true
+
+    fields:
+
+      - label: "版面"
+        name: "layout"
+        widget: "hidden"
+        default: "single"
+
+      - label: "標題"
+        name: "title"
+        widget: "string"
+
+      - label: "網址名稱"
+        name: "slug"
+        widget: "string"
+
+      - label: "永久網址"
+        name: "permalink"
+        widget: "string"
+        hint: "例如：/wenji/muqin/"
+
+      - label: "作者資料"
+        name: "author_profile"
+        widget: "hidden"
+        default: false
+
+      - label: "分類"
+        name: "category"
+        widget: "select"
+        options:
+          - label: "紀念"
+            value: "jinian"
+          - label: "信仰"
+            value: "xinyang"
+          - label: "歷史"
+            value: "lishi"
+          - label: "社會"
+            value: "shehui"
+
+      - label: "寫作日期"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+
+      - label: "正文"
+        name: "body"
+        widget: "markdown"
+
+      - label: "圖片"
+        name: "image"
+        widget: "image"
+        required: false
