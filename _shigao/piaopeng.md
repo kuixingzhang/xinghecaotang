@@ -39,6 +39,6 @@ author_profile: false
        alt="飄蓬"
        class="poem-image">
 
-  </p>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
+</p>
