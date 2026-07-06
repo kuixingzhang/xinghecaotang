@@ -1,0 +1,104 @@
+name: Fix Poetry Titles
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-titles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fix empty poetry titles
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          folder = Path("_shigao")
+          changed = []
+
+          for path in folder.glob("*.md"):
+              text = path.read_text(encoding="utf-8-sig")
+
+              # 只处理 title: "" 或 title: ''
+              if not re.search(
+                  r'(?m)^title:\s*(?:""|\'\')\s*$',
+                  text
+              ):
+                  continue
+
+              # 分离 YAML front matter 和正文
+              match = re.match(
+                  r'\A---\s*\n(.*?)\n---\s*\n(.*)\Z',
+                  text,
+                  flags=re.S
+              )
+
+              if not match:
+                  print(f"SKIP no front matter: {path}")
+                  continue
+
+              front = match.group(1)
+              body = match.group(2)
+
+              # 从正文寻找第一个一级标题：# 標題
+              heading = re.search(
+                  r'(?m)^#\s+(.+?)\s*$',
+                  body
+              )
+
+              if not heading:
+                  print(f"SKIP no H1 heading: {path}")
+                  continue
+
+              title = heading.group(1).strip()
+
+              # YAML 双引号安全转义
+              safe_title = (
+                  title
+                  .replace("\\", "\\\\")
+                  .replace('"', '\\"')
+              )
+
+              new_front = re.sub(
+                  r'(?m)^title:\s*(?:""|\'\')\s*$',
+                  f'title: "{safe_title}"',
+                  front,
+                  count=1
+              )
+
+              new_text = (
+                  "---\n"
+                  + new_front
+                  + "\n---\n"
+                  + body
+              )
+
+              path.write_text(new_text, encoding="utf-8")
+              changed.append((str(path), title))
+
+          print("\nChanged files:")
+          for filename, title in changed:
+              print(f"{filename} -> {title}")
+
+          print(f"\nTotal changed: {len(changed)}")
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes needed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add _shigao
+          git commit -m "Fill empty poetry titles from H1 headings"
+          git push
