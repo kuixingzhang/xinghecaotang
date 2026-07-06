@@ -25,5 +25,6 @@ author_profile: false
   <a href="/shigao/changgexing/">長歌行</a>
   <a href="/shigao/suimohuaixiang/">破陣子·歲末懷鄉</a>
   <a href="/shigao/qinianzhi/">山醫七年制畢業十六週年誌兼懷濟南</a>
+  <a href="/shigao/jiangchengzi/">江城子</a>
 </div>
  
