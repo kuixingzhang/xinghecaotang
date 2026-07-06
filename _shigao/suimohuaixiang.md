@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "破陣子 · 歲末懷鄉"
-permalink: /shigao/suimohuaixiang/
+slug: "suimohuaixiang"
+permalink: "/shigao/suimohuaixiang/"
 author_profile: false
-classes: poetry-page
+classes: "poetry-page"
+date: "2020-12-24"
 ---
 
 *書於2020年平安夜*
