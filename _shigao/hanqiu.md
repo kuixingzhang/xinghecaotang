@@ -1,11 +1,10 @@
 ---
 layout: single
-title: ""
+title: "寒秋"
 permalink: /shigao/hanqiu/
 author_profile: false
 classes: poetry-page
 ---
-
 # 寒秋
 
 一場秋雨，半山薄霧，獨立寒秋，看紅葉飄落，人卻永在旅途。韶華易逝，故土難回，遂作寒秋以誌之。

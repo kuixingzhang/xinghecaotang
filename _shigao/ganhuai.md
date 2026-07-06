@@ -1,11 +1,10 @@
 ---
 layout: single
-title: ""
+title: "感懷"
 permalink: /shigao/ganhuai/
 author_profile: false
 classes: poetry-page
 ---
-
 # 感懷
 
 寫於瘟疫過去，國門重開之際，正值美國的醫師節，二十年後才會面的國內同班現在一起在美國行醫的同學，還有故鄉的父母親人和朋友。且行且珍惜。

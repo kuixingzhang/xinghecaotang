@@ -1,11 +1,10 @@
 ---
 layout: single
-title: ""
+title: "長歌行"
 permalink: /shigao/changgexing/
 author_profile: false
 classes: poetry-page
 ---
-
 # 長歌行
 
 ## 2022年徐州鐵鏈女事件

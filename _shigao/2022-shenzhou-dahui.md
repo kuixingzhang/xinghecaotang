@@ -1,11 +1,10 @@
 ---
 layout: single
-title: ""
+title: "2022 神州大會有感"
 permalink: /shigao/2022-shenzhou-dahui/
 author_profile: false
 classes: poetry-page
 ---
-
 # 2022 神州大會有感
 
 神州無處不維新，四十年來夢想真。  
