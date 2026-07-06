@@ -5,7 +5,6 @@ permalink: /shigao/suimohuaixiang/
 author_profile: false
 classes: poetry-page
 ---
-# 破陣子 · 歲末懷鄉
 
 *書於2020年平安夜*
 
