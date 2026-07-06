@@ -16,7 +16,7 @@ collections:
   # 詩稿
   # =====================================
 
- - name: "shigao"
+  - name: "shigao"
     label: "詩稿"
     label_singular: "詩稿"
     folder: "_shigao"
