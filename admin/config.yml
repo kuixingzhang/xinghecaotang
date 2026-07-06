@@ -16,7 +16,7 @@ collections:
   # 詩稿
   # =====================================
 
-  - name: "shigao"
+ - name: "shigao"
     label: "詩稿"
     label_singular: "詩稿"
     folder: "_shigao"
@@ -24,6 +24,8 @@ collections:
     delete: true
 
     slug: "{{slug}}"
+    identifier_field: "title"
+    summary: "{{title}}"
 
     editor:
       preview: true
@@ -42,11 +44,13 @@ collections:
       - label: "網址名稱"
         name: "slug"
         widget: "string"
+        required: false
         hint: "例如：suimohuaixiang"
 
       - label: "永久網址"
         name: "permalink"
         widget: "string"
+        required: false
         hint: "例如：/shigao/suimohuaixiang/"
 
       - label: "作者資料"
@@ -62,6 +66,7 @@ collections:
       - label: "寫作日期"
         name: "date"
         widget: "datetime"
+        required: false
         format: "YYYY-MM-DD"
         date_format: "YYYY-MM-DD"
         time_format: false
@@ -79,7 +84,6 @@ collections:
         name: "image"
         widget: "image"
         required: false
-
 
   # =====================================
   # 文集
