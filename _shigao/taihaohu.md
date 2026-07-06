@@ -5,7 +5,6 @@ permalink: /shigao/taihaohu/
 author_profile: false
 classes: poetry-page
 ---
-# 九月遊太浩湖
 
 九月的太浩湖，美得難以言表，山如施黛，水如碧玉，寧靜高深，宛如仙境，復有飛瀑流泉，氣吞山嶽，置身於此，夫復何求。
 
