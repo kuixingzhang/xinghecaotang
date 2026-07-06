@@ -5,7 +5,6 @@ permalink: /shigao/beimeihuayi/
 author_profile: false
 classes: poetry-page
 ---
-# 北美華醫2023年洛城年會有感
 
 洛杉磯的七月，和風習習，宛如春日，第一次參加美國華人醫師協會的年會，感受到溫暖開放和豐富多彩，事後再回顧攝影記錄下的美好時刻，讓人有回家的感覺。感謝大會的組織者和志願者的傾情奉獻。
 
