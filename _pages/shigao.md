@@ -24,4 +24,5 @@ author_profile: false
   <a href="/shigao/2022-shenzhou-dahui/">2022 神州大會有感</a>
   <a href="/shigao/changgexing/">長歌行</a>
   <a href="/shigao/suimohuaixiang/">破陣子·歲末懷鄉</a>
+  <a href="/shigao/qinianzhi/">山醫七年制畢業十六週年誌兼懷濟南</a>
 </div>
