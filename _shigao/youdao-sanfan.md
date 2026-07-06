@@ -1,12 +1,10 @@
 ---
 layout: single
-title: ""
+title: "浪淘沙 · 又到三藩"
 permalink: /shigao/youdao-sanfan/
 author_profile: false
 classes: poetry-page
 ---
-
-## 浪淘沙 · 又到三藩
 
 轉眼來美已經第十八年，我從當年青春躁動、似乎無限選擇的中國心內科醫生，成了現在放下一切、波瀾不驚的美國病理醫生。當年帶我第一次來三藩開會的老闆早已仙逝，同窗好友也天各一方。故鄉越來越遠，歸宿卻越來越近。滄海桑田，人生如夢，似浪淘沙，似水東流。
 
