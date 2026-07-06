@@ -6,8 +6,6 @@ author_profile: false
 classes: poetry-page
 ---
 
-久違的聚會，卻無緣參加。
-
 夢中又見大學堂，少年郎，正同窗。  
 八號樓前，攜手共徜徉。  
 歲月難埋新舊事，情澀澀，路茫茫。  
