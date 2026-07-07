@@ -5,10 +5,10 @@ permalink: /shigao/piaopeng/
 author_profile: false
 ---
 
-    <p>
+    
       少年時的胸懷大志，青年時的展翅高飛，中年時的壓力山大，到老年時的雲淡風輕。
       生老病死，人事難逃。只是不要壅塞，不要貪嗔，庶幾可以平安一生。
-    </p>
+    
   </div>
 
   <div class="poem-text">
