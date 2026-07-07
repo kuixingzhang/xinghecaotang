@@ -36,6 +36,7 @@ author_profile: false
   <a href="/shigao/xiariguanyu/">夏日觀雨</a>
   <a href="/shigao/mingzhi/">明志</a>
   <a href="/shigao/cangsangyuejin/">滄桑閱盡</a>
+  <a href="/shigao/wenchengxiang/">文丞相</a>
   <a href="/shigao/kongfuzi/">孔夫子</a>
 </div>
  
