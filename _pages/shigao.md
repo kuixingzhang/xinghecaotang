@@ -29,5 +29,6 @@ author_profile: false
   <a href="/shigao/zhongqiu/">中秋</a>
   <a href="/shigao/xiangchou/">鄉愁</a>
   <a href="/shigao/youni/">有你</a>
+  <a href="/shigao/likai/">你何曾離開過我</a>
 </div>
  
