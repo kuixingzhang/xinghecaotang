@@ -32,5 +32,6 @@ author_profile: false
   <a href="/shigao/likai/">你何曾離開過我</a>
   <a href="/shigao/xingfu/">曾以為幸福只在遠處</a>
   <a href="/shigao/wangyan/">望眼</a>
+  <a href="/shigao/juli/">距離</a>
 </div>
  
