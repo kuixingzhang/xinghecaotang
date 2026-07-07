@@ -38,5 +38,6 @@ author_profile: false
   <a href="/shigao/cangsangyuejin/">滄桑閱盡</a>
   <a href="/shigao/wenchengxiang/">文丞相</a>
   <a href="/shigao/kongfuzi/">孔夫子</a>
+  <a href="/shigao/xiangzhi/">相知</a>
 </div>
  
