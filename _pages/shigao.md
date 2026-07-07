@@ -30,5 +30,6 @@ author_profile: false
   <a href="/shigao/xiangchou/">鄉愁</a>
   <a href="/shigao/youni/">有你</a>
   <a href="/shigao/likai/">你何曾離開過我</a>
+  <a href="/shigao/xingfu/">曾以為幸福只在遠處</a>
 </div>
  
