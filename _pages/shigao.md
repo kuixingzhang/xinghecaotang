@@ -34,5 +34,6 @@ author_profile: false
   <a href="/shigao/wangyan/">望眼</a>
   <a href="/shigao/juli/">距離</a>
   <a href="/shigao/xiariguanyu/">夏日觀雨</a>
+  <a href="/shigao/mingzhi/">明志</a>
 </div>
  
