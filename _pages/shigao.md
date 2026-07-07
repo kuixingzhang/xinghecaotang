@@ -27,5 +27,6 @@ author_profile: false
   <a href="/shigao/qinianzhi/">山醫七年制畢業十六週年誌兼懷濟南</a>
   <a href="/shigao/jiangchengzi/">江城子</a>
   <a href="/shigao/zhongqiu/">中秋</a>
+  <a href="/shigao/xiangchou/">鄉愁</a>
 </div>
  
