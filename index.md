@@ -26,17 +26,14 @@ header:
 
   <a href="/wenji/" class="section-card">
     <h2>文集</h2>
-    <p>信仰、歷史、社會</p>
   </a>
 
   <a href="/xinglv/" class="section-card">
     <h2>行旅</h2>
-    <p>山川、人文</p>
   </a>
 
   <a href="/shigao/" class="section-card">
     <h2>詩稿</h2>
-    <p>古體詩、現代詩</p>
   </a>
 
 </div>
