@@ -6,7 +6,7 @@ author_profile: false
 classes: poetry-page
 ---
 
-## 一個書生眼裡的基督   
+## 一個書生眼裡的基督    
 
 
 遠在天地未開闢，上帝之道卓然立。  
