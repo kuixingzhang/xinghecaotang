@@ -21,7 +21,7 @@ classes: poetry-page
     That when you're in love, it shows.
   </div>
   <div class="poem-zh">
-    愛到深處，情意難掩
+    愛到深處，情意難捺
   </div>
 
   <div class="poem-en">
@@ -45,7 +45,7 @@ classes: poetry-page
     That being kind is more important than being right.
   </div>
   <div class="poem-zh">
-    寧懷慈心，不矜自治
+    寧葆慈心，不矜自洽
   </div>
 
   <div class="poem-en">
@@ -117,7 +117,7 @@ classes: poetry-page
     That it's those small daily happenings that make life so spectacular.
   </div>
   <div class="poem-zh">
-    滑滑瑣事，生命之妙
+    涓涓瑣事，生命之妙
   </div>
 
   <div class="poem-en">
@@ -205,7 +205,7 @@ classes: poetry-page
     That I wish I could have told my Mom that I love her one more time before she passed away.
   </div>
   <div class="poem-zh">
-    無緣奉孝，中心憂惱
+    無緣奉孝，中心憂慟
   </div>
 
   <div class="poem-en">
@@ -245,7 +245,7 @@ classes: poetry-page
     That the less time I have to work with, the more things I get done.
   </div>
   <div class="poem-zh">
-    工時益少，工作益全
+    工時益少，工價益全
   </div>
 
 </div>
