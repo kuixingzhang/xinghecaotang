@@ -5,6 +5,7 @@ permalink: /shigao/woyishizhi/
 author_profile: false
 classes: poetry-page
 ---
+By Andy Rooney/草堂主人
 
 <div class="bilingual-poem">
 
