@@ -5,8 +5,6 @@ permalink: /wenji/xinyang/
 author_profile: false
 ---
 
-# 信仰
-
 <div class="poetry-grid">
   <a href="/wenji/xinyang/zhuensong/">主恩頌</a>
 </div>
