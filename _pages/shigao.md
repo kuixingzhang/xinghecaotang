@@ -44,5 +44,6 @@ author_profile: false
   <a href="/shigao/xiangzhi/">相知</a>
   <a href="/shigao/jiaren/">佳人</a>
   <a href="/shigao/haoqi/">豪氣</a>
+  <a href="/shigao/woyishizhi/">我已識之</a>
 </div>
  
