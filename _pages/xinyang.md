@@ -8,6 +8,7 @@ author_profile: false
 <div class="poetry-grid">
   <a href="/wenji/xinyang/zhuensong/">主恩頌</a>
   <a href="/wenji/xinyang/shengdansong/">聖誕頌</a>
+  <a href="/wenji/xinyang/jidujiao-fojiao/">基督教和佛教</a>
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
