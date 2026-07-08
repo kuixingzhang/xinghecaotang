@@ -6,7 +6,7 @@ author_profile: false
 classes: poetry-page
 ---
 
-## 一個書生眼裡的基督
+## 一個書生眼裡的基督   
 
 主造天地　六日齊備　七日安息　萬世不易  
 日月星辰　井然有序　鳥獸蟲魚　各從其類  
