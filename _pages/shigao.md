@@ -28,6 +28,7 @@ author_profile: false
   <a href="/shigao/jiangchengzi/">江城子</a>
   <a href="/shigao/zhongqiu/">中秋</a>
   <a href="/shigao/xiangchou/">鄉愁</a>
+  <a href="/shigao/bulaodexin/">不老的心</a>
   <a href="/shigao/youni/">有你</a>
   <a href="/shigao/likai/">你何曾離開過我</a>
   <a href="/shigao/xingfu/">曾以為幸福只在遠處</a>
