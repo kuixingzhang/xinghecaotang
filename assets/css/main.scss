@@ -51,19 +51,12 @@ body {
   display: none !important;
 }
 
-/* 篆書 Logo 容器 */
-.site-logo {
-  display: flex;
-  align-items: center;
-  margin-right: 1.5rem;
-}
-
 /* 篆書 Logo 圖片 */
 .site-logo img {
   display: block;
   width: auto;
-  height: 64px;
-  max-height: 64px;
+  height: 59px;
+  max-height: 59px;
   object-fit: contain;
 }
 
@@ -71,8 +64,8 @@ body {
 @media (max-width: 900px) {
 
   .site-logo img {
-    height: 54px;
-    max-height: 54px;
+    height: 50px;
+    max-height: 50px;
   }
 
   .greedy-nav {
@@ -84,8 +77,8 @@ body {
 @media (max-width: 600px) {
 
   .site-logo img {
-    height: 46px;
-    max-height: 46px;
+    height: 43px;
+    max-height: 43px;
   }
 
   .greedy-nav {
