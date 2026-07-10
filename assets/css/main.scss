@@ -33,10 +33,6 @@ body {
    頂部導航與篆書 Logo
 ========================================= */
 
-/* =========================================
-   頂部導航與篆書 Logo
-========================================= */
-
 .masthead {
   border-bottom: none;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
@@ -51,7 +47,7 @@ body {
 }
 
 /* 完全隱藏 Logo 旁邊原來的文字「星河草堂」 */
-.greedy-nav .site-title {
+#site-nav > a.site-title {
   display: none !important;
 }
 
