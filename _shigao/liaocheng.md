@@ -26,3 +26,7 @@ title: 同窗聚會於聊城並觀光岳樓及七賢祠
 立命先賢傳道統，一身儒術走天涯。\
 丹心不改追日月，魂魄無時忘中華。\
 若到知行合一處，征程何處不通達。
+
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/shigao/">← 返回詩稿目錄</a>
+</p>
