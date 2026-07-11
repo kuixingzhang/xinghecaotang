@@ -1,9 +1,6 @@
 main:
-  - title: "文集"
-    url: /posts/
-  - title: "行旅"
-    url: /categories/
-  - title: "詩稿"
-    url: /tags/
+  - title: "專業"
+    url: "https://drzhangpathology.com"
+
   - title: "關於"
     url: /about/

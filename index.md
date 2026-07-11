@@ -11,17 +11,13 @@ header:
 
 <div class="hero-intro">
 
-<p class="intro-text">
+<p>星河浩瀚，草堂卑微，渺予小子，偏居宇宙一隅，上下求索，得此方寸之地。</p>
 
-星河浩瀚，草堂卑微，渺予小子，偏居宇宙一隅，上下求索，得此方寸之地。<br><br>
+<p>耕之耘之，怡然自樂，名之曰星河草堂。</p>
 
-耕之耘之，怡然自樂，字之曰星河草堂。<br><br>
+<p>至若有朋自遠方來，談經論道，把酒言歡，快何如哉！</p>
 
-至若有朋自遠方來，談經論道，杯酒相慶，快何如哉！<br><br>
-
-惟願與二三子偕，同舟共濟，同氣相求，究天人之本末，傳風骨於無窮，豈不美與！是為記。
-
-</p>
+<p>偕二三子，同氣相求，究天人之本末，傳風骨於無窮，豈不美與！</p>
 
 </div>
 
@@ -29,28 +25,16 @@ header:
 
 <div class="home-sections">
 
-<div class="section-card">
-<h2>📚 文集</h2>
-<p>醫學、信仰、歷史、社會。</p>
-<a href="/categories/">進入文集</a>
-</div>
+  <a href="/wenji/" class="section-card">
+    <h2>文集</h2>
+  </a>
 
-<div class="section-card">
-<h2>🌍 行旅</h2>
-<p>記錄山川、人文與世界。</p>
-<a href="/travel/">進入行旅</a>
-</div>
+  <a href="/xinglv/" class="section-card">
+    <h2>行旅</h2>
+  </a>
 
-<div class="section-card">
-<h2>✒ 詩稿</h2>
-<p>古體詩、現代詩與隨筆。</p>
-<a href="/poetry/">進入詩稿</a>
-</div>
-
-<div class="section-card">
-<h2>👤 關於</h2>
-<p>關於作者，以及建立星河草堂的緣起。</p>
-<a href="/about/">了解更多</a>
-</div>
+  <a href="/shigao/" class="section-card">
+    <h2>詩稿</h2>
+  </a>
 
 </div>

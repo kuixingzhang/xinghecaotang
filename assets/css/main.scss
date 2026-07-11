@@ -1,11 +1,11 @@
 ---
 ---
 
-@use "minimal-mistakes" as *;
+@import "minimal-mistakes";
 
-/* ====================================
-   星河草堂
-==================================== */
+/* =========================================
+   星河草堂 · 全站基礎
+========================================= */
 
 body {
   background: #f8f6f1;
@@ -14,13 +14,81 @@ body {
     "Noto Serif SC",
     "Source Han Serif SC",
     "Songti SC",
+    Georgia,
     serif;
-  line-height: 2;
+  line-height: 1.9;
 }
 
-/* ====================================
-   Hero Banner
-==================================== */
+
+/* =========================================
+   頂部導航
+========================================= */
+
+.masthead {
+  border-bottom: none;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* =========================================
+   頂部導航與篆書 Logo
+========================================= */
+
+.masthead {
+  border-bottom: none;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* 導航欄 */
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  min-height: 84px;
+  background: #ffffff;
+}
+
+/* 完全隱藏 Logo 旁邊原來的文字「星河草堂」 */
+#site-nav > a.site-title {
+  display: none !important;
+}
+
+/* 篆書 Logo 圖片 */
+.site-logo img {
+  display: block;
+  width: auto;
+  height: 59px;
+  max-height: 59px;
+  object-fit: contain;
+}
+
+/* 平板 */
+@media (max-width: 900px) {
+
+  .site-logo img {
+    height: 50px;
+    max-height: 50px;
+  }
+
+  .greedy-nav {
+    min-height: 74px;
+  }
+}
+
+/* 手機 */
+@media (max-width: 600px) {
+
+  .site-logo img {
+    height: 43px;
+    max-height: 43px;
+  }
+
+  .greedy-nav {
+    min-height: 64px;
+  }
+}
+
+/* =========================================
+   Hero 星河草堂大圖
+========================================= */
 
 .page__hero {
   height: 72vh !important;
@@ -28,207 +96,328 @@ body {
 }
 
 .page__hero--overlay {
-  background-position: center;
   background-size: cover;
+  background-position: center center;
 }
 
 .page__hero-caption {
   display: none;
 }
 
-.page__hero .page__title {
-  font-size: 4.5rem;
-  letter-spacing: .15em;
-  font-weight: 700;
-  text-shadow: 0 5px 20px rgba(0,0,0,.55);
+/* 只隱藏 Hero Banner 上的大標題 */
+.page__hero--overlay .page__title,
+.page__hero--overlay h1 {
+  display: none !important;
 }
 
-/* ====================================
-   首页正文
-==================================== */
+
+/* =========================================
+   首頁正文區域
+========================================= */
 
 .page__content {
-  max-width: 980px;
-  margin: auto;
-  font-size: 1.25rem;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.hero-intro{
-    margin:4rem auto 5rem auto;
+
+/* =========================================
+   星河草堂序
+========================================= */
+
+.hero-intro p {
+  margin: 0 0 0.7rem 0;
+  font-size: 1.35rem;
+  line-height: 1.8;
+  text-align: left;
+  color: #333;
 }
 
-.intro-text{
-    font-size:2rem;
-    line-height:2.2;
-    text-align:center;
-    color:#333;
+.hero-intro p:last-child {
+  margin-bottom: 0;
 }
 
-.page__content hr{
-    margin:4rem auto;
-    width:80px;
+
+/* =========================================
+   首頁三張橫排卡片
+========================================= */
+
+.home-sections {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  width: 100%;
+  max-width: 1050px;
+  margin: 4rem auto 6rem;
+  padding: 0 1rem;
 }
 
-/* ====================================
-   四个卡片
-==================================== */
+.section-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-.home-sections{
+  min-width: 0;
+  min-height: 240px;
+  padding: 2rem;
 
-    display:grid;
+  text-align: center;
+  text-decoration: none !important;
+  color: inherit;
+  cursor: pointer;
 
-    grid-template-columns:repeat(4,1fr);
+  background: #ffffff;
+  border: 1px solid rgba(139, 109, 63, 0.18);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.07);
 
-    gap:2rem;
-
-    margin:4rem auto 6rem auto;
-
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease;
 }
 
-.section-card{
-
-    background:white;
-
-    border-radius:16px;
-
-    padding:2.5rem;
-
-    text-align:center;
-
-    box-shadow:0 8px 25px rgba(0,0,0,.08);
-
-    transition:.35s;
-
+.section-card:hover {
+  transform: translateY(-7px);
+  border-color: rgba(139, 109, 63, 0.45);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.13);
+  text-decoration: none !important;
 }
 
-.section-card:hover{
+.section-card h2 {
+  margin: 0;
+  padding: 0;
 
-    transform:translateY(-10px);
-
-    box-shadow:0 20px 45px rgba(0,0,0,.15);
-
+  color: #2b2b2b;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.1em;
 }
 
-.section-card h2{
-
-    font-size:1.8rem;
-
-    margin-bottom:1rem;
-
+.section-card:hover h2 {
+  color: #8b6d3f;
 }
 
-.section-card p{
 
-    color:#666;
+/* =========================================
+   平板
+========================================= */
 
-    min-height:4rem;
+@media (max-width: 900px) {
 
+  .page__hero {
+    height: 55vh !important;
+    min-height: 420px;
+  }
+
+  .home-sections {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.2rem;
+  }
+
+  .section-card {
+    min-height: 190px;
+    padding: 1.5rem 1rem;
+  }
+
+  .section-card h2 {
+    font-size: 1.8rem;
+  }
 }
 
-.section-card a{
 
-    display:inline-block;
+/* =========================================
+   手機
+========================================= */
 
-    margin-top:1rem;
+@media (max-width: 600px) {
 
-    padding:.7rem 1.8rem;
+  .page__hero {
+    height: 42vh !important;
+    min-height: 300px;
+  }
 
-    border-radius:30px;
+  .hero-intro {
+    margin: 3rem auto;
+    padding: 0 1rem;
+  }
 
-    border:1px solid #333;
+  .home-sections {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin-top: 3rem;
+  }
 
-    text-decoration:none;
+  .section-card {
+    min-height: 150px;
+    padding: 1.5rem;
+  }
 
-    color:#333;
-
-    transition:.25s;
-
+  .section-card h2 {
+    font-size: 1.9rem;
+  }
 }
 
-.section-card a:hover{
 
-    background:#333;
+/* =========================================
+   底部區域
+========================================= */
 
-    color:white;
-
+/* 隱藏底部 Feed */
+.page__footer-follow {
+  display: none !important;
 }
 
-/* ====================================
-   导航栏
-==================================== */
-
-.masthead{
-
-    border-bottom:none;
-
-    box-shadow:0 1px 8px rgba(0,0,0,.05);
-
+/* 隱藏 Powered by Jekyll & Minimal Mistakes */
+.page__footer-copyright {
+  font-size: 0;
 }
 
-.greedy-nav{
-
-    background:white;
-
+/* 只顯示自己的版權 */
+.page__footer-copyright::after {
+  content: "© 2026 星河草堂";
+  font-size: 0.85rem;
 }
 
-.site-title{
-
-    font-weight:700;
-
-    letter-spacing:.08em;
-
+/* 隱藏文章底部 Previous / Next 導航 */
+.pagination {
+  display: none !important;
 }
 
-/* ====================================
-   手机
-==================================== */
 
-@media(max-width:900px){
+/* =========================================
+   詩稿兩欄目錄
+========================================= */
 
-.home-sections{
-
-grid-template-columns:repeat(2,1fr);
-
+.poetry-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem 3rem;
+  margin-top: 2rem;
+  max-width: 800px;
 }
 
-.page__hero{
-
-height:50vh!important;
-
+.poetry-grid a {
+  display: block;
+  padding: 0.7rem 0;
+  color: #4f8fa8;
+  font-size: 1.15rem;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(139, 109, 63, 0.18);
 }
 
-.page__hero .page__title{
-
-font-size:3rem;
-
+.poetry-grid a:hover {
+  color: #8b6d3f;
 }
 
-.intro-text{
+/* 手機自動變成一欄 */
+@media (max-width: 600px) {
 
-font-size:1.5rem;
-
+  .poetry-grid {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
 }
 
+
+/* =========================================
+   文集分類目錄
+========================================= */
+
+.essay-category-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+  max-width: 850px;
 }
 
-@media(max-width:600px){
+.essay-category-card {
+  display: block;
+  padding: 1.8rem 2rem;
+  background: #ffffff;
+  border: 1px solid rgba(139, 109, 63, 0.18);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+  text-decoration: none !important;
 
-.home-sections{
-
-grid-template-columns:1fr;
-
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
 }
 
-.page__content{
-
-font-size:1.05rem;
-
+.essay-category-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(139, 109, 63, 0.45);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.10);
 }
 
-.intro-text{
-
-font-size:1.2rem;
-
+.essay-category-card h2 {
+  margin: 0 0 0.6rem;
+  color: #4f8fa8;
+  font-size: 1.4rem;
 }
 
+.essay-category-card p {
+  margin: 0;
+  color: #666666;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+/* 手機自動變成一欄 */
+@media (max-width: 600px) {
+
+  .essay-category-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* =========================================
+   詩稿頁
+========================================= */
+
+/* 詩稿頁隱藏 Updated 日期 */
+.poetry-page .page__meta {
+  display: none !important;
+}
+
+
+/* =========================================
+   雙語詩歌
+========================================= */
+
+.bilingual-poem {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(12rem, 1fr);
+  gap: 1.4rem 2.5rem;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.poem-en {
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.poem-zh {
+  font-size: 1.15rem;
+  line-height: 1.8;
+  font-weight: 600;
+}
+
+@media (max-width: 700px) {
+
+  .bilingual-poem {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+
+  .poem-zh {
+    margin-bottom: 1.5rem;
+  }
 }
