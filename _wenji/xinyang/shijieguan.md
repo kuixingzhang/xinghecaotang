@@ -56,3 +56,8 @@ header:
 ---
 
 ![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg){: .align-center width="80%" }
+
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/wenji/xinyang/">← 返回信仰目錄</a>
+</p>
+
