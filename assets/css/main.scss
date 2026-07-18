@@ -426,3 +426,9 @@ body {
 .page__meta {
   display: none;
 }
+
+.page__content {
+    max-width: 760px;
+    margin: 0 auto;
+    line-height: 2.1;
+    font-size: 1.12rem;
