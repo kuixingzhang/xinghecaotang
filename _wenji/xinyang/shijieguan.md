@@ -1,7 +1,7 @@
 ---
 title: "基督教與無神論世界觀的比較"
 date: 2026-07-17
-permalink: wenji/xinyang/jidujiao/
+permalink: wenji/xinyang/shijieguan/
 categories:
   - 信仰
 ---
