@@ -1,9 +1,13 @@
 ---
+layout: single
 title: "基督教與無神論世界觀的比較"
 date: 2026-07-17
-permalink: wenji/xinyang/shijieguan/
-categories:
-  - 信仰
+permalink: /wenji/xinyang/shijieguan/
+classes: wide
+author_profile: false
+toc: false
+header:
+  overlay_filter: 0
 ---
 
 # 基督教與無神論世界觀的比較
