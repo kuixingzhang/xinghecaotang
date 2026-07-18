@@ -421,3 +421,8 @@ body {
     margin-bottom: 1.5rem;
   }
 }
+
+/* Hide article date/footer */
+.page__meta {
+  display: none;
+}
