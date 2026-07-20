@@ -26,7 +26,7 @@ header:
 
 
 <div style="text-align:center; margin:2em 0;">
-  <img src="{{ '/assets/image/wenji/taitainike.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/wenji/taitainike.jpg' | relative_url }}"
        alt="泰坦尼克號沉沒"
        style="max-width:100%; border-radius:8px;">
 </div>
