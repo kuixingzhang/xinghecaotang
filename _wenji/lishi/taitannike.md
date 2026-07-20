@@ -1,13 +1,12 @@
 ---
-title: "泰坦尼克號"
+layout: single
+title: "三艘船，一場改變世界的海難——泰坦尼克號、加利福尼亞號與卡帕西亞號"
 date: 2026-07-19
-categories:
-  - 文集
-  - 歷史
-tags:
-  - 泰坦尼克號
-  - 海難
-  - 航海史
+permalink: /wenji/lishi/taitannike/
+author_profile: false
+toc: false
+header:
+  overlay_filter: 0
 ---
 
 1912年4月15日凌晨，北大西洋（**North Atlantic Ocean**）的寒夜中，**泰坦尼克號**（**RMS Titanic**，**Royal Mail Ship Titanic**，皇家郵政郵輪）在首航途中撞上冰山，最終沉沒。這場海難奪去了約1500人的生命，也因為另外兩艘船的不同命運，成為航海史上最值得反思的一頁。
