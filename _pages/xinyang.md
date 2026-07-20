@@ -10,6 +10,7 @@ author_profile: false
   <a href="/wenji/xinyang/shengdansong/">聖誕頌</a>
   <a href="/wenji/xinyang/jidujiao-fojiao/">基督教和佛教</a>
   <a href="/wenji/xinyang/shijieguan/">基督教與無神論世界觀的比較</a>
+  <a href="/wenji/xinyang/shendeling/">不是倚靠勢力，不是倚靠才能</a>
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
