@@ -1,7 +1,7 @@
 ---
 title: "歷史"
 layout: collection
-permalink: /_wenji/lishi/
+permalink: /wenji/lishi/
 collection: posts
 entries_layout: list
 taxonomy: categories
