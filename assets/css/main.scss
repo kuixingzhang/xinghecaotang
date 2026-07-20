@@ -422,13 +422,15 @@ body {
   }
 }
 
-/* Hide article date/footer */
+   /* Hide article metadata */
 .page__meta {
-  display: none;
+    display: none;
 }
 
+/* Narrow article width */
 .page__content {
     max-width: 760px;
     margin: 0 auto;
     line-height: 2.1;
     font-size: 1.12rem;
+}
