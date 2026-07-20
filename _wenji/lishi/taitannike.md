@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "三艘船，一場改變世界的海難——泰坦尼克號、加利福尼亞號與卡帕西亞號"
+title: "三艘船，一場改變世界的海難"
 date: 2026-07-19
 permalink: /wenji/lishi/taitannike/
 author_profile: false
@@ -8,6 +8,8 @@ toc: false
 header:
   overlay_filter: 0
 ---
+泰坦尼克號、加利福尼亞號與卡帕西亞號
+
 1912年4月15日凌晨，北大西洋（North Atlantic Ocean）的寒夜中，泰坦尼克號（RMS Titanic，Royal Mail Ship Titanic，皇家郵政郵輪）在首航途中撞上冰山，最終沉沒。
 
 泰坦尼克號是當時世界上最大的豪華郵輪，被譽為「永不沉沒」的巨輪。1912年4月10日，它從英國南安普敦（Southampton, England）啟航，計劃駛往美國紐約市（New York City, United States），船上載有2200餘名乘客和船員。4月14日深夜11時40分，郵輪撞上冰山，經過約2小時40分鐘，於4月15日凌晨2時20分完全沉沒。由於救生艇數量不足，且許多救生艇未滿員便放下海，最終只有約705人獲救。
