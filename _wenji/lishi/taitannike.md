@@ -2,7 +2,7 @@
 layout: single
 title: "三艘船，一場改變世界的海難——泰坦尼克號、加利福尼亞號與卡帕西亞號"
 date: 2026-07-19
-permalink: /_wenji/lishi/taitannike/
+permalink: /wenji/lishi/taitannike/
 author_profile: false
 toc: false
 header:
