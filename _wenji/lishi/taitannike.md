@@ -24,12 +24,7 @@ header:
 
 同樣的海面，同樣的夜晚，三艘船作出了不同的選擇，也因此留下了截然不同的歷史評價。一艘成為災難的主角，一艘留下終身難以擺脫的遺憾，一艘則因無私的救援而永載史冊。
 
-
-<div style="text-align:center; margin:2em 0;">
-  <img src="{{ '/assets/images/wenji/taitainike.jpg' | relative_url }}"
-       alt="泰坦尼克號沉沒"
-       style="max-width:100%; border-radius:8px;">
-</div>
+![泰坦尼克號](/assets/images/wenji/taitannike.jpg)
 
 <div style="text-align:center; margin-top:2em;">
   <a href="{{ '/wenji/lishi/' | relative_url }}"
