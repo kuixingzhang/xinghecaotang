@@ -1,3 +1,4 @@
+---
 layout: single
 title: ""
 permalink: /xinglv/
