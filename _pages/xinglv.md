@@ -10,4 +10,5 @@ author_profile: false
 
 <div class="poetry-grid">
   <a href="/xinglv/shizi/">瑞士盧塞恩獅子紀念碑</a>
+  <a href="/xinglv/shaonvfeng/">阿爾卑斯山之巔──少女峰</a>
 </div>
