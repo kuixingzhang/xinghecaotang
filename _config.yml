@@ -88,6 +88,7 @@ author:
       url: "https://instagram.com/"
 
 defaults:
+defaults:
   # _posts
   - scope:
       path: ""
@@ -118,16 +119,16 @@ defaults:
 
   # _wenji
   - scope:
-    path: ""
-    type: wenji
-  values:
-    layout: single
-    author_profile: false
+      path: ""
+      type: wenji
+    values:
+      layout: single
+      author_profile: false
 
   # _xinglv
   - scope:
-    path: ""
-    type: xinglv
-  values:
-    layout: single
-    author_profile: false
+      path: ""
+      type: xinglv
+    values:
+      layout: single
+      author_profile: false
