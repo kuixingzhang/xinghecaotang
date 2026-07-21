@@ -57,8 +57,6 @@ toc: false
 
 ![少女峰](/assets/images/xinglv/shaonvfeng2.jpg)
 
-<div style="text-align:center; margin-top:2em;">
-
-[← 返回《行旅》](/xinglv/)
-
-</div>
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/xinglv/">← 返回行旅目錄</a>
+</p>
