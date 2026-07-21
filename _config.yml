@@ -117,7 +117,7 @@ defaults:
       author_profile: false
 
   # _wenji
-- scope:
+  - scope:
     path: ""
     type: wenji
   values:
@@ -125,7 +125,7 @@ defaults:
     author_profile: false
 
   # _xinglv
-- scope:
+  - scope:
     path: ""
     type: xinglv
   values:
