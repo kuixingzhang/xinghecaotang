@@ -1,6 +1,7 @@
 layout: single
 title: ""
 permalink: /xinglv/
+collection: xinglv
 author_profile: false
 ---
 
