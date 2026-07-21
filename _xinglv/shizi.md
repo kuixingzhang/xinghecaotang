@@ -37,8 +37,7 @@ toc: false
 
 ![瑞士盧塞恩獅子紀念碑](/assets/images/xinglv/shizi.jpg)
 
-<div style="text-align:center; margin-top:2em;">
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/xinglv/">← 返回行旅目錄</a>
+</p>
 
-[← 返回《行旅》](/xinglv/)
-
-</div>
