@@ -30,11 +30,7 @@ classes: poetry-page
 
 <div class="english-poem">
 
-Yesterday we chased our dreams as students;<br>
-Today, more than half a lifetime has quietly passed.<br>
-Time grants no second spring, and every road leads home.<br>
-All earthly things dissolve like mist,<br>
-yet memory still returns in dreams.
+Yesterday we chased our dreams as students; Today, more than half a lifetime has quietly passed.Time grants no second spring, and every road leads home.All earthly things dissolve like mist, yet memory still returns in dreams.
 
 <br>
 
