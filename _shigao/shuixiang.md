@@ -36,9 +36,7 @@ Clear waters shimmer beneath emerald trees;<br>
 old charm rises with the gentle breeze.<br>
 Though friends may meet but only a street apart,<br>
 distance alone refines the longing heart.
-
 <br><br>
-
 Affection rests where silent memories stay;<br>
 our boldest dreams drift farther every day.<br>
 I've crossed a thousand mountains, sailed each sea,<br>
