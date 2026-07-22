@@ -22,6 +22,30 @@ permalink: /shigao/shuixiang/
      alt="水鄉"
      style="max-width:100%; height:auto;">
 
+<h3>Water Town</h3>
+
+<div class="english-preface">
+
+My hometown is a small riverside town, where graceful bridges span quiet streams, ancient trees shade winding lanes, and old pavilions stand beside new buildings. Its streets are always alive with familiar faces, and its humble delicacies, elegant yet never extravagant, have remained the taste of my childhood. The closer one lives to home, the more easily its blessings are taken for granted; the farther one journeys, the more deeply its beauty is cherished.
+
+</div>
+
+<div class="english-poem">
+
+Clear waters shimmer beneath emerald trees;<br>
+old charm rises with the gentle breeze.<br>
+Though friends may meet but only a street apart,<br>
+distance alone refines the longing heart.
+
+<br><br>
+
+Affection rests where silent memories stay;<br>
+our boldest dreams drift farther every day.<br>
+I've crossed a thousand mountains, sailed each sea,<br>
+yet home is where my own still welcome me.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
