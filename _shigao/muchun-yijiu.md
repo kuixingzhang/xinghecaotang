@@ -25,11 +25,13 @@ classes: poetry-page
 
 ## Late Spring—Remembering Old Friends
 
-<div class="english-poem">
+<div class="english-preface">
 
 Yesterday we chased our dreams as students; today, more than half a lifetime has quietly passed. Time waits for no one, and every journey has but one destination. All things fade like drifting mist, yet memories still find their way into our dreams.
+</div>
+
 <br>
-<br>
+<div class="english-poem">
 The mists of Jinan enfold the fading spring,
 By Thousand Buddha Mountain, old friendships softly sing.
 <br><br>
