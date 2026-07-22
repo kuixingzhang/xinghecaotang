@@ -30,6 +30,33 @@ classes: poetry-page
      alt="鼓浪嶼印象"
      style="max-width:100%; height:auto;">
 
+<h3>Impressions of Gulangyu Island</h3>
+
+<div class="english-preface">
+
+A flight delay on my last journey back to China left me with an unexpected day in Xiamen, giving me the opportunity to visit the famed Gulangyu Island. Though covering less than two square kilometers, the island has produced an astonishing number of remarkable people, including Lin Yutang, Lin Qiaozhi, and Master Hongyi. It is also the birthplace of eight members of the Chinese Academy, and even one of my former leaders came from this tiny island.
+<br><br>
+Gulangyu is perhaps best remembered as the training ground from which Koxinga (Zheng Chenggong) launched his campaign to recover Taiwan, and, centuries later, as the final stop on the mainland before Chiang Kai-shek departed forever. From that farewell onward, homeland and exile became separated by history, and only the soul could someday find its way home.
+<br><br>
+Across the narrow strait, Xiamen and Kinmen still face one another. They stand like two outstretched hands of the same people—divided above the surface, yet beneath the sea their roots remain forever intertwined, beyond the power of history to sever.
+<br><br>
+The island is shaded by ancient trees, and on that day a gentle rain and soft breeze accompanied my climb to Sunlight Rock, where the old cannon batteries and the ancient temple quietly overlooked the sea.
+
+</div>
+<div class="english-poem">
+Green cloaks the isle beneath the southern sky;<br>
+Soft rain crowns Sunlight Rock where sea winds sigh.
+<br><br>
+Though shores lie near, two worlds are cast apart;<br>
+The surging waves bear home the longing heart.
+<br><br>
+A loyal soul once drove the northern foe;<br>
+A faithful heart still served the nation below.
+<br><br>
+Where exiles wept upon a distant shore;<br>
+When shall I call my homeland mine once more?
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
