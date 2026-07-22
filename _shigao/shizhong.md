@@ -46,7 +46,7 @@ classes: poetry-page
 
 <div class="english-preface">
 
-Some loves are never truly lost. They simply retreat into the quietest chambers of the heart, where memory grows gentler with the passing years. Youth may fade, dreams may surrender to time, yet somewhere a small clock still keeps the rhythm of a heart that once learned, for the very first time, how to love.
+Some loves are never truly lost. They simply retreat into the quietest chambers of the heart, where memory grows gentler with the passing years. 
 </div>
 
 <div class="english-poem">
