@@ -33,18 +33,22 @@ classes: poetry-page
 Yesterday we chased our dreams as students; Today, more than half a lifetime has quietly passed.Time grants no second spring, and every road leads home.All earthly things dissolve like mist, yet memory still returns in dreams.
 <br>
 
+<br><br>
 
 The mists of Qi enfold the fading spring,<br>
 By Buddha Hill, old friendships softly sing.
-<br>
+
+<br><br>
 
 Our youthful hearts still reached beyond the sky;<br>
 Our earnest words still longed to heal mankind.
-<br>
+
+<br><br>
 
 In dreams, dear friends still walk beside my way;<br>
 The winds awake—no road, yet souls still stray.
-<br>
+
+<br><br>
 
 Do not let the golden cup embrace the moon alone;<br>
 For every falling blossom is a friend I've always known.
