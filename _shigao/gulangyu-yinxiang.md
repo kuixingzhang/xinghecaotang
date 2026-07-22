@@ -44,8 +44,8 @@ The island is shaded by ancient trees, and on that day a gentle rain and soft br
 
 </div>
 <div class="english-poem">
-Green cloaks the isle beneath the southern sky;<br>
-Soft rain crowns Sunlight Rock where sea winds sigh.
+Green shades the isle beneath the southern sky;<br>
+Soft rain veils Sunlight Rock where sea winds sigh.
 <br><br>
 Though shores lie near, two worlds are cast apart;<br>
 The surging waves bear home the longing heart.
