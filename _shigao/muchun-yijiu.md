@@ -24,24 +24,36 @@ classes: poetry-page
 
 ![濟南同窗舊影](/assets/images/poetry/muchunyijiu.jpg)
 
-<div style="font-size:0.82em; line-height:1.75;">
+---
 
 ## Late Spring—Remembering Old Friends
-Yesterday we chased our dreams as students;
-Today, more than half a lifetime has quietly passed.
-Time grants no second spring, and every road leads home.
-All earthly things dissolve like mist, yet memory still returns in dreams.
 
-The mists of Qi enfold the fading spring,
+<div class="english-poem">
+
+Yesterday we chased our dreams as students;<br>
+Today, more than half a lifetime has quietly passed.<br>
+Time grants no second spring, and every road leads home.<br>
+All earthly things dissolve like mist,<br>
+yet memory still returns in dreams.
+
+<br>
+
+The mists of Qi enfold the fading spring,<br>
 By Buddha Hill, old friendships softly sing.
 
-Our youthful hearts still reached beyond the sky;
+<br>
+
+Our youthful hearts still reached beyond the sky;<br>
 Our earnest words still longed to heal mankind.
 
-In dreams, dear friends still walk beside my way;
+<br>
+
+In dreams, dear friends still walk beside my way;<br>
 The winds awake—no road, yet souls still stray.
 
-Do not let the golden cup embrace the moon alone;
+<br>
+
+Do not let the golden cup embrace the moon alone;<br>
 For every falling blossom is a friend I've always known.
 
 </div>
