@@ -438,15 +438,16 @@ body {
 /* English Poetry */
 
 .english-poem {
-  font-size: 0.82em;
-  line-height: 1.8;
+  font-size: 0.80em;
+  line-height: 1.9;
   color: #555;
+  font-style: italic;
   margin-top: 2rem;
 }
 
 .english-poem h3 {
-  font-size: 1.35em;
+  font-size: 1.25em;
+  font-style: normal;
   font-weight: 500;
-  margin-bottom: 1rem;
   color: #333;
 }
