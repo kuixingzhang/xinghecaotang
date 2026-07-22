@@ -37,22 +37,15 @@ Yesterday we chased our dreams as students; Today, more than half a lifetime has
 
 The mists of Qi enfold the fading spring,<br>
 By Buddha Hill, old friendships softly sing.
-
 <br><br>
-
 Our youthful hearts still reached beyond the sky;<br>
 Our earnest words still longed to heal mankind.
-
 <br><br>
-
 In dreams, dear friends still walk beside my way;<br>
 The winds awake—no road, yet souls still stray.
-
 <br><br>
-
 Do not let the golden cup embrace the moon alone;<br>
 For every falling blossom is a friend I've always known.
-
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
