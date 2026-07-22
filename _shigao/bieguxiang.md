@@ -37,15 +37,10 @@ classes: poetry-page
 <div class="english-preface">
 
 After my parents passed away, one after the other, I quietly found myself entering the age of destiny. While one's parents live, there is always a place to call home; now, I have become a child with no home to return to. Leaving is easy enough, but the burden and bitterness carried within the heart are known only to myself.
-
 <br><br>
-
 As I sorted through my parents' room, I found my elementary and high school diplomas. They had carefully preserved these simple certificates for decades—the silent witness to the eighteen years I spent under their roof.
-
 <br><br>
-
 From the airplane window, I looked down upon drifting clouds. They came without a trace and vanished without farewell, gathering and scattering beyond our grasp. Perhaps, in this fleeting life, all we ever truly possess is no more than these passing clouds.
-
 </div>
 
 <div class="english-poem">
