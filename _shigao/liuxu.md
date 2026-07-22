@@ -29,6 +29,7 @@ classes: poetry-page
 In the early summer of 2024, when blossoms had already fallen and willow seeds drifted through the warm air, I returned home to visit my father as he recovered from COVID-19 and to restore my mother's fading sight through cataract surgery. I was reunited with old classmates, visited dear friends and former colleagues, and found myself grateful for every encounter, every trial, and the quiet faith God had placed within my heart. Yet amid all these blessings came a deeper awareness of how lonely and fragile every human journey can be.
 </div>
 
+
 <div class="english-poem">
 Beneath the summer sun I climbed the emerald height,<br>
 and searched the distant horizon, fading into light.<br>
