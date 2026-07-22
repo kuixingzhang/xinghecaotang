@@ -23,6 +23,25 @@ classes: poetry-page
      alt="繁花凋謝，柳絮飛揚"
      style="max-width:100%; height:auto;">
 
+<h3>Willow Fluff</h3>
+
+<div class="english-preface">
+In the early summer of 2024, when blossoms had already fallen and willow seeds drifted through the warm air, I returned home to visit my father as he recovered from COVID-19 and to restore my mother's fading sight through cataract surgery. I was reunited with old classmates, visited dear friends and former colleagues, and found myself grateful for every encounter, every trial, and the quiet faith God had placed within my heart. Yet amid all these blessings came a deeper awareness of how lonely and fragile every human journey can be.
+</div>
+
+<div class="english-poem">
+Beneath the summer sun I climbed the emerald height,<br>
+and searched the distant horizon, fading into light.<br>
+Though all the rivers of the world flow boundlessly and free,<br>
+one lonely cup is burden enough for me.
+<br><br>
+The blossoms fell, yet living green remained;<br>
+the willow drifted wherever wandered the wind.<br>
+So too the dreams that filled my younger days,<br>
+now settle softly into quiet haze.
+<br><br>
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
