@@ -27,17 +27,17 @@ classes: poetry-page
 
 <div class="english-poem">
 
-Yesterday we chased our dreams as students; Today, more than half a lifetime has quietly passed.Time grants no second spring, and every road leads home.All earthly things dissolve like mist, yet memory still returns in dreams.
+Yesterday we chased our dreams as students; today, more than half a lifetime has quietly passed. Time waits for no one, and every journey has but one destination. All things fade like drifting mist, yet memories still find their way into our dreams.
 <br>
 <br>
-The mists of Jinan enfold the fading spring,<br>
-By Thousands Buddha mountain, old friendships softly sing.
+The mists of Jinan enfold the fading spring,
+By Thousand Buddha Mountain, old friendships softly sing.
 <br><br>
-Our youthful hearts still reached beyond the sky;<br>
-Our earnest words still longed to heal mankind.
+Our youthful hearts still reached beyond the sky;
+Earnest words still held compassion high.
 <br><br>
-In dreams, dear friends still walk beside my way;<br>
-The winds awake—no road, yet souls still stray.
+In dreams, dear friends still walk beside my way;
+The winds hold no road, yet souls still stray.
 <br><br>
 Do not let the golden cup embrace the moon alone;<br>
 For every falling blossom is a friend I've always known.
