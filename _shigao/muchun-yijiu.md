@@ -24,6 +24,25 @@ classes: poetry-page
 
 ![濟南同窗舊影](/assets/images/poetry/muchunyijiu.jpg)
 
+Late Spring—Remembering Old Friends
+
+Yesterday we chased our dreams as students;
+Today, more than half a lifetime has quietly passed.
+Time grants no second spring, and every road leads home.
+All earthly things dissolve like mist, yet memory still returns in dreams.
+
+The mists of Qi enfold the fading spring,
+By Buddha Hill, old friendships softly sing.
+
+Our youthful hearts still reached beyond the sky;
+Our earnest words still longed to heal mankind.
+
+In dreams, dear friends still walk beside my way;
+The winds awake—no road, yet souls still stray.
+
+Do not let the golden cup embrace the moon alone;
+For every falling blossom is a friend I've always known.
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
