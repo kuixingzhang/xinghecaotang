@@ -30,8 +30,8 @@ classes: poetry-page
 Yesterday we chased our dreams as students; Today, more than half a lifetime has quietly passed.Time grants no second spring, and every road leads home.All earthly things dissolve like mist, yet memory still returns in dreams.
 <br>
 <br>
-The mists of Qi enfold the fading spring,<br>
-By Buddha Hill, old friendships softly sing.
+The mists of Jinan enfold the fading spring,<br>
+By Thousands Buddha mountain, old friendships softly sing.
 <br><br>
 Our youthful hearts still reached beyond the sky;<br>
 Our earnest words still longed to heal mankind.
