@@ -31,13 +31,13 @@ Yesterday we chased our dreams as students; today, more than half a lifetime has
 </div>
 <br>
 <div class="english-poem">
-The mists of Jinan enfold the fading spring,
+The mists of Jinan enfold the fading spring,<br>
 By Thousand Buddha Mountain, old friendships softly sing.
 <br><br>
-Our youthful hearts still reached beyond the sky;
+Our youthful hearts still reached beyond the sky;<br>
 Earnest words still held compassion high.
 <br><br>
-In dreams, dear friends still walk beside my way;
+In dreams, dear friends still walk beside my way;<br>
 The winds hold no road, yet souls still stray.
 <br><br>
 Do not let the golden cup embrace the moon alone;<br>
