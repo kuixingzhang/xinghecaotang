@@ -24,14 +24,9 @@ classes: poetry-page
 
 ![濟南同窗舊影](/assets/images/poetry/muchunyijiu.jpg)
 
-<hr>
+<div style="font-size:0.82em; line-height:1.75;">
 
-<h3 style="margin-top:2rem; margin-bottom:1rem;">
-Late Spring—Remembering Old Friends
-</h3>
-
-<div style="font-size:0.82em; line-height:1.8;">
-
+## Late Spring—Remembering Old Friends
 Yesterday we chased our dreams as students;
 Today, more than half a lifetime has quietly passed.
 Time grants no second spring, and every road leads home.
