@@ -40,19 +40,15 @@ yet memory still returns in dreams.
 
 The mists of Qi enfold the fading spring,<br>
 By Buddha Hill, old friendships softly sing.
-
 <br>
 
 Our youthful hearts still reached beyond the sky;<br>
 Our earnest words still longed to heal mankind.
-
 <br>
 
 In dreams, dear friends still walk beside my way;<br>
 The winds awake—no road, yet souls still stray.
-
 <br>
-
 Do not let the golden cup embrace the moon alone;<br>
 For every falling blossom is a friend I've always known.
 
