@@ -24,7 +24,13 @@ classes: poetry-page
 
 ![濟南同窗舊影](/assets/images/poetry/muchunyijiu.jpg)
 
+<hr>
+
+<h3 style="margin-top:2rem; margin-bottom:1rem;">
 Late Spring—Remembering Old Friends
+</h3>
+
+<div style="font-size:0.82em; line-height:1.8;">
 
 Yesterday we chased our dreams as students;
 Today, more than half a lifetime has quietly passed.
@@ -42,6 +48,8 @@ The winds awake—no road, yet souls still stray.
 
 Do not let the golden cup embrace the moon alone;
 For every falling blossom is a friend I've always known.
+
+</div>
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
