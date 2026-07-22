@@ -47,9 +47,7 @@ From the airplane window, I looked down upon drifting clouds. They came without 
 
 The kindly earth now holds what I was living for;<br>
 The old home stands, but welcomes me no more.
-
 <br><br>
-
 With tears and bows, I take my final flight;<br>
 Like drifting clouds, I fade beyond your sight.
 
