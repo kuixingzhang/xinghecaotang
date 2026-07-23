@@ -17,6 +17,30 @@ classes: poetry-page
 
 ![北美華醫2023年洛城年會有感](/assets/images/poetry/beimeihuayi.jpg)
 
+<h3>A Summer Gathering in Los Angeles</h3>
+
+<div class="english-preface">
+
+July in Los Angeles was blessed with gentle breezes, more like spring than midsummer. It was my first time attending the annual meeting of the Chinese American Medical Association, where I experienced an atmosphere of warmth, openness, and remarkable diversity. Looking back at the photographs afterward, what remained most vividly was not only the conference itself, but the comforting feeling of having come home. My heartfelt gratitude goes to the organizers and volunteers whose generous service made the gathering possible.
+
+</div>
+
+<div class="english-poem">
+
+Though summer crowned the city bright,<br>
+Spring lingered softly in the light.<br>
+
+Old friends returned with smiling face;<br>
+New hearts were welcomed into grace.<br>
+
+Ideas flowed free from soul to soul;<br>
+Each voice enriched the living whole.<br>
+
+We left with home still in our hearts;<br>
+Next spring begins where friendship starts.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
