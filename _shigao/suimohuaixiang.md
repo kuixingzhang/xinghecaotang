@@ -20,6 +20,30 @@ date: "2020-12-24"
 
 ![破陣子 · 歲末懷鄉](/assets/images/poetry/suimohuaixiang.jpg)
 
+<h3>Christmas Eve, Far from Home</h3>
+
+<div class="english-preface">
+
+Written on Christmas Eve, 2020. As the COVID-19 pandemic swept across the world, travel came to a standstill and families remained separated. Unable to return to China, I found myself longing for my hometown more than ever. This lyric reflects that quiet homesickness, sustained only by memory and dreams.
+
+</div>
+
+<div class="english-poem">
+
+One drifting boat still waits beside the shore;<br>
+The old house calls as softly as before.<br>
+
+Red maples fade beyond the empty sky;<br>
+Ten thousand waves divide where I must lie.<br>
+
+The world fell still as unseen sickness came;<br>
+Like caged birds, all were prisoners the same.<br>
+
+Only in dreams I found my homeland's door;<br>
+Yet waking left me longing all the more.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
