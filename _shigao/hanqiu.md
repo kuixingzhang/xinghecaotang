@@ -17,6 +17,30 @@ classes: poetry-page
 
 ![寒秋](/assets/images/poetry/hanqiu.jpg)
 
+<h3>Late Autumn</h3>
+
+<div class="english-preface">
+
+A gentle autumn rain drifted across the mountains, veiling the hills in mist. Standing alone in the chill of late autumn, I watched crimson leaves fall while realizing that life itself is an endless journey. Youth passes swiftly, and the homeland grows ever more distant. I wrote this poem to preserve that quiet moment.
+
+</div>
+
+<div class="english-poem">
+
+Soft autumn rain embraced the silent hill;<br>
+The drifting mist made every moment still.<br>
+
+Red leaves surrendered to the restless breeze;<br>
+Like wandering hearts that never truly cease.<br>
+
+Our years drift by like autumn streams;<br>
+Each road we leave dissolves to dreams.<br>
+
+Where shall I go beneath the fading sky?<br>
+The evening tide draws my homeland nigh.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
