@@ -47,6 +47,14 @@ classes: poetry-page
 
 ![長歌行](/assets/images/poetry/changgexing.jpg)
 
+<h3>No Road Home</h3>
+
+<div class="english-preface">
+Spring had returned, and the earth awakened once more. The Winter Olympics had just ended, yet the echoes of war still lingered across the world. Peace, so often desired, remained fragile.
+
+Then came the story of the chained woman in Xuzhou. It stirred a wave of public grief and disbelief, raising questions that no official explanation could easily silence. Long after the headlines faded, the unease remained. I found no peace until these thoughts were given voice in verse.
+
+</div>
 <div class="english-poem">
 
 Each dawn arrived yet never brought me back;<br>
@@ -120,6 +128,30 @@ Mount Emei glowed beneath the fading night.<br>
 
 Purple clouds drifted through the endless sky;<br>
 I met the saints—but not my father's eyes.<br><br>
+
+The immortals heard my silent plea;<br>
+They stirred the world to look and speak for me.<br>
+
+My native voice, my hair, my face remained;<br>
+At last my true identity was claimed.<br>
+
+The lies stood firm where truth should long have led;<br>
+They painted white what should have stained them red.<br>
+
+Though truth stood clear for every eye to see;<br>
+They knew my face—but would not name it me.<br><br>
+
+Though countless voices rose, more walls were raised;<br>
+Their words were chained, their every whisper erased.<br>
+
+My heart had frozen long beyond all pain;<br>
+I wished to see my father once again.<br>
+
+I turned to gaze upon the world below;<br>
+Only mist remained where home should glow.<br>
+
+A thousand roads were made for all to roam;<br>
+But which one leads me back to my own home?
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
