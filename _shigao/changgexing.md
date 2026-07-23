@@ -47,6 +47,45 @@ classes: poetry-page
 
 ![長歌行](/assets/images/poetry/changgexing.jpg)
 
+<div class="english-poem">
+
+Each dawn arrived yet never brought me back;<br>
+Each night returned with sorrow on its track.<br>
+
+One reckless blow unmade my former days;<br>
+One stolen road became a lifelong maze.<br>
+
+I wandered far where no kind voices stayed;<br>
+A lone bird sang while all my hope decayed.<br>
+
+When every wound had stripped my soul laid bare,<br>
+I learned the world had never known me there.,<br><br>
+
+A stranger's road became my prison wall;<br>
+I crossed its gate—and never left at all.<br>
+
+The law stood mute, while wolves were free to reign;<br>
+Each face I met looked calmly past my pain.<br>
+
+The hands that swore to guard instead betrayed;<br>
+Their silence bound me deeper every day.<br>
+
+Through endless nights my body ceased to be;<br>
+Eight children came, yet none could set me free.<br><br>
+
+My teeth were gone; my wounded tongue fell still,<br>
+Yet Heaven spared the likeness of my will.<br>
+
+They broke the flesh, but reached no deeper part;<br>
+Their chains could bind my hands—not all my heart.<br>
+
+The crowds rejoiced beneath triumphant skies;<br>
+I watched their glory through forgotten eyes.<br>
+
+They crowned an age of glory, pride, and fame;<br>
+In chains I lived, forgotten without name.<br><br>
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
