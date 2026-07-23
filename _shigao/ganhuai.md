@@ -21,6 +21,42 @@ classes: poetry-page
 
 ![感懷](/assets/images/poetry/ganhuai.jpg)
 
+<h3>Reflections</h3>
+
+<div class="english-preface">
+
+Written as the pandemic came to an end and national borders reopened. It was also Physicians' Day in the United States. After more than twenty years apart, I was reunited with classmates from medical school who now practice medicine across America. My thoughts also turned to my parents, family, and friends back in my hometown. Every reunion is a gift, and every passing day deserves to be cherished.
+
+</div>
+
+<div class="english-poem">
+
+No hand can choose the road we tread;<br>
+Fate writes in ink no heart has read.<br>
+
+We meet, we part, then drift once more;<br>
+Time leaves us changed from years before.<br>
+
+Three silent years enclosed the land;<br>
+No loved one crossed the waiting strand.<br>
+
+The body stayed where walls confined;<br>
+The old world wandered through the mind.<br>
+
+The dreams that once outsoared the sky<br>
+Now rest like dust where seasons lie.<br>
+
+The hours flow on, the years depart;<br>
+Each passing spring reshapes the heart.<br>
+
+Beyond the hills my homeland stays;<br>
+Its clouds still fill my inward gaze.<br>
+
+When blossoms fall through evening air,<br>
+Love lingers on—and leads me there.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
