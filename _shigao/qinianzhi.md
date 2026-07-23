@@ -25,6 +25,54 @@ classes: poetry-page
 
 ![山醫七年制畢業十六週年誌兼懷濟南](/assets/images/poetry/qinianzhi.jpg)
 
+<h3>Remembering Jinan</h3>
+
+<div class="english-preface">
+
+Written on the sixteenth anniversary of graduating from the seven-year medical program at Shandong Medical University. Looking back on youth in Jinan, years of medical training, a career that led across the Pacific, and an enduring longing for home.
+
+</div>
+
+<div class="english-poem">
+
+As boys we left our homes with hopeful eyes;<br>
+In Jinan met where youthful promise lies.<br>
+
+The hills stood green, the Yellow River wide;<br>
+Its rolling clouds became our constant guide.<br>
+
+We sought old wisdom written through the years;<br>
+Great minds became the voices in our ears.<br>
+
+We climbed Mount Tai above the morning light;<br>
+And found stillness where Lingyan crowned the height.<br><br>
+
+Seven years passed like pages turned by air;<br>
+Sixteen have flown beyond our youthful care.<br>
+
+Once shy at parting, scarcely fully grown;<br>
+Now children gather where our seeds were sown.<br>
+
+We chose the healer's path without retreat;<br>
+Its bitter herbs made every trial complete.<br>
+
+Through quiet toil we served both weak and strong;<br>
+The road was hard, yet hope endured along.<br><br>
+
+Across the seas we chased a wider sky;<br>
+Still home returned whenever dreams drew nigh.<br>
+
+Life hurried on through labor, loss, and gain;<br>
+My native fields still blossom after rain.<br>
+
+Like flowing rivers all our days depart;<br>
+Yet Jinan keeps its spring within my heart.<br>
+
+Where willow shades embrace the ancient streams,<br>
+I hope to end my days where memory dreams.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
