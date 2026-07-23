@@ -26,6 +26,55 @@ classes: poetry-page
 
 ![飄蓬](/assets/images/poetry/piaopeng.jpg)
 
+<h3>Drifting Thistledown</h3>
+
+<div class="english-preface">
+
+The dreams of youth seek to embrace the world; adulthood spreads its wings, only to discover the weight of responsibility. With advancing years comes a quieter heart. Birth and death, gain and loss, meeting and parting belong alike to every soul. We cannot escape them, yet we need not be ruled by them. If we let go of greed, resentment, and pride, and walk each day in the gentle companionship of the Holy Spirit, perhaps life itself becomes a peaceful pilgrimage.
+
+</div>
+
+<div class="english-poem">
+
+The generations fade, yet time rolls on;<br>
+Truth quietly outlives us, one by one.<br>
+
+We dream to bear the world while we are young;<br>
+Age teaches songs no youthful heart has sung.<br>
+
+Old grief began long before our first breath;<br>
+Still every road leads onward, not to death.<br>
+
+The earth lies silent underneath our feet;<br>
+The passing wind repeats a rhythm sweet.<br>
+
+I chased the edge of every distant sky;<br>
+One backward glance revealed the reason why.<br>
+
+The Holy Spirit never dwells afar;<br>
+He breathes within us, nearer than the stars.<br>
+
+Let wisdom grow where no harsh chains confine;<br>
+A faithful life outlives the bounds of time.<br>
+
+Like running streams, let earthly riches flow;<br>
+Love blooms where coins could never hope to grow.<br>
+
+Who thinks that wealth can purchase kindred hearts,<br>
+Has never learned where lasting treasure starts.<br>
+
+Youth is a guest who never chooses stay;<br>
+Fame is a shadow fading into gray.<br>
+
+How swift the years! Before we understand,<br>
+White hair has come with quiet, gentle hand.<br>
+
+And what are we beneath the endless sky?<br>
+Drifting thistledown... and homeward still we fly.
+
+</div>
+
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
