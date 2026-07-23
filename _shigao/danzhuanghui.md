@@ -34,31 +34,26 @@ The Fourth Annual Pathology Conference at Geisinger was held in the beautiful to
 
 The road reached farther than the eye,<br>
 The western wind became my guide.<br>
-
 Through miles of dust and changing skies,<br>
 Like drifting leaves, we onward ride.<br>
 
 At dawn I left the Pacific shore;<br>
 By dusk, Danville had come in sight.<br>
-
 Where gifted minds from every land<br>
 Met face to face in shared delight.<br>
 
 The search for truth knows not an end;<br>
 Each soul perfects a different art.<br>
-
 The masters spoke with quiet strength,<br>
 Their wisdom echoed through the heart.<br>
 
 Each word resounded deep within,<br>
 Like bronze bells ringing clear and long.<br>
-
 Fresh insight crowned the waiting mind,<br>
 And turned new knowledge into song.<br>
 
 Old friends embraced with grateful smiles;<br>
 Our endless conversations flowed.<br>
-
 Until we meet another year,<br>
 May every journey find this road.
 
