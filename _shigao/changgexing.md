@@ -109,17 +109,17 @@ No passing face escaped their strict command.<br>
 Yet when a daughter disappeared one day,<br>
 No soul was sent to trace her stolen way.<br><br>
 
-Bound by an iron collar, still as stone;<br>
-Only in dreams my father led me home.<br>
+Bound by an iron collar, day by day;<br>
+Only in dreams my father found the way.<br>
 
-My life grew frail, a thread about to part;<br>
-Who walks beside a solitary heart?<br>
+My life hung by the thinnest thread of air;<br>
+Who waits beyond when no one meets me there?<br>
 
-In dreams I saw my native hills once more,<br>
-Where spring adorned Mount Emei's emerald shore.<br>
+I dreamed of Sichuan wrapped in springtime light;<br>
+Mount Emei glowed beneath the fading night.<br>
 
-Through drifting clouds I searched the silent sky;<br>
-I found no father—only souls nearby.v
+Purple clouds drifted through the endless sky;<br>
+I met the saints—but not my father's eyes.<br><br>
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
