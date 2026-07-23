@@ -17,6 +17,30 @@ classes: poetry-page
 
 ![九月遊太浩湖](/assets/images/poetry/taihaohu.jpg)
 
+<h3>September at Lake Tahoe</h3>
+
+<div class="english-preface">
+
+Lake Tahoe in September is beyond description. The mountains, graceful as though painted with delicate ink, rise above waters clear as jade. Peaceful and profound, the lake seems almost otherworldly. Cascading waterfalls pour from the cliffs with overwhelming force, while quiet streams wind gently through the forests. Standing amid such beauty, one cannot help but wonder what more life could possibly offer.
+
+</div>
+
+<div class="english-poem">
+
+Soft autumn winds awoke the crystal lake;<br>
+The clouds withdrew, and left a sky of blue.<br>
+
+The mountains veiled themselves in gentle grace;<br>
+The waters spread like silk adorned with dew.<br>
+
+White waterfalls broke silence into song;<br>
+Their echoes reached beyond the mountain's crest.<br>
+
+I lost the world, yet found a deeper peace—<br>
+Where earth and soul are gathered into rest.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
