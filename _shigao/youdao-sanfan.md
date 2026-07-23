@@ -20,6 +20,25 @@ classes: poetry-page
 
 ![浪淘沙·又到三藩](/assets/images/poetry/youdao-sanfan.jpg)
 
+<h3>To San Francisco, Once Again</h3>
+
+<div class="english-preface">
+
+Eighteen years have passed since I first arrived in America. The restless young cardiologist from China, convinced that life offered endless possibilities, has quietly become a pathologist who has learned to let many things go. The mentor who first brought me to San Francisco for a medical conference is no longer here, and classmates who once shared the same dreams now live scattered across the world. My homeland seems farther away with every passing year, yet my eternal home draws ever nearer. Seas become fields, fields return to seas; life slips by like waves smoothing the sand, like a river flowing endlessly toward the ocean.
+
+</div>
+
+<div class="english-poem">
+
+Years vanish softly, like mist on the bay;<br>
+I cross the Golden Gate, then turn away.<br>
+The smiles we shared still linger on in dreams;<br>
+Friends drift apart like stars beyond the streams.<br>
+My homeland fades; my truer home draws near—<br>
+The river flows, and leaves no yesterday here.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
