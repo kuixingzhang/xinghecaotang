@@ -33,7 +33,7 @@ The drifting mist made every moment still.<br>
 Red leaves surrendered to the restless breeze;<br>
 Like wandering hearts that never truly cease.<br>
 
-Our years drift by like autumn streams;<br>
+Our years drift by like quite streams;<br>
 Each road we leave dissolves to dreams.<br>
 
 Where shall I go beneath the fading sky?<br>
