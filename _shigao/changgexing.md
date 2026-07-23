@@ -84,7 +84,42 @@ I watched their glory through forgotten eyes.<br>
 
 They crowned an age of glory, pride, and fame;<br>
 In chains I lived, forgotten without name.<br><br>
-</div>
+
+The crowds acclaimed a young Olympian's name;<br>
+One nation lifted her to lasting fame.<br>
+
+We both were daughters beneath the selfsame sky;<br>
+One learned to soar, while one forgot to fly.<br>
+
+I too was cherished, safe from want or care;<br>
+My parents held me like a jewel rare.<br>
+
+One night I vanished, leaving not a trace;<br>
+No soul could ever find my hiding place.<br><br>
+
+My father searched through every road and plain;<br>
+Each rising dawn renewed his grief again.<br>
+
+His heart grew frail beneath unending pain;<br>
+In Heaven still he calls my name in vain.<br>
+
+A thousand watchful eyes surveyed the land;<br>
+No passing face escaped their strict command.<br>
+
+Yet when a daughter disappeared one day,<br>
+No soul was sent to trace her stolen way.<br><br>
+
+Bound by an iron collar, still as stone;<br>
+Only in dreams my father led me home.<br>
+
+My life grew frail, a thread about to part;<br>
+Who walks beside a solitary heart?<br>
+
+In dreams I saw my native hills once more,<br>
+Where spring adorned Mount Emei's emerald shore.<br>
+
+Through drifting clouds I searched the silent sky;<br>
+I found no father—only souls nearby.v
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
