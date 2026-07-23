@@ -48,7 +48,7 @@ classes: poetry-page
 ![長歌行](/assets/images/poetry/changgexing.jpg)
 
 <h3>No Road Home</h3>
-
+<p class="english-subtitle"><em>A Ballad</em></p>
 <div class="english-preface">
 Spring had returned, and the earth awakened once more. The Winter Olympics had just ended, yet the echoes of war still lingered across the world. Peace, so often desired, remained fragile.
 
