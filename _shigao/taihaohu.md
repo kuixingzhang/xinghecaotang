@@ -29,13 +29,11 @@ Lake Tahoe in September is beyond description. The mountains, graceful as though
 
 Soft autumn winds awoke the crystal lake;<br>
 The clouds withdrew, and left a sky of blue.<br>
-
 The mountains veiled themselves in gentle grace;<br>
-The waters spread like silk adorned with dew.<br>
+The waters spread like silk adorned with dew.<br><br>
 
 White waterfalls broke silence into song;<br>
 Their echoes reached beyond the mountain's crest.<br>
-
 I lost the world, yet found a deeper peace—<br>
 Where earth and soul are gathered into rest.
 
