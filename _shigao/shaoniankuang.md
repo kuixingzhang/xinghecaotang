@@ -23,7 +23,7 @@ My parents bought a pogo stick during one of my visits home. My children rarely 
 <div class="english-poem">
 
 Like a boy, I'm young once more,<br>
-On a pogo stick across the floor.
+On a pogo stick across the floor.<br>
 The children only laugh and play,<br>
 My soul is home though far away.<br>
 
