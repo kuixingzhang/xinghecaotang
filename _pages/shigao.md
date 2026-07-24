@@ -39,7 +39,6 @@ author_profile: false
   <a href="/shigao/shaoniankuang/">少年狂</a>
   <a href="/shigao/mingzhi/">明志</a>
   <a href="/shigao/cangsangyuejin/">滄桑閱盡</a>
-  <a href="/shigao/yongmei/">詠梅</a>
   <a href="/shigao/daotongxue/">悼同學並序</a>
   <a href="/shigao/wenchengxiang/">文丞相</a>
   <a href="/shigao/kongfuzi/">孔夫子</a>
