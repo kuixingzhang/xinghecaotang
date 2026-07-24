@@ -15,6 +15,22 @@ classes: poetry-page
 
 ![夏日觀雨](/assets/images/poetry/xiariguanyu.jpg)
 
+<h3>Summer Rain</h3>
+
+<div class="english-preface">
+Southern California had settled into its long dry season beneath cloudless skies. Then, without warning, lightning split the heavens and thunder rolled across the land, followed by torrents of rain. As I watched, memories drifted like mist, while the road ahead remained hidden. The world is passing through changes unseen in generations. Whether fortunate or unfortunate to live in such an age, one cannot help but ponder. These verses were written beneath the storm.
+
+<div class="english-poem">
+
+Half a day stolen from life's hurried stream,<br>
+I watched the summer rain dissolve the gleam.<br>
+Old memories rose like mist from silent ground,<br>
+While thunder called a future yet unfound.<br>
+The years still shimmer like a flowing tide,<br>
+Yet vanish in a moment as they glide.<br>
+The restless world still boils with noise and strife—<br>
+Who knew the desert blooms with altered life?<br>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
