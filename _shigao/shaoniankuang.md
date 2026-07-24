@@ -13,6 +13,20 @@ classes: poetry-page
 
 ![少年狂](/assets/images/poetry/shaoniankuang.jpg)
 
+<h3>A Boy Again</h3>
+
+<div class="english-preface">
+My parents bought a pogo stick during one of my visits home. My children rarely play with it, but I often do. Every bounce carries me back to my boyhood, and before I know it, my thoughts have already returned to my family, my friends, and the town where I grew up.
+
+</div>
+
+<div class="english-poem">
+
+Like a boy, I'm young once more,<br>
+On a pogo stick across the floor.
+The children only laugh and play,<br>
+My soul is home though far away.<br>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
