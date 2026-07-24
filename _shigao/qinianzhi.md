@@ -40,36 +40,48 @@ In Jinan met where youthful promise lies.<br>
 
 The hills stood green, the Yellow River wide;<br>
 Its rolling clouds became our constant guide.<br>
+<br>
 
 We sought old wisdom written through the years;<br>
 Great minds became the voices in our ears.<br>
 
 We climbed Mount Tai above the morning light;<br>
-And found stillness where Lingyan crowned the height.<br><br>
+And found stillness where Lingyan crowned the height.<br>
+<br>
 
 Seven years passed like pages turned by air;<br>
 Sixteen have flown beyond our youthful care.<br>
 
 Once shy at parting, scarcely fully grown;<br>
 Now children gather where our seeds were sown.<br>
+<br>
 
 We chose the healer's path without retreat;<br>
 Its bitter herbs made every trial complete.<br>
 
 Through quiet toil we served both weak and strong;<br>
-The road was hard, yet hope endured along.<br><br>
+The road was hard, yet hope endured along.<br>
+<br>
 
-Across the seas we chased a wider sky;<br>
-Still home returned whenever dreams drew nigh.<br>
+Across the seas we crossed to seek new light;<br>
+Life's altar called us onward through the night.<br>
 
 Life hurried on through labor, loss, and gain;<br>
 My native fields still blossom after rain.<br>
+<br>
 
 Like flowing rivers all our days depart;<br>
 Yet Jinan keeps its spring within my heart.<br>
 
-Where willow shades embrace the ancient streams,<br>
-I hope to end my days where memory dreams.
+Where willow shades embrace the ancient streams;<br>
+Lotus blossoms still return within my dreams.<br>
+<br>
+
+Old friends still gather where the rivers wind;<br>
+Soft songs still drift upon the evening wind.<br>
+
+When all is done and worldly journeys cease,<br>
+I'll seek my native hills in quiet peace.
 
 </div>
 
