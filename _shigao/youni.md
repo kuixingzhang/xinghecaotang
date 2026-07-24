@@ -54,9 +54,7 @@ Without You, hope slowly slipped away;  <br>
 Life had no dawn beyond the gray.  <br>
 Death offered neither rest nor grace,  <br>
 Only silence without a face.<br>
-
----
-
+<br>
 Now with You, my spirit lives anew;  <br>
 Every burden fades from view.  <br>
 Hands once weary, heart once worn,  <br>
