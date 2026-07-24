@@ -19,7 +19,7 @@ classes: poetry-page
 
 <div class="english-preface">
 Southern California had settled into its long dry season beneath cloudless skies. Then, without warning, lightning split the heavens and thunder rolled across the land, followed by torrents of rain. As I watched, memories drifted like mist, while the road ahead remained hidden. The world is passing through changes unseen in generations. Whether fortunate or unfortunate to live in such an age, one cannot help but ponder. These verses were written beneath the storm.
-
+</div>
 <div class="english-poem">
 
 Half a day stolen from life's hurried stream,<br>
