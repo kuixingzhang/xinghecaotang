@@ -16,6 +16,32 @@ classes: poetry-page
 
 ![江城子](/assets/images/poetry/jiangchengzi.jpg)
 
+<h3>To the Tune of Jiang Chengzi</h3>
+
+<div class="english-poem">
+
+Another time I dream the halls of college days,<br>
+Young classmates,<br>
+In youthful grace.<br>
+
+Before old Building Eight we strolled at ease,<br>
+Our laughter mingling with the summer breeze.<br>
+Time cannot hide the stories old and new;<br>
+Our tender hearts remain,<br>
+Though life's road fades from view.<br><br>
+
+Then suddenly fate drew us far apart;<br>
+I gaze toward home,<br>
+Gray gathers at my heart.<br>
+
+Across ten thousand miles our voices meet;<br>
+A few kind words make distant hearts complete.<br>
+May every year beneath the willow trees,<br>
+We meet again,<br>
+Our friendship never leaves.
+
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
