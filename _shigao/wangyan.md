@@ -35,6 +35,36 @@ classes: poetry-page
 
 ![望眼](/assets/images/poetry/wangyan.jpg)
 
+<h3>Longing for You</h3>
+<div class="english-poem">
+
+How often did I lift my eyes,<br>
+To glimpse Your face beyond the skies.<br>
+For years I searched with all my heart,<br>
+Yet one last step kept us apart.<br>
+The day I drifted far from You,<br>
+My soul broke loose and lost its view.<br>
+A slave to every vain desire,<br>
+Yet lonely still, my heart reached higher.<br>
+<br>
+I could not tell if I pursued,<br>
+Or fled from all I thought I knew.<br>
+Through joy and grief the years rolled by,<br>
+Like drifting clouds across the sky.<br>
+Sorrow closed on every side,<br>
+Yet quietly You walked beside.<br>
+Words could never tell it all,<br>
+Yet You remained through every fall.<br>
+<br>
+No more I wrestle with the wind,<br>
+Your faithful promise draws me in.<br>
+I followed deep love's quiet call,<br>
+For forty years You knew them all.<br>
+I gladly lay my whole life down,<br>
+For You, my firm and faithful ground.<br>
+Because You love me as I stand,<br>
+I'll place each day within Your hand.<br>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
