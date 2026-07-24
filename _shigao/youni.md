@@ -6,6 +6,7 @@ author_profile: false
 classes: poetry-page
 ---
 
+
 沒有你的日子，曾經目空一切。  
 只覺世事輕易，除非自己不屑。  
 
