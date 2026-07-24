@@ -24,7 +24,6 @@ Written while living far from home. Beneath the Mid-Autumn moon, distance seems 
 
 The evening sky grows high; new longing fills the night.<br>
 My dreams return to home before the morning light.<br>
-<br>
 
 Though duty called me far beyond my native shore,<br>
 The ones I love remain within my heart once more.<br>
@@ -32,12 +31,10 @@ The ones I love remain within my heart once more.<br>
 
 From distant homes the evening hearth-fires glow;<br>
 The ageless moon shines on the world below.<br>
-<br>
 
 Wherever we may build our lives apart,<br>
 One moon still binds us, heart to faithful heart.
 </div>
-
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
