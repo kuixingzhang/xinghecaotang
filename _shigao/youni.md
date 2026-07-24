@@ -39,12 +39,12 @@ Without You, all the world seemed mine to claim;  <br>
 Nothing appeared too hard to tame.  <br>
 Life looked simple, bright, and free—  <br>
 Unless my own heart disagreed.<br>
-
+<br>
 Without You, I searched both far and near;  <br>
 Through every voice I held most dear.  <br>
 I sought the truth with all my might,  <br>
 Yet never found life's guiding light.<br>
-
+<br>
 Without You, each step was hard to take;  <br>
 Though outward chains began to break,  <br>
 The storms within refused to cease;  <br>
