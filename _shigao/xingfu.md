@@ -32,6 +32,40 @@ classes: poetry-page
 
 ![曾以為幸福只在遠處](/assets/images/poetry/xingfu.jpg)
 
+<h3>Beyond the Horizon</h3>
+<div class="english-poem">
+
+I thought that joy was far away,<br>
+While sorrow ruled my every day.<br>
+My restless heart would not give in,<br>
+Yet love remained a place unseen.<br>
+<br>
+My days were never dull or slow,<br>
+Yet hidden chains would never go.<br>
+Hope and anguish walked as one;<br>
+Books declared, "Life must press on."<br>
+<br>
+I could not stop my wandering feet,<br>
+Still searching for a freedom sweet.<br>
+I crossed one hill, then crossed one more,<br>
+Yet found myself where I'd been before.<br>
+<br>
+The finest seasons slipped away;<br>
+Love never asked my heart to stay.<br>
+Each distant shore became my goal,<br>
+Yet no one waited at its soul.<br>
+
+I stood between despair and hope,<br>
+Too tired at last to climb the slope.<br>
+I searched the edge of earth and sky,<br>
+And watched my brightest visions die.<br>
+<br>
+Then quietly, within my heart,<br>
+Your gentle presence set apart.<br>
+Never distant, never gone,<br>
+You had been watching all along.<br>
+
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
