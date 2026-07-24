@@ -32,7 +32,7 @@ Though life's road fades from view.<br><br>
 
 Then suddenly fate drew us far apart;<br>
 I gaze toward home,<br>
-Gray gathers at my heart.<br>
+Soft moonlight veils my heart.<br>
 
 Across ten thousand miles our voices meet;<br>
 A few kind words make distant hearts complete.<br>
