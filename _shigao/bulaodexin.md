@@ -30,6 +30,40 @@ classes: poetry-page
 
 ![不老的心](/assets/images/poetry/bulaodexin.jpg)
 
+<h3>An Ageless Heart</h3>
+
+<div class="english-poem">
+
+My heart has never yielded unto years,<br>
+Though time has long since learned the art of flight.<br>
+The boy who chased tomorrow without fears<br>
+Now greets the dawn with hair of silver white.<br>
+<br>
+
+The worth of every journey lies far more<br>
+Than victories or losses keeping score.<br>
+No passing year can steal what I have known:<br>
+My dearest homeland still remains my own.<br>
+<br>
+
+It waves to me whenever dreamlands bloom,<br>
+And through the eyes that still await my home.<br>
+I leave behind California's golden noon<br>
+To cross the ocean's wide and restless foam.<br>
+<br>
+
+Come walk with me where Bright Lake greets the breeze,<br>
+Where laughing springs still sing beneath the trees;<br>
+Where evening fishermen recall old songs,<br>
+And mist and sunset drift the hills along.<br>
+<br>
+
+We'll share roast chicken, skewers fresh from fire,<br>
+And warm soy milk to match the heart's desire.<br>
+For every road I've ever wandered through<br>
+Has always led my waiting heart to you.
+</div>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
