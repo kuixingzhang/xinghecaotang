@@ -26,6 +26,29 @@ classes: poetry-page
 
 ![距離](/assets/images/poetry/juli.jpg)
 
+<h3>The Greatest Distance</h3>
+<div class="english-poem">
+
+The greatest distance lies not far,<br>
+Beyond the reach of moon or star.<br>
+Where longing fades without a trace,<br>
+And hearts no longer share one place.<br>
+
+Guarded hearts conceal the pain,<br>
+Yet bury love beneath the strain.<br>
+Words become a guessing game,<br>
+Between numb silence and raw pain.<br>
+<br>
+The nearest distance is not found<br>
+Beneath the finest lens around.<br>
+It lives where broken hearts can see,<br>
+One listening soul is close to me.<br>
+
+Earth's glory fades like windblown dust,<br>
+In You alone my life can trust.<br>
+No need to strive to earn Your grace,<br>
+One gentle glance lights all my days.<br>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
