@@ -15,6 +15,22 @@ classes: poetry-page
 
 ![悼同學並序](/assets/images/poetry/daotongxue.jpg)
 
+<h3>For a Classmate</h3>
+
+<div class="english-preface">
+Mr. Shi and I were the same age. We first studied internal medicine together as master's students at Shandong Medical University, and later pursued our doctoral degrees together at Shanghai Second Medical University. Gentle in manner and noble in character, he was a man of uncommon grace. Today I learned, to my shock and sorrow, that he had passed away from a sudden heart attack despite every effort to save him. May those of us who remain cherish life, and may old friends one day meet again with silver hair.
+</div>
+  
+Young, with the morning in our eyes,<br>
+We sought the truth beneath the skies.<br>
+Together every height we climbed,<br>
+Our spirits were well aligned.<br>
+
+When life had just begun to bloom,<br>
+You passed beyond the silent gloom.<br>
+One moment split our worlds apart;<br>
+Before a word, tears filled my heart.<br>
+</div>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
