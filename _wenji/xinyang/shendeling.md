@@ -16,6 +16,23 @@ classes: poetry-page
 
 ![不是倚靠勢力，不是倚靠才能](/assets/images/wenji/shendeling.jpg)
 
+**Not by Might, Nor by Power**
+
+"Then he said to me, 'This is the word of the LORD to Zerubbabel: Not by might nor by power, but by my Spirit,' says the LORD Almighty."
+—Zechariah 4:6 (NIV)
+
+When we comfort ourselves over a life that seems to have accomplished little, our most common excuse is rarely that we lack ability. More often, we blame circumstances—we tell ourselves that we never had the right opportunities or the help we needed. Yet what we once longed to achieve may have been nothing more than following the crowd, pursuing what everyone else valued simply to prove ourselves. In the long run, such pursuits often prove to be of little lasting significance.
+
+Even more importantly, we seldom become still enough to listen to the quiet voice within, seeking what God truly intends for us to accomplish. Like Noah, who devoted the better part of a century to building an ark before a single drop of rain had fallen, we are called to persevere faithfully throughout our lives in the work God has entrusted to us.
+
+Many of the great figures in Scripture were not remarkable because they possessed extraordinary strength. Rather, they became extraordinary because God was with them, enabling them to fulfill missions that would have been impossible by human strength alone. Moses led millions of Israelites out of Egypt while facing Pharaoh's relentless pursuit, the constant rebellion of the people, and even the doubts of his own brother and sister. Without complete dependence upon God, he would have been crushed long before reaching the Promised Land.
+
+David's life was likewise marked by continual conflict. Saul sought to kill him. His own followers nearly stoned him after their families were taken captive. In his old age, even his son Absalom rose in rebellion against him. Through it all, God remained his only unfailing refuge. Where God's presence abides, deserts yield springs of water, dry bones live again, and even the scattered remnant of a fallen nation can rebuild the Temple.
+
+For this reason, the words spoken to Zerubbabel are not merely an encouragement to one leader in Israel's history; they are a reminder for every believer. The Spirit of God is perfect and righteous. He works all things together for the good of those who love Him. Our greatest problem is often not a lack of influence, nor a lack of talent, but that we have never truly learned to rely upon the Spirit of God.
+
+When we cease striving after worldly power and human ability, and instead seek God's will first, submitting ourselves to the leading of the Holy Spirit, He is able to accomplish through us what we could never accomplish by our own strength.
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
