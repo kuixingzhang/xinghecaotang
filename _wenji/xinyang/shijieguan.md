@@ -51,9 +51,8 @@ header:
 
 二十世紀經歷了納粹德國、蘇聯大清洗、柬埔寨紅色高棉等重大歷史悲劇。這些事件的成因極其複雜，不能簡單歸結於某一種哲學或科學理論；但它們提醒人們：當任何意識形態宣稱自己擁有終極解釋權，而不再承認有高於人的道德約束時，人性的黑暗可能造成深重的災難。
 
----
-![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg){: .align-center
 
+![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg)
 **A Comparison Between the Christian and Atheistic Worldviews**
 
 The Christian worldview is inherently constructive. It does not need to borrow from or depend upon another civilization or philosophical system in order to cultivate values such as love, justice, conscience, mercy, human rights, and forgiveness. Christianity teaches that every human being is created in the image of God, and therefore every life possesses an inherent and inalienable dignity bestowed by its Creator. We are called to love one another not because it is merely advantageous, but because God first loved us.
@@ -102,4 +101,3 @@ The twentieth century witnessed immense human tragedies, including Nazi Germany,
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
-
