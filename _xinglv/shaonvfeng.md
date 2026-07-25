@@ -55,6 +55,54 @@ toc: false
 
 ![少女峰](/assets/images/xinglv/shaonvfeng1.jpg)
 
+**At the Summit of the Alps — Jungfrau**
+
+Jungfrau rises in the Bernese Oberland of Switzerland. Together with the Eiger (3,967 m / 13,015 ft) and the Mönch (4,107 m / 13,474 ft), it forms the most iconic trio of peaks in the Swiss Alps. Standing at 4,158 meters (13,642 feet), Jungfrau is one of the principal summits of the Bernese Alps and the centerpiece of the Jungfrau–Aletsch, a UNESCO World Heritage Site renowned for its spectacular alpine scenery.
+
+Reaching the Jungfraujoch ("Jungfrau Saddle") requires two very different modes of transportation.
+
+The Eiger Express Tricable Gondola
+
+The first stage begins at Grindelwald Terminal, where visitors board the Eiger Express, a state-of-the-art tricable gondola that entered service in 2020. The journey takes approximately 15 minutes and offers breathtaking views of the famous north face of the Eiger, dramatically reducing the travel time to Jungfraujoch.
+
+The Jungfrau Rack Railway
+
+After arriving at Eigergletscher Station, passengers transfer to the world-famous Jungfrau Railway (Jungfraubahn).
+
+Completed in 1912, the railway is regarded as one of Switzerland's greatest engineering achievements. Its most remarkable features include:
+
+Most of the route runs through tunnels carved deep inside the mountains.
+The railway passes through the interior of both the Eiger and the Mönch.
+It terminates at Jungfraujoch Station, situated at an elevation of 3,454 meters (11,332 feet).
+What Is a Rack Railway?
+
+Conventional trains rely on the friction between their wheels and the rails for traction. On very steep slopes, however, friction alone is insufficient, causing the wheels to slip.
+
+Swiss engineers solved this problem by installing a rack rail—a toothed rail—between the two standard rails. The train is equipped with a pinion gear underneath that meshes with the rack, allowing it to climb gradients of up to 25 percent safely and smoothly.
+
+For this reason, the Jungfrau Railway has become one of the world's most famous rack railways.
+
+Highlights at Jungfraujoch
+
+After arriving at Jungfraujoch, visitors can explore several remarkable attractions:
+
+Sphinx Observatory — An observation platform offering spectacular panoramic views of the Aletsch Glacier, the largest glacier in the Alps.
+Ice Palace — A network of passages carved inside the glacier, featuring intricate ice sculptures.
+Plateau — An outdoor snowfield where visitors can experience year-round snow and glaciers up close.
+Lindt Flagship Store — Widely promoted as the highest-altitude Lindt chocolate shop in the world.
+
+Combining magnificent alpine scenery, a century-old engineering masterpiece, modern cable-car technology, and Europe's highest railway station, a visit to Jungfraujoch is far more than a mountain excursion. It is a classic Alpine experience that seamlessly blends the beauty of nature with the ingenuity of human engineering.
+
+What Does "Top of Europe" Mean?
+
+Many visitors assume that the train reaches the summit of Jungfrau, but this is not the case.
+
+The railway actually terminates at Jungfraujoch, the mountain pass between Jungfrau and Mönch, at an elevation of 3,454 meters (11,332 feet). Because it is home to Europe's highest railway station, Jungfraujoch has been marketed as the "Top of Europe."
+
+This is a tourism brand rather than a geographical claim. It does not mean that visitors have reached the highest mountain in Europe.
+
+The mountain most commonly recognized as Europe's highest peak is Mount Elbrus, located in the Caucasus Mountains of Russia, with an elevation of 5,642 meters (18,510 feet). If only the Alps are considered, the highest summit is Mont Blanc, on the border between France and Italy, rising to approximately 4,806 meters (15,768 feet).
+
 ![少女峰](/assets/images/xinglv/shaonvfeng2.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
