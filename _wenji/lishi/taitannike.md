@@ -26,6 +26,43 @@ header:
 
 ![泰坦尼克號](/assets/images/wenji/taitannike.jpg)
 
+**Three Ships, One Disaster That Changed the World**
+Titanic, Californian, and Carpathia
+
+In the early hours of April 15, 1912, on the frigid waters of the North Atlantic Ocean, the RMS Titanic (Royal Mail Ship Titanic) struck an iceberg during her maiden voyage and ultimately sank.
+
+At the time, Titanic was the largest and most luxurious ocean liner in the world, widely celebrated as the "unsinkable" ship. On April 10, 1912, she departed Southampton, England, bound for New York City, United States, carrying more than 2,200 passengers and crew. At 11:40 p.m. on April 14, the liner collided with an iceberg. After remaining afloat for approximately 2 hours and 40 minutes, she sank completely at 2:20 a.m. on April 15. Because there were not enough lifeboats for everyone on board—and because many of the lifeboats that were launched were only partially filled—only about 705 people survived.
+
+The vessel nearest to Titanic was the SS Californian (Steam Ship Californian), a cargo steamer that had stopped for the night because of dangerous ice conditions ahead. She lay approximately 10 to 20 nautical miles away, although the exact distance remains a matter of historical debate.
+
+At about 11:30 p.m. on April 14, Californian's wireless operator, Cyril Evans, completed his shift and shut down the ship's wireless equipment before going to bed. At the time, international maritime regulations did not require ocean-going vessels to maintain twenty-four-hour wireless watch, so this practice was entirely consistent with the standards of the era.
+
+Just before signing off, Evans had transmitted a warning to Titanic reporting extensive ice fields ahead. However, Titanic's senior wireless operator, Jack Phillips, was occupied sending a backlog of passengers' private telegrams to the wireless station at Cape Race, Newfoundland, Canada. Frustrated by the interruption, Phillips replied with the words that would later become famous:
+
+"Shut up! Shut up! I am busy. I am working Cape Race."
+
+Little more than ten minutes later, Titanic struck the iceberg.
+
+Consequently, when Titanic began transmitting the distress calls CQD (formed from the general call signal CQ together with the letter D for Distress) and SOS (the international Morse-code distress signal), Californian's wireless equipment had already been switched off, and no distress messages were received.
+
+Although members of Californian's watch observed white rockets repeatedly rising in the distance and reported them to Captain Stanley Lord, he failed to recognize them as distress signals and did not immediately take action. Subsequent official inquiries in both Britain and the United States concluded that, had Californian responded promptly, she might well have reached the scene before Titanic disappeared beneath the sea and saved many more lives.
+
+The ship that ultimately carried out the rescue was the RMS Carpathia (Royal Mail Ship Carpathia). She was approximately 58 nautical miles from the disaster—far farther away than Californian—yet her wireless operator, Harold Cottam, was still on duty and received Titanic's distress message at about 12:25 a.m.
+
+Captain Sir Arthur Henry Rostron immediately ordered the ship to proceed at full speed. Every unnecessary use of steam was stopped so that maximum power could be directed to the engines. At the same time, the crew prepared blankets, hot drinks, medical supplies, and accommodations for survivors. After racing through the night for about three and a half hours, Carpathia reached the scene at around 4:00 a.m. and successfully rescued approximately 705 survivors.
+
+The sinking of Titanic was not only one of the world's greatest maritime disasters; it fundamentally transformed international maritime safety.
+
+In 1914, nations signed the International Convention for the Safety of Life at Sea (SOLAS), requiring passenger ships to carry sufficient lifeboats for every person on board. The convention also mandated continuous twenty-four-hour wireless watch on international voyages. In addition, the International Ice Patrol was established to monitor ice conditions in the North Atlantic and provide navigational warnings to ships operating in those waters.
+
+The same ocean. The same night.
+
+One ship became the symbol of catastrophe.
+
+One carried the burden of a tragedy that might have been mitigated.
+
+One earned an enduring place in history through selfless rescue.
+
 <div style="text-align:center; margin-top:2em;">
   <a href="{{ '/wenji/lishi/' | relative_url }}"
      class="btn btn--primary">← 回到歷史</a>
