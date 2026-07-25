@@ -60,6 +60,40 @@ author_profile: false
      alt="母親"
      style="max-width:100%; height:auto;">
 
+**My mother**
+
+My mother remained strong, healthy, and cheerful well into her eighties. At the age of eighty, she underwent surgery to remove a benign brain tumor. During her recovery, however, the COVID-19 pandemic broke out. She suffered another fall and became bedridden. Because of the lockdown, my two older sisters were unable to enter her home to care for her, and I, living far away in the United States, could not return to visit her.
+
+Prolonged bed rest, together with the tumor's compression of her pituitary gland and a subsequent COVID infection, led to severe hormonal imbalance. She became critically ill and came close to death. Thankfully, the underlying cause was eventually identified, and with hormone replacement therapy she slowly regained consciousness.
+
+Things initially seemed to improve, but my father's passing last year dealt her another devastating blow. Her health began to decline again. Later, gallstones and pancreatitis prevented her from eating normally, leading to severe malnutrition. In the end, she passed away peacefully in her sleep late at night, before I was able to return home.
+
+My maternal grandfather died when he was only thirty-six years old. At that time, my mother was just sixteen and became the family's sole breadwinner while caring for her younger brothers and sisters. The family was poor, there were many children, and the school was far away. As a result, her education was repeatedly interrupted, and she received only a few years of formal schooling. Yet she possessed an extraordinary memory. She could remember almost everything she saw and recite what she heard after a single hearing. She was wise, articulate, and remarkably perceptive. Neighbors, my siblings and I, and later even her grandchildren all loved listening to her tell stories.
+
+She honored her elders with devotion and loved the younger generation with unfailing tenderness. Never once did I hear her speak harshly to anyone, much less strike or scold a child. Because of the harmony and affection within our household, our family was recognized year after year as a model family.
+
+In those early years, my father taught school in another town for a meager salary. It was my mother's labor that sustained our entire household. Whether it was farm work or domestic skills, she mastered everything she set her mind to. Even during the hardest years, our family never truly went hungry. Later, after our financial circumstances improved, she still could not remain idle. She helped her children with their work and lovingly raised one grandchild after another. Many of them practically lived in her home, eating and sleeping under her care.
+
+My mother's life was marked by hardship. As a child, she developed chronic otitis media. Because the family could not afford medical care, the infection permanently damaged her hearing. In middle age she often suffered from headaches, but none of us realized anything was seriously wrong. Only when she underwent a CT scan at the age of eighty was a meningioma discovered in the region of the sella turcica. Although the tumor was benign, it had already compressed both the optic nerve and the pituitary gland. After surgery, she completely lost vision in her right eye. Her left eye later nearly became blind as well, but fortunately the cause was diagnosed as cataracts, and surgery restored her sight.
+
+Once the diagnosis had been clarified and hormone replacement therapy begun, her health improved rapidly. Yet for various reasons she never fully recovered, and pancreatitis eventually caused her physical condition to deteriorate steadily.
+
+My mother faced death with remarkable peace and courage. She was never afraid of dying. Yet two weeks before she passed away, during one of our video calls, she suddenly broke into tears. She told me how much she missed me and pleaded with me to return home early, not to wait until the Lunar New Year, because otherwise I would never see her again. I tried to reassure her, telling her not to worry, that a few days in the hospital and some rest would be enough. I never imagined that events would unfold so quickly.
+
+When she was younger, my mother especially loved listening to a Christian storyteller from our hometown, an elder from my own extended clan. Although she never formally became a Christian in the social environment of those years, I believe her life was profoundly shaped by the narratives and philosophy of the Christian faith. I believe that her soul has gone to our heavenly home, to the place God has prepared, where she now awaits the day we shall meet again.
+
+I, too, have journeyed from the restless searching of youth into the season of life in which one comes to understand his calling and purpose. I first encountered Christianity as a child. Later, the light of Christ revealed itself to me, and I accepted His redemption. I came to know that physical death is not the end of life, but the beginning of resurrection life. When the labors of this earthly life are finished, the soul returns to the Father's house, awaiting the end of the age, the return of Christ, and eternal fellowship with the Lord.
+
+Some may ask, "How can you be certain that God exists, or that the God you believe in is the true God?" To be honest, I cannot prove it, nor do I believe such proof is necessary. If God truly exists, then the God in whom I trust has promised resurrection, everlasting joy, and eternal glory after death. Those who reject Him gain none of these things. If God does not exist, I have nevertheless lived with hope, self-discipline, perseverance, love for others, and the desire to be salt and light in the world. Compared with those who do not believe, I have lost nothing. On the contrary, these virtues strengthen the weak and help lead the lost toward hope. Genuine faith is not won through argument; it is demonstrated through the life one lives.
+
+Christ taught that blessed are those who recognize their own spiritual poverty and their need for God. He also said, "Come to me, all who labor and are heavy laden, and I will give you rest." To recognize one's own emptiness requires experience, searching, and awakening. To recognize one's need for God requires responsibility, suffering, and humility. Not everyone comes to faith, but those who do are truly blessed.
+
+I dedicate these words to the memory of my mother—the only person in this world who treasured me as the apple of her eye, cherished me as her most precious child, and loved and protected me without end.
+
+My mother was born on February 29, 1940, and passed away on the twenty-second day of the eleventh lunar month in 2025 (January 10, 2026).
+
+Written on January 13, 2026.
+
 <p style="margin-top: 2.5rem;">
   <a href="/wenji/jinian/">← 返回紀念目錄</a>
 </p>
