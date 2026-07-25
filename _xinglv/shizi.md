@@ -37,6 +37,65 @@ toc: false
 
 ![瑞士盧塞恩獅子紀念碑](/assets/images/xinglv/shizi.jpg)
 
+**The Price of Loyalty — The Lion of Lucerne**
+
+In Lucerne (Luzern), Switzerland, there stands a remarkable memorial: a lion lying wounded upon a sandstone cliff. It is not a monument celebrating victory, but rather a memorial to those who fell in defeat.
+
+The American writer Mark Twain famously described it as "the most mournful and moving piece of stone in the world."
+
+A Story of Loyalty
+
+The story begins on August 10, 1792, during one of the most turbulent moments of the French Revolution. Revolutionary forces stormed the Tuileries Palace in Paris.
+
+The soldiers defending King Louis XVI were not French troops, but approximately one thousand Swiss Guards.
+
+To many people today, this may seem surprising: Why would the King of France be protected by Swiss soldiers?
+
+For centuries, the Swiss had earned a reputation throughout Europe for discipline, integrity, courage, and military excellence. Many European monarchs employed Swiss Guards as their royal bodyguards. They were not temporary mercenaries, but professional soldiers recruited through formal treaties and bound by solemn oaths of loyalty.
+
+To them, their oath was more precious than life itself.
+
+The revolutionary forces vastly outnumbered the Swiss Guards.
+
+During the battle, Louis XVI eventually ordered his guards to cease fighting and withdraw. By the time the order reached them, however, it was already too late. The battle had become irreversible. Many guards died defending the palace. Others surrendered only to be massacred afterward. The Swiss Guard was almost completely annihilated.
+
+Why Is the Lion So Sorrowful?
+
+In 1821, Karl Pfyffer, a surviving Swiss officer, initiated the construction of the memorial.
+
+The Danish sculptor designed a dying lion:
+
+A spear pierces its side.
+The lion no longer has the strength to rise.
+Yet its forepaw still firmly protects a shield bearing the Fleur-de-lis, the emblem of the French monarchy.
+Beside it rests another shield representing Switzerland.
+
+There is nothing triumphant about the sculpture.
+
+The lion does not roar.
+
+Instead, it remains faithful to its duty even in death.
+
+The monument bears only a single Latin inscription:
+
+HELVETIORUM FIDEI AC VIRTUTI
+
+Its meaning is:
+
+"To the Loyalty and Bravery of the Swiss."
+
+The Tragedy of History
+
+The deepest sadness of this story lies not merely in the fact that these soldiers died.
+
+It lies in the fact that the cause to which they pledged their loyalty was defeated.
+
+Had Louis XVI regained his throne, the Swiss Guards would likely have been remembered as heroes who saved the monarchy.
+
+But history is often written by the victors.
+
+After the success of the French Revolution, the Swiss Guards were for many years portrayed as defenders of the old regime and opponents of historical progress. Yet the Lion of Lucerne tells a different story. It asks the viewer to look beyond political victory and defeat, and to remember the enduring virtues of loyalty, courage, and faithfulness to one's word—even when such faithfulness demands the ultimate sacrifice.
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/xinglv/">← 返回行旅目錄</a>
 </p>
