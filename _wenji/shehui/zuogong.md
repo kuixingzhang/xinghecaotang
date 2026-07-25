@@ -46,6 +46,146 @@ classes: wide
 
 ![不肯做工，就不可吃饭](/assets/images/wenji/zuogong.jpg)
 
+**If Anyone Is Not Willing to Work, Neither Shall He Eat**
+
+The Apostle Paul left us with one of the Bible's most challenging statements:
+
+"If anyone is not willing to work, let him not eat."
+—2 Thessalonians 3:10
+
+Today, these words are often regarded as overly harsh. Yet they are not an expression of indifference toward the poor. Rather, they rest upon an important distinction: being unable to work is not the same as being unwilling to work.
+
+Scripture never despises the poor. Throughout the Old Testament, Israel is repeatedly commanded to care for orphans, widows, foreigners, and those in need. Jesus consistently taught His disciples to show compassion toward the suffering and the poor. The early church even shared its possessions and provided for one another according to need.
+
+At the same time, the Bible also teaches that those who are able to work should fulfill their own responsibilities rather than transferring them to others. Here the Scriptures seek to balance justice with mercy.
+
+The Greatest Challenge of the Welfare State
+
+The modern welfare state was established with the admirable goal of helping the poor and protecting the vulnerable. The question is not whether society should help those in need, but how that help should be provided.
+
+If a welfare system fails to distinguish between:
+
+those who are genuinely unable to work;
+those who are temporarily unemployed; and
+those who are capable of working but consistently refuse to do so,
+
+the system itself may gradually begin to shape human behavior.
+
+When the rewards of working and not working become increasingly similar, the incentive to work declines. More people become dependent upon public assistance, while fewer people create wealth. Economists refer to this as the problem of incentives.
+
+A social system does more than distribute resources—it also shapes people's choices. A system that rewards diligence tends to encourage diligence. A system that rewards dependency may unintentionally encourage dependency.
+
+Tax Revenue Is Not an Unlimited Resource
+
+Government benefits do not create wealth out of thin air. Every welfare program is ultimately funded by the value created by individuals and businesses.
+
+As welfare programs expand, governments generally require higher tax revenues. Yet taxation also has practical limits. When tax burdens continue to rise, highly skilled professionals, entrepreneurs, and investment capital may relocate to jurisdictions with lower taxes. Businesses reduce investment, economic growth slows, and the tax base itself may shrink.
+
+This can produce a self-reinforcing cycle:
+
+More welfare → Higher taxes → Capital and talent leave → Smaller tax base → Larger budget deficits → Higher taxes
+
+Many countries and regions have experienced variations of this challenge. Every fiscal system must eventually confront one basic reality: wealth must first be created before it can be distributed.
+
+Christian Charity Is Not the Same as State Welfare
+
+Historically, hospitals, orphanages, poorhouses, nursing homes, and many charitable institutions were not originally founded by governments. They were largely established by churches, monasteries, and Christian communities.
+
+The difference is more than organizational—it is motivational.
+
+The foundation of Christian charity is love, not taxation.
+
+Its driving force is faith, not legal obligation.
+
+Its power comes from transformed lives, not government administration.
+
+When Christians care for the poor, they do so not because the government requires it, but because they believe they have first received God's grace and therefore desire to extend that grace to others.
+
+In this way, charity transforms not only the recipient but also the giver.
+
+As governments gradually assume greater responsibility for charitable work, however, the nature of that relationship changes. Compassion becomes a budget item. Generosity becomes a tax obligation. Personal responsibility is increasingly replaced by institutional responsibility.
+
+Many people begin to think,
+
+"Caring for the poor is the government's responsibility,"
+
+rather than,
+
+"Caring for the poor is also my responsibility."
+
+As this shift occurs, the roles once carried by families, churches, and local communities may diminish while the role of the state continues to expand.
+
+Law Cannot Replace Conscience
+
+Modern societies rightly emphasize:
+
+the rule of law;
+human rights;
+equality before the law;
+social welfare; and
+social security.
+
+These are important values.
+
+Yet an even deeper question remains:
+
+Upon what foundation do these values ultimately rest?
+
+Law can prohibit theft, but it cannot make people honest.
+
+Law can require taxes, but it cannot make people generous.
+
+Law can punish crime, but it cannot produce reverence or moral conviction within the human heart.
+
+As societies lose a shared moral foundation, maintaining social order often requires increasingly complex laws, expanding bureaucracies, and growing public expenditures.
+
+The result is frequently more legislation, larger government, heavier fiscal burdens—and not necessarily a more harmonious society.
+
+As John Adams, the second President of the United States, famously observed:
+
+"Our Constitution was made only for a moral and religious People. It is wholly inadequate to the government of any other."
+
+Institutions never exist in isolation. Every political system ultimately depends upon the character of the people who live under it.
+
+The Church Cannot Be Fully Replaced by the State
+
+Modern governments certainly have legitimate public responsibilities. Public health, justice, public safety, and a basic social safety net all serve important functions.
+
+But if governments continually expand until they assume responsibilities once carried by families, churches, and local communities, society may gradually develop a new form of dependence:
+
+individuals depend upon government;
+communities depend upon government;
+charitable work depends upon government;
+and eventually even moral responsibility is expected from government.
+
+Government can provide financial assistance.
+
+It cannot provide love.
+
+Government can administer welfare.
+
+It cannot create faith.
+
+Government can enact laws.
+
+It cannot transform the human heart.
+
+Christianity has always maintained that the true renewal of society begins not with institutions, but with transformed lives.
+
+A person who fears God is more likely to work honestly, show compassion toward the poor, give generously, and accept personal responsibility. As more such individuals form families, churches, and communities, a healthy social order naturally develops.
+
+A truly healthy society therefore should not allow the state to replace the church, nor should welfare replace responsibility. Rather, it should seek a balance between justice and mercy—helping those who genuinely need assistance while encouraging everyone who is able to work diligently and accept responsibility.
+
+The biblical principle is neither cold indifference nor unlimited indulgence. It is the union of justice and grace.
+
+Paul's words remain worthy of reflection today:
+
+"If anyone is not willing to work, neither shall he eat."
+
+This is not a rejection of the poor. It is a reminder that genuine compassion does not encourage dependency, and genuine love does not abolish responsibility.
+
+If a society hopes to flourish over the long term, it needs more than wealth. It also requires honesty, diligence, personal responsibility, and reverence for God. These are virtues that no political system can manufacture on its own, yet they remain among the indispensable foundations of every enduring civilization.
+
 <div style="text-align:center; margin-top:2em;">
   <a href="{{ '/wenji/lishi/' | relative_url }}"
      class="btn btn--primary">← 回到社會</a>
