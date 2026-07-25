@@ -54,7 +54,7 @@ header:
 ---
 ![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg){: .align-center
 
-A Comparison Between the Christian and Atheistic Worldviews
+**A Comparison Between the Christian and Atheistic Worldviews**
 
 The Christian worldview is inherently constructive. It does not need to borrow from or depend upon another civilization or philosophical system in order to cultivate values such as love, justice, conscience, mercy, human rights, and forgiveness. Christianity teaches that every human being is created in the image of God, and therefore every life possesses an inherent and inalienable dignity bestowed by its Creator. We are called to love one another not because it is merely advantageous, but because God first loved us.
 
