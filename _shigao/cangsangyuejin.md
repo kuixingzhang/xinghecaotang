@@ -13,6 +13,7 @@ classes: poetry-page
 
 <h3>Only Then</h3>
 
+<div class="english-poem">
 Only after all I'd seen,<br>
 Did I learn what life could mean.<br>
 Only when earth's splendor passed,<br>
