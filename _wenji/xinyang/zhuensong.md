@@ -50,6 +50,121 @@ classes: poetry-page
 
 ![主恩頌](/assets/images/wenji/zhuensong.jpg)
 
+<h3>A Hymn to the Lord's Grace</h3>
+<div class="english-poem">
+  
+The Lord made heaven and earth in six full days;<br>
+The seventh He blessed with everlasting rest.<br>
+The sun and moon and stars keep perfect course;<br>
+The beasts, the birds, the fish—each after its own kind.<br>
+
+From dust He formed mankind with soul and flesh,<br>
+Exalted over all that He had made;<br>
+To bear His image and to rule the earth,<br>
+As stewards of the kingdom of our God.<br>
+<br>
+The Lord prepared a garden, Eden by name,<br>
+And placed mankind within its blessed ground,<br>
+To dwell in peace and taste unending life,<br>
+Beneath His loving care forevermore.<br>
+
+He gave His holy law to mark His sovereign will,<br>
+That truth and righteousness might guard the heart;<br>
+The Tree of Life stood as the fount of life,<br>
+But from the Tree of Knowledge none might eat.<br>
+<br>
+The Lord made angels, mighty in their strength,<br>
+Favored by God, bright as the morning star.<br>
+Yet one desired the throne that was not his;<br>
+His proud revolt was shattered by God's hand.<br>
+
+Cast from the courts of heaven to the earth below,<br>
+He crept as that ancient serpent of old,<br>
+With lies and cunning leading souls astray,<br>
+Deceiving nations, wandering through the world.<br>
+<br>
+Our first parents, tempted, ate the forbidden fruit;<br>
+Their eyes were opened, knowing good and evil.<br>
+By toil they earned their bread through weary days;<br>
+God's favor seemed withdrawn, and fellowship was broken.<br>
+
+The Lord pronounced His judgment in His wrath:<br>
+The serpent stood beneath an ancient curse.<br>
+Though subtle still in all his wicked schemes,<br>
+He would crawl the dust until his final end.<br>
+<br>
+Driven from Eden, lost in life and death,<br>
+Mankind cried out for mercy and redemption.<br>
+Yet God, in pity, walked beside His people,<br>
+Delivering them from peril and from judgment.<br>
+
+He broke their chains and led them to the promised land;<br>
+He gave the Ten Commandments as His covenant,<br>
+An everlasting guide of truth and righteousness,<br>
+Forever steadfast, never to pass away.<br>
+<br>
+The human heart remains unchanged within;<br>
+At ease, it soon forgets and turns away.<br>
+By the time repentance stirs the soul,<br>
+It often wakes amid the depths of ruin.<br>
+
+Men bow before their idols, carved by hand,<br>
+Mistaking lifeless things for gods divine.<br>
+Before the hosts of darkness they grow mute,<br>
+Too fearful even to accuse the demons.<br>
+
+Then God's fierce judgment sweeps across the land,<br>
+And countless lives are swallowed up in grief.<br>
+Though many cry unceasingly for Him,<br>
+His face seems hidden from their searching eyes.<br>
+<br>
+To save mankind, the eternal Word took flesh,<br>
+And walked the wilderness to seek the lost.<br>
+Upon the mount He taught the way of life,<br>
+Proclaiming glad tidings for all the world.<br>
+
+With five small loaves and two fish in His hands,<br>
+He fed the hungry multitudes with grace.<br>
+The blind received their sight, the deaf could hear,<br>
+The lame arose, and lepers were made clean.<br>
+
+Whoever turns in true repentance now,<br>
+And trusts the holy name of Christ the Lord,<br>
+Shall have their sins forever washed away,<br>
+And freely enter into life eternal.<br>
+<br>
+
+The hearts of men were dark, their honor quickly turned to scorn;<br>
+Rejecting Christ the Savior, they chose the prince of night instead.<br>
+With crown of thorns and cruel scourge His holy body bore the shame,<br>
+He took the Cross upon His back and climbed the sorrowful hill.<br>
+
+His hands and feet were pierced with nails,<br>
+The anguish reached His very bones.<br>
+Each breath became a costly pain,<br>
+Yet death withheld its final stroke.<br>
+
+The heavens darkened over all the land,<br>
+The hearts of men were filled with dread.<br>
+The temple veil was torn in two,<br>
+And God threw open heaven's gate.<br>
+<br>
+On the third day Christ arose again,<br>
+His Spirit filled the earth and heaven above.<br>
+His work of full redemption now complete,<br>
+His precious blood has washed away our sin.<br>
+
+His resurrection grants eternal life;<br>
+His boundless grace is always more than enough.<br>
+All things obey the sovereign Lord's command;<br>
+Who walks by faith shall know abundant joy.<br>
+
+Amazing Grace! His love has no bound;<br>
+Worthy is the Lamb whom all creation sings.<br>
+Let every tribe and tongue with one accord<br>
+Give endless praise unto the King of kings.<br>
+<br>
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
