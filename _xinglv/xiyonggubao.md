@@ -30,6 +30,32 @@ toc: false
 
 ![西庸古堡](/assets/images/xinglv/xiyonggubao.jpg)
 
+**A Stone Epic on the Lakeshore — Chillon Castle**
+
+Chillon Castle (Château de Chillon) stands on the eastern shore of Lake Geneva in southwestern Switzerland, perched upon a natural rocky islet near Montreux. Surrounded by water on three sides and connected to the mainland by a single narrow approach, the castle has guarded one of the principal routes through the Alps since the twelfth century. It controlled the vital corridor linking Italy with Western Europe, through which merchants, pilgrims, and armies traveled, making it one of the most strategically important fortresses in the region.
+
+The origins of Chillon Castle date back to the eleventh century. It later became an important stronghold and residence of the House of Savoy, whose rulers controlled key Alpine passes and grew increasingly powerful by levying tolls on trade routes. Most of the structures visitors see today were built during the thirteenth century, representing a classic example of a medieval defensive castle.
+
+Upon entering the castle, visitors are greeted by its imposing stone towers. These towers served both as lookout posts and as the fortress's last line of defense, commanding sweeping views of Lake Geneva and the lakeside road below. From their heights, one can gaze across the deep blue waters toward the snow-capped Alps and easily imagine how medieval sentries could detect approaching enemies long before they arrived, whether by water or through the mountain valleys.
+
+Throughout the castle are extensive displays of medieval weaponry, including longswords, battle axes, spears, crossbows, shields, and a variety of suits of armor. These weapons bear witness to the age of hand-to-hand warfare while reflecting the chivalric culture and feudal society of medieval Europe. Heavy armor provided excellent protection but greatly reduced a soldier's mobility. The crossbow, by contrast, transformed the battlefield, enabling relatively untrained soldiers to challenge mounted knights who had spent years mastering their craft.
+
+Perhaps the castle's most unforgettable feature is its vast underground dungeon. Massive stone columns support the entire structure above, while the dim, damp chambers evoke the oppressive atmosphere of a medieval prison. Over the centuries, the dungeon held political prisoners, religious dissenters, and prisoners of war. Among them, the most famous was François Bonivard, the prior of Geneva.
+
+Bonivard supported Geneva's struggle to free itself from the rule of the Duchy of Savoy. In 1530, he was imprisoned in Chillon Castle, where he remained in chains for four years. Shackled to a massive stone pillar, he could do little more than walk in circles around it. Even today, visitors can still see the worn groove in the stone floor left by years of his footsteps.
+
+In 1536, Bernese forces captured the castle, and Bonivard was finally set free.
+
+His story profoundly moved the English Romantic poet Lord Byron. After visiting Chillon Castle in 1816, Byron wrote the narrative poem The Prisoner of Chillon, transforming what had once been a local historical episode into a story known throughout the world.
+
+During his visit, Byron also carved his own name—"Byron"—into the very pillar to which Bonivard had been chained. The inscription remains visible today and has become one of the castle's most celebrated literary relics.
+
+Unfortunately, I did not learn about Byron's inscription until after I had left the castle. I never had the opportunity to return and search for it, leaving me with one small regret from an otherwise unforgettable journey.
+
+Today, Chillon Castle has long since lost its military purpose, yet it continues to stand quietly beside the waters of Lake Geneva. The surrounding mountains and shimmering lake give it the charm of a fairy tale, while its massive stone walls, cold dungeons, and Byron's immortal poem preserve enduring memories of freedom, conviction, and the resilience of the human spirit.
+
+More than simply a masterpiece of medieval architecture, Chillon Castle is a chapter of European history written in stone.
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/xinglv/">← 返回行旅目錄</a>
 </p>
