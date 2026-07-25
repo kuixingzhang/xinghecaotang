@@ -52,7 +52,53 @@ header:
 二十世紀經歷了納粹德國、蘇聯大清洗、柬埔寨紅色高棉等重大歷史悲劇。這些事件的成因極其複雜，不能簡單歸結於某一種哲學或科學理論；但它們提醒人們：當任何意識形態宣稱自己擁有終極解釋權，而不再承認有高於人的道德約束時，人性的黑暗可能造成深重的災難。
 
 ---
-![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg){: .align-center}
+![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg){: .align-center
+
+A Comparison Between the Christian and Atheistic Worldviews
+
+The Christian worldview is inherently constructive. It does not need to borrow from or depend upon another civilization or philosophical system in order to cultivate values such as love, justice, conscience, mercy, human rights, and forgiveness. Christianity teaches that every human being is created in the image of God, and therefore every life possesses an inherent and inalienable dignity bestowed by its Creator. We are called to love one another not because it is merely advantageous, but because God first loved us.
+
+By contrast, the atheistic worldview rejects God as the ultimate foundation while often seeking to preserve values such as love, human rights, justice, and equality. The question, however, is this: upon what foundation do these values ultimately rest? If there is no moral source higher than humanity itself, then such values can only continue to draw upon ethical traditions that have been cultivated over centuries by Christianity or other religious civilizations. They struggle to find a stable grounding in nature alone. Many atheists today sincerely care about fairness, liberty, human rights, and compassion. Yet this sincerity does not answer the deeper philosophical question of why these values possess objective and inviolable authority.
+
+If life is nothing more than the accidental result of particles colliding through an unguided natural process, if the universe itself has no purpose, and if good and evil are merely survival strategies shaped by evolution, then what are love and self-sacrifice, justice and forgiveness, human rights and human dignity? Are they objective moral realities, or simply useful adaptations under evolutionary pressure? A system that arises entirely by chance cannot itself produce objective moral order. Without a sovereign authority above humanity, why should anyone love a stranger? Why should justice be upheld? Why should every individual possess inviolable dignity? If these values are merely accidental by-products of evolutionary competition, then what obligates us to preserve them whenever they conflict with personal interests, national interests, or the interests of the powerful?
+
+Many atheists appeal to the theory of evolution in their critique of Christianity. Evolution, however, is fundamentally a scientific theory that explains biological diversity, and when confined to the study of biological development, it presents no inherent philosophical difficulty. Since the nineteenth century, however, many have treated evolution as though it were a universal key capable of explaining not only biology, but also morality, history, society, and the meaning of life itself. It has been elevated from a scientific theory into a comprehensive naturalistic worldview. Once humanity no longer acknowledges a Creator who stands above mankind, and no longer believes that human beings are ultimately accountable to God, morality loses its transcendent foundation, and society naturally tends toward a philosophy of "survival of the fittest."
+
+1. Christianity teaches that human beings are created in the image of God. Every person possesses spiritual dignity that distinguishes humanity from the animal world, and humanity's spiritual needs ultimately surpass its physical needs. The atheistic worldview generally understands human beings as products of biological evolution, fundamentally continuous with other animals, with morality and spirituality emerging primarily as adaptive responses to environmental pressures.
+
+2. Christianity teaches that all people descend from Adam and bear God's image, and therefore ought to live in peace and love toward one another. An atheistic worldview commonly understands humanity as the product of evolutionary struggle, in which competition for survival has played a central role.
+
+3. Christianity teaches that human life has a God-given purpose. People are called to develop their gifts, steward creation responsibly, and one day give an account to God for their lives. An atheistic worldview generally understands human existence as the unintended result of natural processes without ultimate purpose, encouraging people to seek meaning and fulfillment within the limits of this present life.
+
+4. Christianity teaches that God cares especially for the poor, the weak, the suffering, and the marginalized. Christians are therefore called to become instruments of God's blessing by caring for widows, orphans, the elderly, the sick, and the disabled, because every person bears God-given dignity. An atheistic worldview, by contrast, offers no transcendent basis for mercy or justice beyond human preference. When the principle of "survival of the fittest" is applied directly to society, the weak are more easily viewed as burdens rather than persons of inherent worth.
+
+5. Christianity teaches that God created humanity in His own image. An atheistic worldview teaches that humanity creates gods according to its own imagination.
+
+6. Christianity teaches that God is the ultimate sovereign over the universe. No individual, nation, or political system stands above His justice. An atheistic worldview rejects any authority higher than humanity itself, leaving those who hold power as the ultimate arbiters of social rules and moral standards.
+
+7. Christianity teaches that human beings are children of the Heavenly Father and should place their trust in Him, because human strength, wisdom, and life itself are finite. An atheistic worldview places its confidence in human reason, science, and technology, believing that humanity is ultimately capable of determining its own destiny.
+
+Notes: Historical and Philosophical Illustrations
+1. When a Scientific Theory Becomes a Social Philosophy
+
+Evolutionary theory is a scientific explanation of biological evolution. During the nineteenth century, however, some thinkers extended the concept of "survival of the fittest" into politics, economics, and society, giving rise to what later became known as Social Darwinism. These ideas influenced movements such as eugenics, colonialism, and certain forms of racial ideology. It should be noted, however, that most contemporary evolutionary biologists do not regard these conclusions as necessary implications of modern evolutionary biology itself.
+
+2. Where Do Human Rights Come From?
+
+The United States Declaration of Independence states:
+
+"We hold these truths to be self-evident, that all men are created equal... that they are endowed by their Creator with certain unalienable Rights."
+
+The modern Western understanding of human rights has been profoundly shaped by the Judeo-Christian tradition, which teaches that human dignity does not depend upon wealth, ability, or social status, but first and foremost upon humanity's identity as creatures made by God.
+
+3. Why Were the Nuremberg Trials Possible?
+
+After World War II, many Nazi officials defended themselves by arguing that they had merely obeyed the laws of their nation and the orders of their superiors. The Nuremberg Trials ultimately held that there exists a standard of justice higher than the laws of any particular state. This case is frequently cited in discussions of a fundamental philosophical question: if no moral standard exists above human authority, how can one judge actions that are legally permitted but morally unjust?
+
+4. Lessons from History
+
+The twentieth century witnessed immense human tragedies, including Nazi Germany, Stalin's Great Purge in the Soviet Union, and the Khmer Rouge regime in Cambodia. The causes of these catastrophes were extraordinarily complex and cannot be attributed solely to any single philosophy or scientific theory. Nevertheless, they serve as a sobering reminder that whenever any ideology claims ultimate authority while denying moral accountability beyond human power, the darker impulses of human nature may lead to profound suffering and destruction.
+
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
