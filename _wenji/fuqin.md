@@ -36,7 +36,7 @@ author_profile: false
      alt="父親"
      style="max-width:100%; height:auto;">
 
-Father
+**My father**
 
 From an early age, my father was devoted to learning. Yet his family was too poor to support his education, and they lived in a remote rural village. To attend school, he often had to travel long distances on foot. In high school, reaching Liaocheng No. 3 High School required walking through the night for more than nine hours. Having endured countless hardships, including the Great Chinese Famine, he became the first person in our family to leave the countryside and attend university during the 1960s.
 
