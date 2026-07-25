@@ -13,6 +13,21 @@ classes: poetry-page
 
 ![豪氣](/assets/images/poetry/haoqi.jpg)
 
+<h3>A Hero's Hearts</h3>
+
+<div class="english-poem">
+Young, I left with sword in hand;<br>
+My dreams outsoared the distant land.<br>
+
+Time flew by in but a stride;<br>
+Like phoenix fire, I rose refined.<br>
+
+The sea is wide, the waves run high;<br>
+Why yield to age before I die?<br>
+
+The hero's heart still burns in me;<br>
+Through heaven and earth my soul walks free.<br>
+</div>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿目錄</a>
 </p>
