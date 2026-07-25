@@ -117,14 +117,14 @@ The Buddhist says, "To practice Buddhism is to escape the cycle of rebirth."
 The Christian says, "To believe in Christ is to receive eternal life."
 
 <div class="english-poem">
-To Harmony's pages, this humble verse I bring,
-Where Christ and Buddha stir the seeking heart to sing.
-A thousand years of cause and consequence unfold;
-Through ages, reverence tests the false from truth of old.
-
-Cast greed, wrath, and delusion far behind the mind;
-Let faith, hope, and love each passing day refine.
-Who says the human heart is harder still than steel?
+To Harmony's pages, this humble verse I bring,<br>
+Where Christ and Buddha stir the seeking heart to sing.<br>
+A thousand years of cause and consequence unfold;<br>
+Through ages, reverence tests the false from truth of old.<br>
+<br>
+Cast greed, wrath, and delusion far behind the mind;<br>
+Let faith, hope, and love each passing day refine.<br>
+Who says the human heart is harder still than steel?<br>
 Through wind and frost, through rain and snow—God's grace is all we feel.
 </div>
 <p style="margin-top: 3rem; text-align: center;">
