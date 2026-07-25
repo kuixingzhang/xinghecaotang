@@ -20,7 +20,8 @@ classes: poetry-page
 <div class="english-preface">
 Mr. Shi and I were the same age. We first studied internal medicine together as master's students at Shandong Medical University, and later pursued our doctoral degrees together at Shanghai Second Medical University. Gentle in manner and noble in character, he was a man of uncommon grace. Today I learned, to my shock and sorrow, that he had passed away from a sudden heart attack despite every effort to save him. May those of us who remain cherish life, and may old friends one day meet again with silver hair.
 </div>
-  
+
+<div class="english-preface">
 Young, with the morning in our eyes,<br>
 We sought the truth beneath the skies.<br>
 Together every height we climbed,<br>
