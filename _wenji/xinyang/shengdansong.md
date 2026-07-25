@@ -36,6 +36,59 @@ classes: poetry-page
 
 ![聖誕頌](/assets/images/wenji/shengdansong.jpg)
 
+<h3>The Eternal Word</h3>
+
+<div class="english-poem">
+Before the heavens and the earth were formed,<br>
+The Word of God stood timeless and supreme.<br>
+From Him the universe was brought to birth;<br>
+In Him the soul first found its highest meaning.<br>
+
+The Way goes forth in strength and majesty;<br>
+Who looks to Him is filled with noble courage.<br>
+Though one be cast into the deepest trials,<br>
+By faith in Christ, one is declared righteous.<br>
+<br>
+Long ago an angel coveted God's own throne,<br>
+Stirring heaven and earth in a rebel's futile claim.<br>
+Darkness made its dwelling where evil found its home,<br>
+As righteousness gave way before the reign of shame.<br>
+
+Through one man's sin, transgression entered all the world;<br>
+The gates of Eden closed before the human race.<br>
+Then the spotless Lamb poured out His precious blood,<br>
+That every heart might find atonement through His grace.<br>
+<br>
+The Holy Lord shall judge in perfect righteousness;<br>
+The righteous alone shall dwell beneath His sheltering grace.<br>
+Satan shall be cast into the lake of fire,<br>
+And heaven shall know no sorrow, tears, or death again.<br>
+
+The Water of Life is offered without price;<br>
+With Christ His people reign in the new heaven and earth.<br>
+This sacred plan was purposed from eternity—<br>
+How great the mystery of godliness!<br>
+<br>
+The living God took on our flesh,<br>
+Yet sprang like a root from parched, forgotten ground.<br>
+In lowliness He came, laid in a manger,<br>
+While Eastern sages followed heaven's wondrous sign.<br>
+
+For forty days and nights He bore temptation,<br>
+And walked the valley of the shadow without fear.<br>
+God anointed His Anointed with holy oil,<br>
+And gave the cup of blessing, running over.<br>
+<br>
+Upon the Cross God's boundless grace was won;<br>
+On the third dawn, His resurrection shone.<br>
+At Pentecost the Comforter came down,<br>
+The Spirit's work enduring through all generations.<br>
+
+The marriage feast shall know no final end;<br>
+In Christ we stand as children of our God.<br>
+The heavens and the earth are made anew,<br>
+The Word of Life forever shall endure.<br>
+</div>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
