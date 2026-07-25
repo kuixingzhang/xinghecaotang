@@ -68,6 +68,65 @@ classes: poetry-page
 
 ![基督教和佛教](/assets/images/wenji/jidujiao-fojiao.jpg)
 
+Christianity and Buddhism
+Christ and Buddha Through the Eyes of a Scholar
+
+The Christian says, "My Lord."
+The Buddhist says, "My Buddha."
+
+The Christian says, "My sin."
+The Buddhist says, "My delusion."
+
+The Christian says, "I repent."
+The Buddhist says, "I observe the precepts."
+
+The Christian says, "I live."
+The Buddhist says, "I seek extinction."
+
+The Christian says, "I am saved."
+The Buddhist says, "I seek liberation."
+
+The Buddhist says, "I have countless Buddhist scriptures."
+The Christian says, "I have one Holy Bible."
+
+The Buddhist says, "My mornings and evenings are marked by temple bells and chanting."
+The Christian says, "I rise early and labor diligently."
+
+The Buddhist says, "I believe in the six realms of rebirth."
+The Christian says, "I believe in the resurrection of the dead."
+
+The Buddhist says, "I know the law of karma."
+The Christian says, "I know justification by faith."
+
+The Buddhist says, "The Three Jewels: Buddha, Dharma, and Sangha."
+The Christian says, "The three abiding virtues: faith, hope, and love."
+
+The Buddhist says, "Taking life brings misfortune."
+The Christian says, "Life belongs to the sovereignty of God."
+
+The Buddhist says, "Great compassion for all beings."
+The Christian says, "Love your neighbor as yourself."
+
+The Buddhist says, "The chanting of sutras and the recitation of the Buddha's name rise in tranquil harmony."
+The Christian says, "I pray in the secret place with reverence."
+
+The Buddhist says, "The Buddha's profound wisdom and lofty teachings call people to do good and to realize the emptiness of all things."
+The Christian says, "My Lord, humble in appearance and gentle in speech, calls people back to their Creator, for God upholds all things."
+
+The Buddhist says, "To practice Buddhism is to escape the cycle of rebirth."
+The Christian says, "To believe in Christ is to receive eternal life."
+
+<div class="english-poem">
+To Harmony's pages, this humble verse I bring,
+Where Christ and Buddha stir the seeking heart to sing.
+A thousand years of cause and consequence unfold;
+Through ages, reverence tests the false from truth of old.
+
+Cast greed, wrath, and delusion far behind the mind;
+Let faith, hope, and love each passing day refine.
+Who says the human heart is harder still than steel?
+Through wind and frost, through rain and snow—God's grace is all we feel.
+</div>
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
