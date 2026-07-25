@@ -36,6 +36,28 @@ author_profile: false
      alt="父親"
      style="max-width:100%; height:auto;">
 
+Father
+
+From an early age, my father was devoted to learning. Yet his family was too poor to support his education, and they lived in a remote rural village. To attend school, he often had to travel long distances on foot. In high school, reaching Liaocheng No. 3 High School required walking through the night for more than nine hours. Having endured countless hardships, including the Great Chinese Famine, he became the first person in our family to leave the countryside and attend university during the 1960s.
+
+Throughout both high school and college, he served as a student leader, and shortly before graduation he became a member of the Chinese Communist Party. Because of his exceptional ability, he went on to serve successively as Director of Academic Affairs, Vice Principal, and Party Secretary. During his career, he worked at four different high schools. Wherever he served, he revitalized struggling schools, transformed their fortunes, and cultivated generations of outstanding students who spread throughout our county.
+
+Raised in the traditions of Confucian thought, my father believed that a man should shoulder the burdens of the world, while within the family a father's authority was absolute and beyond challenge. He placed great hopes upon me, but the discipline he imposed was, at times, almost ruthless. Outside our home, he spoke of me with unmistakable pride. Inside, however, I wore from childhood what felt like a tightening headband of academic expectations. Under his constant instruction and admonition, the worldview I had formed as a precocious child collapsed and was rebuilt again and again, until I finally left home for university, carrying with me an immense sense of responsibility as I entered the unyielding realities of the world.
+
+Confucius once said, "When the Way does not prevail, I shall set out upon a raft and drift upon the sea." My own longing for freedom in youth felt almost like a divine calling, one that carried me across the Pacific Ocean. Slowly I established my own foundation in a distant land, yet my father would never again have the opportunity to watch me grow into a towering tree.
+
+As I grew older, I gradually lost my youthful idealization of America's freedom. I also found myself building my own walls in search of security. Only then did I truly understand everything my father had done for me. At last, our souls were completely reconciled, though the price of that reconciliation was a lifetime spent on opposite sides of the world.
+
+Whenever I returned to China, his joy was unmistakable. Though he often reminded me that I could also have built a fulfilling life in China, he never once tried to force me to return or to choose a different path.
+
+My father suffered from hypertension, coronary artery disease, and persistent atrial fibrillation. In April of this year, he contracted COVID-19 and never fully recovered. His respiratory function remained impaired, and for much of the following months he was confined to bed. After becoming infected again in August, he developed heart failure, and both his breathing and digestion progressively deteriorated. Until the very end, however, his mind remained clear. Without fear, he calmly arranged his affairs and then quietly departed this life.
+
+Now my father's room stands empty. His clothing and personal belongings have all gone with him. Each time I pass by that room, memories of hardship and honor, struggle and reconciliation, return vividly to my mind. I feel neither fear nor sorrowful unease—only a profound stillness. His face and voice linger as though they belonged to yesterday. Time seems forever suspended on the day of his eighty-eighth birthday. Accompanied by the desolate winds of autumn, everything has entered eternity.
+
+My father was born on the eleventh day of the eighth lunar month in 1936 and passed away on the second day of the eighth lunar month in 2024 (September 4, 2024).
+
+Written on September 14, 2024.
+
 <p style="margin-top: 2.5rem;">
   <a href="/wenji/jinian/">← 返回紀念目錄</a>
 </p>
