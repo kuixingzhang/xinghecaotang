@@ -46,9 +46,33 @@ body {
   background: #ffffff;
 }
 
-/* 完全隱藏 Logo 旁邊原來的文字「星河草堂」 */
-#site-nav > a.site-title {
-  display: none !important;
+.site-title {
+  display: flex !important;
+  align-items: center;
+  margin-left: 14px;
+  text-decoration: none !important;
+}
+
+.site-divider {
+  color: #999;
+  font-size: 1rem;
+  margin-right: 14px;
+}
+
+.site-english-title {
+  font-family: "Cormorant Garamond",
+               "Libre Baskerville",
+               Georgia,
+               serif;
+  font-size: 1.18rem;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  color: #666;
+  white-space: nowrap;
+}
+
+.site-title:hover .site-english-title {
+  color: #8b6d3f;
 }
 
 /* 篆書 Logo 圖片 */
