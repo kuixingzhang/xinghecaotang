@@ -53,20 +53,6 @@ body {
 
 /* 篆書 Logo 圖片 */
 .site-logo img {
-    display: flex;
-  align-items: center;
-}
-.site-logo::after{
-  content: "Starlit Cottage";
-  margin-left: 18px;
-  padding-left: 18px;
-  border-left: 1px solid #d5d5d5;
-
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 2.0rem;
-  font-weight: 400;
-  color: #333;
-  letter-spacing: .03em;
 }
   display: block;
   width: auto;
