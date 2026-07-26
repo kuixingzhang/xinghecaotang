@@ -234,6 +234,25 @@ body {
   letter-spacing: 0.1em;
 }
 
+.section-card p {
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+  font-family:
+    "Cormorant Garamond",
+    "Libre Baskerville",
+    Georgia,
+    serif;
+  font-size: 1rem;
+  font-style: italic;
+  color: #777;
+  letter-spacing: 0.05em;
+  transition: color 0.3s ease;
+}
+
+.section-card:hover p {
+  color: #8b6d3f;
+}
+
 .section-card:hover h2 {
   color: #8b6d3f;
 }
