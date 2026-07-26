@@ -3,73 +3,553 @@
 
 @import "minimal-mistakes";
 
-/* 星河草堂 正式版 v1.0（首页重构版）
-   这是精简版骨架，保留现有功能并重构首页。
-   可直接覆盖 assets/css/main.scss 后继续微调。
-*/
+/* ==========================================================
+   Starlit Cottage Theme 2.0
+   Part 1
+   Base + Navigation + Homepage
+========================================================== */
+
+/* ==========================================================
+   Base
+========================================================== */
+
+html{
+  font-size:18px;
+}
 
 body{
   background:#f8f6f1;
   color:#2b2b2b;
   font-family:"Noto Serif SC","Source Han Serif SC","Songti SC",Georgia,serif;
   line-height:1.9;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
 }
 
-.masthead{border-bottom:none;box-shadow:0 1px 8px rgba(0,0,0,.06);margin-bottom:0;}
-.masthead__inner-wrap{padding:0;}
-.greedy-nav{display:flex;align-items:center;min-height:64px;background:#fff;}
-.site-logo img{height:48px;width:auto;}
-.site-divider{display:none;}
-.site-english-title{font-family:"Cormorant Garamond",Georgia,serif;color:#666;font-size:1.15rem;}
+a{
+  transition:color .25s ease;
+}
 
-.page{max-width:1280px;margin:0 auto;}
-.page__content{max-width:760px;margin:auto;line-height:2.05;font-size:1.12rem;}
-.page__meta,.page__hero,.page__hero-caption,.page__footer-follow,.pagination{display:none!important;}
+/* ==========================================================
+   Layout
+========================================================== */
 
-.home-hero{width:100%;margin:0 auto 2rem;}
-.home-hero img{display:block;width:100%;height:auto;}
+.page{
+  max-width:1280px;
+  margin:0 auto;
+}
+
+.page__content{
+  max-width:760px;
+  margin:0 auto;
+  font-size:1.12rem;
+  line-height:2.05;
+}
+
+/* ==========================================================
+   Navigation
+========================================================== */
+
+.masthead{
+  border-bottom:none;
+  background:#fff;
+  box-shadow:0 1px 8px rgba(0,0,0,.06);
+  margin-bottom:0;
+}
+
+.masthead__inner-wrap{
+  padding:0;
+}
+
+.greedy-nav{
+  display:flex;
+  align-items:center;
+  min-height:66px;
+  padding:0;
+  background:#fff;
+}
+
+/* ---------- Logo ---------- */
+
+.site-logo{
+  margin-right:10px;
+}
+
+.site-logo img{
+  display:block;
+  height:48px;
+  width:auto;
+  object-fit:contain;
+}
+
+/* ---------- Site Title ---------- */
+
+.site-title{
+  display:flex!important;
+  align-items:center;
+  text-decoration:none!important;
+}
+
+.site-divider{
+  display:none;
+}
+
+.site-english-title{
+  font-family:"Cormorant Garamond","Libre Baskerville",Georgia,serif;
+  font-size:1.15rem;
+  font-weight:400;
+  letter-spacing:.05em;
+  color:#666;
+  transition:color .25s ease;
+}
+
+.site-title:hover .site-english-title{
+  color:#8b6d3f;
+}
+
+/* ==========================================================
+   Homepage Hero
+========================================================== */
+
+.home-hero{
+  width:100%;
+  margin:0 auto 2.2rem;
+}
+
+.home-hero img{
+  display:block;
+  width:100%;
+  height:auto;
+  border:none;
+}
+
+/* ==========================================================
+   Homepage Cards
+========================================================== */
 
 .home-sections{
-display:grid;
-grid-template-columns:repeat(3,minmax(0,1fr));
-gap:2rem;
-margin:2.5rem auto 5rem;
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:2rem;
+  width:100%;
+  margin:2.5rem auto 5rem;
 }
 
 .section-card{
-display:flex;
-flex-direction:column;
-justify-content:center;
-align-items:flex-start;
-padding:2rem;
-min-height:185px;
-background:#fff;
-border:1px solid rgba(139,109,63,.18);
-border-radius:14px;
-box-shadow:0 8px 24px rgba(0,0,0,.08);
-text-decoration:none!important;
-color:#2b2b2b;
-transition:.25s;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:flex-start;
+  min-height:190px;
+  padding:2rem;
+  background:#fff;
+  border:1px solid rgba(139,109,63,.16);
+  border-radius:14px;
+  box-shadow:0 8px 24px rgba(0,0,0,.07);
+  text-decoration:none!important;
+  color:#2b2b2b;
+  transition:
+    transform .25s ease,
+    box-shadow .25s ease,
+    border-color .25s ease;
 }
 
 .section-card:hover{
-transform:translateY(-6px);
-border-color:rgba(139,109,63,.45);
-box-shadow:0 16px 36px rgba(0,0,0,.12);
+  transform:translateY(-4px);
+  border-color:rgba(139,109,63,.42);
+  box-shadow:0 14px 30px rgba(0,0,0,.10);
+  text-decoration:none!important;
 }
 
-.section-card h2{margin:0;font-size:2.2rem;}
-.card-line{width:56px;height:2px;background:#b48d55;margin:.8rem 0;}
-.card-subtitle{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;color:#7b8794;font-size:1.1rem;}
+.section-card h2{
+  margin:0;
+  font-size:2.25rem;
+  font-weight:700;
+  line-height:1.15;
+  letter-spacing:.08em;
+  color:#2b2b2b;
+  transition:color .25s ease;
+}
 
-.page__footer-copyright{font-size:0;}
-.page__footer-copyright::after{content:"© 2026 星河草堂";font-size:.85rem;color:#666;}
+.card-line{
+  width:58px;
+  height:2px;
+  margin:.9rem 0;
+  background:#b48d55;
+}
+
+.card-subtitle{
+  font-family:"Cormorant Garamond","Libre Baskerville",Georgia,serif;
+  font-size:1.08rem;
+  font-style:italic;
+  color:#7d8792;
+  letter-spacing:.04em;
+  transition:color .25s ease;
+}
+
+.section-card:hover h2,
+.section-card:hover .card-subtitle{
+  color:#8b6d3f;
+}
+
+/* ==========================================================
+   Footer
+========================================================== */
+
+.page__footer-follow{
+  display:none!important;
+}
+
+.page__footer-copyright{
+  font-size:0;
+}
+
+.page__footer-copyright::after{
+  content:"© 2026 星河草堂";
+  font-size:.85rem;
+  color:#666;
+}
+
+
+/* ==========================================================
+   Poetry Grid
+========================================================== */
+
+.poetry-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:1.2rem 3rem;
+  max-width:800px;
+  margin-top:2rem;
+}
+
+.poetry-grid a{
+  display:block;
+  padding:.7rem 0;
+  color:#4f8fa8;
+  font-size:1.15rem;
+  text-decoration:none;
+  border-bottom:1px solid rgba(139,109,63,.18);
+  transition:color .25s ease;
+}
+
+.poetry-grid a:hover{
+  color:#8b6d3f;
+}
+
+
+/* ==========================================================
+   Essay Categories
+========================================================== */
+
+.essay-category-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:1.5rem;
+  max-width:850px;
+  margin-top:2.5rem;
+}
+
+.essay-category-card{
+  display:block;
+  padding:1.8rem 2rem;
+  background:#fff;
+  border:1px solid rgba(139,109,63,.18);
+  border-radius:12px;
+  box-shadow:0 6px 18px rgba(0,0,0,.05);
+  text-decoration:none!important;
+  transition:
+    transform .25s ease,
+    box-shadow .25s ease,
+    border-color .25s ease;
+}
+
+.essay-category-card:hover{
+  transform:translateY(-4px);
+  border-color:rgba(139,109,63,.45);
+  box-shadow:0 12px 26px rgba(0,0,0,.10);
+}
+
+.essay-category-card h2{
+  margin:0 0 .6rem;
+  color:#4f8fa8;
+  font-size:1.4rem;
+  transition:color .25s ease;
+}
+
+.essay-category-card:hover h2{
+  color:#8b6d3f;
+}
+
+.essay-category-card p{
+  margin:0;
+  color:#666;
+  line-height:1.7;
+}
+
+
+/* ==========================================================
+   Page
+========================================================== */
+
+.page__meta{
+  display:none!important;
+}
+
+.poetry-page .page__meta{
+  display:none!important;
+}
+
+
+/* ==========================================================
+   English Poetry
+========================================================== */
+
+.english-poem{
+  margin-top:2rem;
+  font-size:.82em;
+  line-height:1.9;
+  color:#555;
+  font-style:italic;
+}
+
+.english-poem h3{
+  margin-bottom:1.2rem;
+  font-size:1.2em;
+  font-weight:500;
+}
+
+.english-preface{
+  margin-bottom:2rem;
+  font-size:.82em;
+  line-height:1.9;
+  color:#555;
+}
+
+.english-subtitle{
+  margin-top:-.8em;
+  margin-bottom:1.8em;
+  color:#777;
+  font-style:italic;
+}
+
+
+/* ==========================================================
+   Bilingual Poetry
+========================================================== */
+
+.bilingual-poem{
+  display:grid;
+  grid-template-columns:minmax(0,1.5fr) minmax(12rem,1fr);
+  gap:1.5rem 2.5rem;
+  align-items:center;
+  margin-top:2rem;
+}
+
+.poem-zh{
+  font-size:1.15rem;
+  line-height:1.8;
+  font-weight:600;
+}
+
+.poem-en{
+  font-size:1rem;
+  line-height:1.55;
+}
+
+/* ==========================================================
+   Homepage Layout
+========================================================== */
+
+.layout--splash .initial-content{
+  max-width:1280px;
+  margin:0 auto;
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+}
+
+.layout--splash .page{
+  max-width:none;
+}
+
+.layout--splash .page__content{
+  max-width:none;
+  padding:0;
+}
+
+.home-hero{
+  margin:0 auto 2.25rem;
+}
+
+.home-hero img{
+  display:block;
+  width:100%;
+  height:auto;
+}
+
+
+/* ==========================================================
+   Reading Pages
+========================================================== */
+
+.layout--single .page__content,
+.layout--archive .page__content{
+  max-width:760px;
+  margin:0 auto;
+}
+
+
+/* ==========================================================
+   Page Headings
+========================================================== */
+
+.page__title{
+  margin-bottom:2rem;
+  color:#2b2b2b;
+  font-weight:600;
+}
+
+.page__content h2{
+  margin-top:2.8rem;
+  margin-bottom:1rem;
+}
+
+.page__content h3{
+  margin-top:2.2rem;
+  margin-bottom:.8rem;
+}
+
+.page__content p{
+  margin-bottom:1.25rem;
+}
+
+.page__content img{
+  display:block;
+  max-width:100%;
+  height:auto;
+  margin:2rem auto;
+}
+
+
+/* ==========================================================
+   Links
+========================================================== */
+
+.page__content a{
+  color:#4f8fa8;
+  text-decoration:none;
+}
+
+.page__content a:hover{
+  color:#8b6d3f;
+}
+
+
+/* ==========================================================
+   Lists
+========================================================== */
+
+.page__content ul,
+.page__content ol{
+  margin-bottom:1.5rem;
+}
+
+.page__content li{
+  margin-bottom:.45rem;
+}
+
+
+/* ==========================================================
+   Responsive
+========================================================== */
 
 @media(max-width:900px){
-.home-sections{grid-template-columns:repeat(3,1fr);gap:1rem;}
+
+  html{
+    font-size:17px;
+  }
+
+  .site-logo img{
+    height:42px;
+  }
+
+  .greedy-nav{
+    min-height:60px;
+  }
+
+  .layout--splash .initial-content{
+    padding-left:1rem;
+    padding-right:1rem;
+  }
+
+  .home-sections{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:1.2rem;
+  }
+
+  .section-card{
+    padding:1.5rem;
+    min-height:170px;
+  }
+
+  .section-card h2{
+    font-size:1.9rem;
+  }
+
 }
 
+
+@media(max-width:700px){
+
+  .bilingual-poem{
+    grid-template-columns:1fr;
+    gap:1rem;
+  }
+
+  .poem-zh{
+    margin-bottom:1rem;
+  }
+
+}
+
+
 @media(max-width:600px){
-.site-logo img{height:36px;}
-.home-sections{grid-template-columns:1fr;}
+
+  html{
+    font-size:16px;
+  }
+
+  .site-logo img{
+    height:36px;
+  }
+
+  .greedy-nav{
+    min-height:54px;
+  }
+
+  .layout--splash .initial-content{
+    padding-left:.8rem;
+    padding-right:.8rem;
+  }
+
+  .home-sections{
+    grid-template-columns:1fr;
+    gap:1.2rem;
+    margin:2rem auto 3rem;
+  }
+
+  .section-card{
+    min-height:145px;
+    padding:1.5rem;
+  }
+
+  .section-card h2{
+    font-size:1.8rem;
+  }
+
+  .poetry-grid,
+  .essay-category-grid{
+    grid-template-columns:1fr;
+  }
+
 }
