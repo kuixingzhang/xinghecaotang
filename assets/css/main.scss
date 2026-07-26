@@ -1,0 +1,75 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* 星河草堂 正式版 v1.0（首页重构版）
+   这是精简版骨架，保留现有功能并重构首页。
+   可直接覆盖 assets/css/main.scss 后继续微调。
+*/
+
+body{
+  background:#f8f6f1;
+  color:#2b2b2b;
+  font-family:"Noto Serif SC","Source Han Serif SC","Songti SC",Georgia,serif;
+  line-height:1.9;
+}
+
+.masthead{border-bottom:none;box-shadow:0 1px 8px rgba(0,0,0,.06);margin-bottom:0;}
+.masthead__inner-wrap{padding:0;}
+.greedy-nav{display:flex;align-items:center;min-height:64px;background:#fff;}
+.site-logo img{height:48px;width:auto;}
+.site-divider{display:none;}
+.site-english-title{font-family:"Cormorant Garamond",Georgia,serif;color:#666;font-size:1.15rem;}
+
+.page{max-width:1280px;margin:0 auto;}
+.page__content{max-width:760px;margin:auto;line-height:2.05;font-size:1.12rem;}
+.page__meta,.page__hero,.page__hero-caption,.page__footer-follow,.pagination{display:none!important;}
+
+.home-hero{width:100%;margin:0 auto 2rem;}
+.home-hero img{display:block;width:100%;height:auto;}
+
+.home-sections{
+display:grid;
+grid-template-columns:repeat(3,minmax(0,1fr));
+gap:2rem;
+margin:2.5rem auto 5rem;
+}
+
+.section-card{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:flex-start;
+padding:2rem;
+min-height:185px;
+background:#fff;
+border:1px solid rgba(139,109,63,.18);
+border-radius:14px;
+box-shadow:0 8px 24px rgba(0,0,0,.08);
+text-decoration:none!important;
+color:#2b2b2b;
+transition:.25s;
+}
+
+.section-card:hover{
+transform:translateY(-6px);
+border-color:rgba(139,109,63,.45);
+box-shadow:0 16px 36px rgba(0,0,0,.12);
+}
+
+.section-card h2{margin:0;font-size:2.2rem;}
+.card-line{width:56px;height:2px;background:#b48d55;margin:.8rem 0;}
+.card-subtitle{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;color:#7b8794;font-size:1.1rem;}
+
+.page__footer-copyright{font-size:0;}
+.page__footer-copyright::after{content:"© 2026 星河草堂";font-size:.85rem;color:#666;}
+
+@media(max-width:900px){
+.home-sections{grid-template-columns:repeat(3,1fr);gap:1rem;}
+}
+
+@media(max-width:600px){
+.site-logo img{height:36px;}
+.home-sections{grid-template-columns:1fr;}
+}
