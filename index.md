@@ -27,22 +27,17 @@ header:
 
   <a href="/wenji/" class="section-card">
     <h2>文集</h2>
+    <p>Writings</p>
   </a>
 
   <a href="/xinglv/" class="section-card">
     <h2>行旅</h2>
+    <p>Travels</p>
   </a>
 
   <a href="/shigao/" class="section-card">
     <h2>詩稿</h2>
+    <p>Poetry</p>
   </a>
 
 </div>
-
-The galaxy is boundless; this humble cottage is small. I, a mere wayfarer, dwell in but a forgotten corner of the universe. Seeking above and below, I have at last found this little place to call my own.
-
-Here I till and tend it, finding quiet joy in the labor. Thus have I named it Starlit Cottage.
-
-Should friends come from distant lands, we shall discourse on the classics, ponder the Way, raise our cups in cheerful fellowship, and rejoice together. What greater delight could there be?
-
-Together with a few kindred spirits, united in heart and purpose, may we inquire into the mysteries of Heaven and humanity, and pass on a spirit of integrity and grace without end. Could there be anything more beautiful?
