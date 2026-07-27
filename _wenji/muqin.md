@@ -91,5 +91,5 @@ toc: false
      style="max-width:100%; height:auto;">
 
 <p style="margin-top: 2.5rem;">
-  <a href="/wenji/jinian/">← 返回紀念目錄</a>
+  <a href="/wenji/jinian/">← 返回紀念</a>
 </p>
