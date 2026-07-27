@@ -1,7 +1,7 @@
 ---
 title: "母親"
 layout: single
-permalink: /wenji/rensheng/muqin/
+permalink: /wenji/jinian/muqin/
 author_profile: false
 classes: wide
 toc: false
