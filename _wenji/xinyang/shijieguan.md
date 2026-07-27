@@ -81,5 +81,4 @@ toc: false
 <p style="margin-top:3rem;text-align:center;">
 <a href="/wenji/xinyang/">← 返回信仰</a>
 </p>
-  <a href="/wenji/xinyang/">← 返回信仰目錄</a>
-</p>
+
