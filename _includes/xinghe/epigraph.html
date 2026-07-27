@@ -1,21 +1,21 @@
 <div class="essay-epigraph">
 
   {% if include.zh %}
-  <p class="epigraph-zh">
-    {{ include.zh | markdownify }}
-  </p>
+    <div class="epigraph-zh">
+      {{ include.zh | markdownify }}
+    </div>
   {% endif %}
 
   {% if include.en %}
-  <p class="epigraph-en">
-    {{ include.en | markdownify }}
-  </p>
+    <div class="epigraph-en">
+      <em>{{ include.en | markdownify }}</em>
+    </div>
   {% endif %}
 
   {% if include.ref %}
-  <p class="epigraph-ref">
-    {{ include.ref }}
-  </p>
+    <div class="epigraph-ref">
+      {{ include.ref }}
+    </div>
   {% endif %}
 
 </div>
