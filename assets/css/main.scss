@@ -701,29 +701,32 @@ a{
 
 /* ===== Xinghe Epigraph ===== */
 
-.essay-epigraph {
-  max-width: 760px;
-  margin: 3rem auto 4rem;
-  text-align: center;
+.essay-epigraph{
+    max-width:760px;
+    margin:3rem auto 4rem;
+    text-align:center;
 }
 
-.epigraph-zh {
-  font-style: italic;
-  font-size: 1.08rem;
-  line-height: 1.9;
-  margin-bottom: 1rem;
+.epigraph-zh{
+    font-size:1.08rem;
+    line-height:1.9;
+    margin-bottom:1rem;
 }
 
-.epigraph-en {
-  font-style: italic;
-  font-size: 0.96rem;
-  line-height: 1.8;
-  color: #666;
-  margin-bottom: 0.8rem;
+.epigraph-en{
+    font-size:.96rem;
+    color:#666;
+    line-height:1.8;
+    margin-bottom:.8rem;
 }
 
-.epigraph-ref {
-  font-size: 0.9rem;
-  color: #888;
-  letter-spacing: 0.04em;
+.epigraph-en em{
+    font-style:italic;
+    font-weight:400;
+}
+
+.epigraph-ref{
+    font-size:.88rem;
+    color:#888;
+    letter-spacing:.04em;
 }
