@@ -609,8 +609,8 @@ a{
 
 .bi-row {
   display: grid;
-  grid-template-columns:0.82fr 1.18fr;
-  gap:2.4rem;
+  grid-template-columns:0.94fr 1.06fr;
+  gap:3rem;
   margin: 2.8rem 0;
   align-items: start;
 }
@@ -620,11 +620,11 @@ a{
 }
 
 .bi-row > div:first-child {
-  padding-right: 1.5rem;
+  padding-right: 1rem;
 }
 
 .bi-row > div:last-child {
-  padding-left: 1.5rem;
+  padding-left: 1rem;
   border-left: 1px solid #e3e3e3;
   font-size: .90rem;
   line-height: 1.85;
