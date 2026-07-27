@@ -1,7 +1,7 @@
 ---
 title: "父親"
 layout: single
-permalink: /wenji/jinan/fuqin/
+permalink: /wenji/jinian/fuqin/
 author_profile: false
 classes: wide
 toc: false
