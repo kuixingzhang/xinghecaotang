@@ -1,103 +1,85 @@
 ---
+title: "基督教和無神論的世界觀"
 layout: single
-title: "基督教與無神論世界觀的比較"
-date: 2026-07-17
 permalink: /wenji/xinyang/shijieguan/
 author_profile: false
+classes: wide
 toc: false
-header:
-  overlay_filter: 0
 ---
 
-基督教的世界觀是建構性的，不需要寄生於其他文明或思想體系，就能夠自然生長出愛、公義、良知、憐憫、人權、寬恕等價值。因為在基督教看來，人是按著神的形象受造，每一個生命都具有神所賦予、不可剝奪的尊嚴；人與人之間之所以應當彼此相愛，不是因為這樣做更有利，而是因為神先愛了人。
+<h1 class="essay-title">基督教和無神論的世界觀</h1>
 
-相反，無神論世界觀否認神這一終極根基，卻仍然試圖保留愛、人權、公義、平等等價值。問題在於，這些價值究竟建立在什麼基礎之上？如果沒有一個高於人的道德源頭，它們最終只能依附於歷史上由基督教或其他宗教文明長期孕育出來的倫理傳統，而難以僅憑自然本身獲得穩固的根基。今天許多無神論者也許真誠地關心公平、自由、人權和慈愛，但這並不能回答這些價值為什麼具有不可侵犯的客觀權威。
+<p class="essay-subtitle">
+<em>The Christian and Atheistic Worldviews</em>
+</p>
 
-如果生命只是粒子偶然碰撞、經過漫長自然過程形成的結果，如果宇宙本身沒有目的，善惡只是演化過程中形成的一種生存策略，那麼愛與犧牲、公義與寬恕、人權與尊嚴，究竟是美好的理性，還是生存壓力下的緩兵之計？一個隨機產生的體系不可能輸出秩序，也不可能建立秩序之上美好的德行。如果沒有一位高於人的主宰，人為什麼應該愛陌生人？為什麼公義值得堅持？為什麼每個人都擁有不可侵犯的尊嚴？如果這些價值只是生存競爭過程中偶然形成的產物，那麼當它們與個人利益、國家利益或強者利益發生衝突的時候，我們又憑什麼堅持它們？
+{% include xinghe/paragraph.html
+  zh="基督教的世界觀是建構性的，不需要寄生於其他文明或思想體系，就能夠自然生長出愛、公義、良知、憐憫、人權、寬恕等價值。因為在基督教看來，人是按著神的形象受造，每一個生命都具有神所賦予、不可剝奪的尊嚴；人與人之間之所以應當彼此相愛，不是因為這樣做更有利，而是因為神先愛了人。"
+  en="The Christian worldview is inherently constructive. It does not need to borrow its moral foundation from another civilization or philosophy, for within Christianity itself arise the enduring ideals of love, justice, conscience, mercy, forgiveness, and human dignity. These values grow naturally from one central conviction: that every human being is created in the image of God. Human worth is therefore not earned by intelligence, wealth, achievement, or social status. It is bestowed by the Creator Himself and cannot be taken away. We are called to love one another not because love is merely useful or advantageous, but because God first loved us."
+%}
 
-無神論者喜歡用進化論來對抗基督教，但進化論只是解釋生物多樣性的科學理論，把它嚴格限制在生物發展的範圍內，並沒有問題。然而，近代以來，許多人彷彿撿到了一把萬能鑰匙，把進化論提升為一種解釋人生、道德、歷史和社會的自然主義世界觀，試圖用它回答一切問題。當人不再承認有一位高於人的創造主，不再承認人最終要向神負責，道德便失去終極根基，社會也必然滑向「物競天擇、適者生存」的思維方式。
+{% include xinghe/paragraph.html
+  zh="相反，無神論世界觀否認神這一終極根基，卻仍然試圖保留愛、人權、公義、平等等價值。問題在於，這些價值究竟建立在什麼基礎之上？如果沒有一個高於人的道德源頭，它們最終只能依附於歷史上由基督教或其他宗教文明長期孕育出來的倫理傳統，而難以僅憑自然本身獲得穩固的根基。今天許多無神論者也許真誠地關心公平、自由、人權和慈愛，但這並不能回答這些價值為什麼具有不可侵犯的客觀權威。"
+  en="By contrast, the atheistic worldview rejects God as the ultimate source of reality while often seeking to preserve many of the same moral ideals—love, justice, equality, freedom, and human rights. The crucial question, however, is not whether these values are admirable, but why they possess objective authority. If there is no moral reality higher than humanity itself, upon what foundation do such values ultimately stand? Modern atheists may sincerely care about compassion, fairness, and human rights, yet sincerity alone cannot explain why these principles should be universally binding rather than merely personal or cultural preferences. Without a transcendent moral source, they remain difficult to ground in anything beyond inherited ethical traditions or social consensus."
+%}
+{% include xinghe/paragraph.html
+  zh="如果生命只是粒子偶然碰撞、經過漫長自然過程形成的結果，如果宇宙本身沒有目的，善惡只是演化過程中形成的一種生存策略，那麼愛與犧牲、公義與寬恕、人權與尊嚴，究竟是真實存在的價值，還是生存壓力下逐漸形成的適應機制？一個隨機產生的體系可以形成複雜的結構，但是否能夠賦予它們客觀的意義與道德責任？如果沒有一位高於人的主宰，人為什麼應該愛陌生人？為什麼公義值得堅持？為什麼每一個生命都擁有不可侵犯的尊嚴？如果這些價值只是生存競爭中偶然形成的產物，那麼當它們與個人利益、國家利益或強者利益發生衝突時，我們又憑什麼仍然堅持它們？"
+  en="If life is ultimately the product of matter, chance, and long natural processes, and if the universe itself possesses no purpose beyond its own existence, then what becomes of morality? Are love and sacrifice, justice and forgiveness, human rights and human dignity objective realities, or are they simply successful survival strategies shaped by evolution? A natural process may explain how increasingly complex organisms arise, but can it also explain why compassion ought to be preferred over cruelty, or why justice should prevail over power? Without a moral authority that transcends humanity, why should anyone love a stranger, defend the weak, or sacrifice personal interest for the sake of truth? And if our moral instincts are nothing more than products of evolutionary survival, what obligates us to uphold them whenever they conflict with power, self-interest, or national ambition?"
+%}
 
-1. **基督教相信**人是按著神的形象被造的，每個人都有神性，與動物不同，屬靈的需要高過肉體的需要；**無神論者相信**人是低等生物進化來的，與動物沒有兩樣，道德、精神不過是為了適應環境的結果。
+{% include xinghe/paragraph.html
+  zh="無神論者常以進化論作為反對基督教的重要依據。然而，進化論本身是一種解釋生物多樣性和生命演化的科學理論，只要將它限定在生物學的範圍內，並沒有任何問題。真正值得討論的是，近代以來，自然主義世界觀常常把進化論提升為一把可以解釋人生、道德、歷史與文明的萬能鑰匙。當人不再承認有一位高於人的創造主，也不再承認人最終要向神負責時，道德便失去了終極根基，社會也容易逐漸滑向『物競天擇，適者生存』的思維方式。"
+  en="For this reason, the central issue is not evolution itself. Evolution is a scientific theory that seeks to explain biological diversity and the development of life. Within the proper scope of science, it serves a legitimate purpose. The philosophical question arises only when evolution is expanded into a comprehensive worldview—when naturalism claims that it can explain not only biology, but morality, meaning, history, and civilization as well. Once humanity is understood as accountable to no Creator beyond itself, moral obligation no longer rests upon an enduring foundation. The danger is not the science of evolution, but the assumption that a process describing biological change can also provide the final explanation for justice, conscience, and the purpose of human life."
+%}
+{% include xinghe/paragraph.html
+  zh="兩種世界觀最深刻的差異，不在於它們對某一個問題的不同看法，而在於它們如何回答人生最根本的問題：人是誰？生命從哪裡來？人生是否具有目的？道德從何而來？又是什麼賦予每一個人不可取代的價值？這些問題的答案，最終決定了一個文明如何看待自己，也決定了它將走向何方。"
+  en="The deepest difference between these two worldviews does not lie in their answers to a single issue, but in the way they address the most fundamental questions of human existence. What is a human being? Where does life come from? Does life possess an objective purpose? What is the source of morality? And what gives every person inherent worth? The answers to these questions ultimately shape not only individual lives, but the character and direction of entire civilizations."
+%}
 
-2. **基督教相信**人都是亞當的後代，有神的形象，彼此應該和平、友愛；**無神論者相信**人是進化來的，為了生存而不斷鬥爭。
+{% include xinghe/paragraph.html
+  zh="基督教相信，人是按著神的形象受造，因此每一個人都具有與生俱來、不可剝奪的尊嚴；人的屬靈生命高於物質生命，真正的滿足不僅來自物質，更來自與神恢復正確的關係。相反，自然主義的無神論通常認為，人是漫長自然演化的產物，人的思想、道德和宗教經驗，都可以理解為生物演化與環境適應的結果。"
+  en="Christianity teaches that every human being bears the image of God. Human dignity is therefore intrinsic rather than earned, and the deepest needs of the human heart are ultimately spiritual rather than merely material. By contrast, a naturalistic worldview generally understands humanity as the outcome of undirected natural processes, with consciousness, morality, and even religious experience arising through biological evolution and environmental adaptation."
+%}
 
-3. **基督教相信**人生有神所賦予的目的，應該善用恩賜、管理環境，準備為自己的責任和義務向神交帳；**無神論者相信**人是隨機碰撞、進化的結果，人生沒有目的，要及時行樂、享受人生。
+{% include xinghe/paragraph.html
+  zh="基督教相信，人生具有神所賦予的目的。每個人都領受不同的恩賜，也肩負不同的責任；我們不僅活在今生，更要為自己的生命向神交帳。因此，工作、家庭、藝術、科學和文化，都可以成為榮耀神、服事他人的途徑。自然主義則通常認為，宇宙本身沒有預設的目的，生命的意義需要由人自己創造；因此，人生最終的方向，也只能建立在人自己的選擇之上。"
+  en="Christianity understands life as a divine calling. Every person is entrusted with unique gifts and responsibilities, and life is lived before God, to whom we are ultimately accountable. Work, family, science, art, and culture therefore become meaningful expressions of faithful stewardship. A naturalistic worldview, however, generally holds that the universe possesses no inherent purpose, leaving human beings to construct meaning for themselves through personal choice and experience."
+%}
 
-4. **基督教相信**神眷顧貧窮、軟弱、失敗的人，因此信徒也應成為神祝福的管道，扶助孤兒寡婦、老弱病殘，因為每個人都具有神所賦予的尊嚴。**無神論者**並不相信有憐憫或公義，只有生存與淘汰。當「適者生存」被直接應用到社會時，弱者便容易被視為社會發展的負擔。
+{% include xinghe/paragraph.html
+  zh="因此，在面對弱者、公義、權力和國家的問題時，兩種世界觀也自然走向不同的方向。基督教相信，每一個人都是神所愛的，因此孤兒、寡婦、病人、殘障者和貧窮的人，同樣具有不可侵犯的尊嚴；真正的公義並不取決於多數人的意志，也不取決於掌權者的利益，而是根植於神永恆不變的公義。若否認任何高於人的終極權威，社會最終便只能依靠人的理性、權力或共識來維持秩序，而這些基礎，也都可能隨著時代和權力的更替而改變。"
+  en="These contrasting foundations naturally lead to different understandings of justice, political authority, and the treatment of the vulnerable. Christianity affirms that every person—including the poor, the weak, the sick, and the forgotten—is worthy of love because each bears God's image. Justice is not determined simply by majority opinion or political power, but reflects the unchanging character of God. If no authority exists beyond humanity itself, then moral order ultimately rests upon human reason, social consensus, or political power—foundations that inevitably shift with history and circumstance."
+%}
+{% include xinghe/paragraph.html
+  zh="歷史也提醒我們，一種思想的影響，往往不只停留在哲學層面，也可能逐漸塑造整個社會對人的理解。當一種原本屬於自然科學的理論，被提升為解釋人生、道德、政治與歷史的終極原則時，它便不再只是科學，而成了一種世界觀。十九世紀以後，一些思想家將「適者生存」直接推廣到社會、政治與經濟領域，形成後來所謂的社會達爾文主義（Social Darwinism），並對優生學、殖民主義以及某些種族主義思想產生了深遠影響。當然，今天多數生物學家並不認為這些思想是現代演化生物學本身的必然結論。"
+  en="History reminds us that ideas rarely remain confined to the realm of philosophy. They gradually shape the way entire societies understand human nature and human value. A scientific theory may remain entirely legitimate within its own discipline, yet once it is elevated into a comprehensive explanation of morality, politics, and civilization, it becomes something more than science—it becomes a worldview. During the nineteenth century, concepts associated with 'survival of the fittest' were extended far beyond biology into social and political thought, contributing to what later became known as Social Darwinism. These ideas influenced movements such as eugenics, imperialism, and certain forms of racial ideology. It is important to recognize, however, that most contemporary biologists do not regard these developments as necessary conclusions of modern evolutionary science."
+%}
 
-5. **基督教相信**神按著自己的形象造人；**無神論者相信**人可以隨自己的想像造神。
+{% include xinghe/paragraph.html
+  zh="近代西方對人權的理解，則提供了另一個值得思考的例子。《美國獨立宣言》宣告：「人人生而平等，他們的造物主賦予他們若干不可剝奪的權利。」這並不是偶然的措辭，而是反映了猶太—基督教傳統對人的理解：人的尊嚴首先來自受造的身分，而不是來自能力、財富、地位或社會的認可。正因如此，人權並不是政府所賜予的特權，而是任何政府都無權剝奪的權利。"
+  en="The modern understanding of human rights offers a different historical example. The United States Declaration of Independence proclaims that all people 'are endowed by their Creator with certain unalienable Rights.' This language was not accidental. It reflects the profound influence of the Judeo-Christian tradition, which understands human dignity as flowing first from humanity's identity as God's creation rather than from wealth, ability, social status, or political recognition. From this perspective, human rights are not privileges granted by governments but rights that governments themselves are morally bound to respect."
+%}
 
-6. **基督教相信**神是宇宙最終的主宰，沒有任何個人、國家或制度高於神的公義。**無神論者**否認高於人的終極權威，那麼最終決定社會規則的，只能是掌權者。
+{% include xinghe/paragraph.html
+  zh="二次世界大戰後的紐倫堡審判，也提出了一個重要的問題。許多納粹官員辯稱，他們只是遵守當時國家的法律與上級的命令。然而，法庭最終認定，仍然存在高於國家法律的人類共同正義標準，因此「合法」並不等於「公義」。這一案例至今仍被廣泛討論，因為它觸及了一個根本問題：如果不存在高於人的道德標準，我們又憑什麼批判那些合法卻極不公義的制度？"
+  en="The Nuremberg Trials after the Second World War raised another enduring question. Many Nazi officials argued that they had merely obeyed the laws of their nation and the orders of their superiors. The tribunal nevertheless concluded that there exists a standard of justice higher than the laws of any particular state. What is legally permitted is not necessarily morally right. The case continues to be discussed because it asks a profound philosophical question: if no moral law exists beyond human authority, on what basis can we condemn laws that are legal yet deeply unjust?"
+%}
 
-7. **基督教相信**人是天父的兒女，應當信靠神，因為人的能力有限，智慧有限，生命也有限。**無神論者相信**自己的理性、科學和技術，可以獨立自主、人定勝天。
+{% include xinghe/paragraph.html
+  zh="二十世紀經歷了納粹德國、蘇聯大清洗、柬埔寨紅色高棉等重大歷史悲劇。這些事件的成因極其複雜，不能簡單歸結於任何單一哲學、宗教或科學理論。然而，它們共同提醒我們：當任何意識形態宣稱自己擁有對真理的最終解釋權，而不再承認有高於人的道德約束時，人性的黑暗便可能藉著龐大的權力，造成深重而持久的災難。"
+  en="The tragedies of the twentieth century—including Nazi Germany, the Soviet purges, and the Khmer Rouge—were shaped by many historical, political, and cultural forces. No single philosophy, religion, or scientific theory can adequately explain them all. Yet together they offer a sobering reminder: whenever an ideology claims ultimate authority while denying any moral standard higher than itself, immense political power can become detached from moral restraint. History repeatedly shows how such conditions may lead to profound human suffering."
+%}
+{% include xinghe/paragraph.html
+  zh="歸根結底，基督教與無神論之間真正的分歧，並不只是對神是否存在有不同答案，而是對整個世界如何成立有不同理解。如果人只是偶然出現於一個沒有目的的宇宙，那麼愛、公義、憐憫、寬恕、人權和尊嚴，便需要重新回答它們究竟建立在什麼根基之上；如果人是按著神的形象受造，這些價值便不只是人類文明長久形成的共識，而是源於創造主本身，具有超越時代、文化和權力的客觀意義。世界觀並非抽象的哲學，它最終決定了我們如何看待自己、如何對待他人，也決定了一個文明將走向何方。"
+  en="Ultimately, the deepest difference between Christianity and atheism is not simply whether God exists, but how reality itself is understood. If humanity is the accidental product of a purposeless universe, then love, justice, mercy, forgiveness, human rights, and human dignity must all answer the same question: upon what foundation do they finally rest? If, however, human beings are created in the image of God, these values are more than the accumulated wisdom of civilization or the preferences of a particular culture. They reflect the character of the Creator Himself and therefore possess an enduring significance that transcends history, society, and political power. A worldview is never merely an abstract philosophy. It shapes how we understand ourselves, how we treat one another, and ultimately the kind of civilization we choose to build."
+%}
 
----
+<p class="essay-image">
+  <img src="/assets/images/wenji/shijieguan.jpg" alt="基督教和無神論的世界觀">
+</p>
 
-# 註解（歷史與思想發展的幾個例子）
-
-### ① 當科學理論被提升為社會哲學時
-
-進化論本身是一種解釋生物演化的科學理論；但十九世紀以後，一些思想家把「適者生存」直接推廣到社會、政治和經濟領域，形成了後來被稱為「社會達爾文主義」（Social Darwinism）的思想。這種思想曾影響優生學、殖民主義以及某些種族主義理論。當然，今天多數生物學家並不認為這是現代進化生物學本身的必然結論。
-
-### ② 人權的根基從哪裡來？
-
-《美國獨立宣言》提出：「人人生而平等，他們的造物主賦予他們若干不可剝奪的權利。」（"...endowed by their Creator with certain unalienable Rights."）近代西方人權觀的發展深受猶太—基督教傳統影響，強調人的尊嚴並不取決於財富、能力或社會地位，而首先源於人的受造身分。
-
-### ③ 為什麼紐倫堡審判能夠審判納粹？
-
-二戰後，許多納粹官員辯稱自己只是遵守國家法律和上級命令。紐倫堡審判最終認為，仍然存在高於國家法律的人類共同正義標準。這一案例常被用來討論：如果不存在高於人的道德標準，如何評價「合法但不公義」的行為？
-
-### ④ 歷史給人的提醒
-
-二十世紀經歷了納粹德國、蘇聯大清洗、柬埔寨紅色高棉等重大歷史悲劇。這些事件的成因極其複雜，不能簡單歸結於某一種哲學或科學理論；但它們提醒人們：當任何意識形態宣稱自己擁有終極解釋權，而不再承認有高於人的道德約束時，人性的黑暗可能造成深重的災難。
-
-
-![基督教與無神論世界觀的比較](/assets/images/wenji/shijieguan.jpg)
-**A Comparison Between the Christian and Atheistic Worldviews**
-
-The Christian worldview is inherently constructive. It does not need to borrow from or depend upon another civilization or philosophical system in order to cultivate values such as love, justice, conscience, mercy, human rights, and forgiveness. Christianity teaches that every human being is created in the image of God, and therefore every life possesses an inherent and inalienable dignity bestowed by its Creator. We are called to love one another not because it is merely advantageous, but because God first loved us.
-
-By contrast, the atheistic worldview rejects God as the ultimate foundation while often seeking to preserve values such as love, human rights, justice, and equality. The question, however, is this: upon what foundation do these values ultimately rest? If there is no moral source higher than humanity itself, then such values can only continue to draw upon ethical traditions that have been cultivated over centuries by Christianity or other religious civilizations. They struggle to find a stable grounding in nature alone. Many atheists today sincerely care about fairness, liberty, human rights, and compassion. Yet this sincerity does not answer the deeper philosophical question of why these values possess objective and inviolable authority.
-
-If life is nothing more than the accidental result of particles colliding through an unguided natural process, if the universe itself has no purpose, and if good and evil are merely survival strategies shaped by evolution, then what are love and self-sacrifice, justice and forgiveness, human rights and human dignity? Are they objective moral realities, or simply useful adaptations under evolutionary pressure? A system that arises entirely by chance cannot itself produce objective moral order. Without a sovereign authority above humanity, why should anyone love a stranger? Why should justice be upheld? Why should every individual possess inviolable dignity? If these values are merely accidental by-products of evolutionary competition, then what obligates us to preserve them whenever they conflict with personal interests, national interests, or the interests of the powerful?
-
-Many atheists appeal to the theory of evolution in their critique of Christianity. Evolution, however, is fundamentally a scientific theory that explains biological diversity, and when confined to the study of biological development, it presents no inherent philosophical difficulty. Since the nineteenth century, however, many have treated evolution as though it were a universal key capable of explaining not only biology, but also morality, history, society, and the meaning of life itself. It has been elevated from a scientific theory into a comprehensive naturalistic worldview. Once humanity no longer acknowledges a Creator who stands above mankind, and no longer believes that human beings are ultimately accountable to God, morality loses its transcendent foundation, and society naturally tends toward a philosophy of "survival of the fittest."
-
-1. Christianity teaches that human beings are created in the image of God. Every person possesses spiritual dignity that distinguishes humanity from the animal world, and humanity's spiritual needs ultimately surpass its physical needs. The atheistic worldview generally understands human beings as products of biological evolution, fundamentally continuous with other animals, with morality and spirituality emerging primarily as adaptive responses to environmental pressures.
-
-2. Christianity teaches that all people descend from Adam and bear God's image, and therefore ought to live in peace and love toward one another. An atheistic worldview commonly understands humanity as the product of evolutionary struggle, in which competition for survival has played a central role.
-
-3. Christianity teaches that human life has a God-given purpose. People are called to develop their gifts, steward creation responsibly, and one day give an account to God for their lives. An atheistic worldview generally understands human existence as the unintended result of natural processes without ultimate purpose, encouraging people to seek meaning and fulfillment within the limits of this present life.
-
-4. Christianity teaches that God cares especially for the poor, the weak, the suffering, and the marginalized. Christians are therefore called to become instruments of God's blessing by caring for widows, orphans, the elderly, the sick, and the disabled, because every person bears God-given dignity. An atheistic worldview, by contrast, offers no transcendent basis for mercy or justice beyond human preference. When the principle of "survival of the fittest" is applied directly to society, the weak are more easily viewed as burdens rather than persons of inherent worth.
-
-5. Christianity teaches that God created humanity in His own image. An atheistic worldview teaches that humanity creates gods according to its own imagination.
-
-6. Christianity teaches that God is the ultimate sovereign over the universe. No individual, nation, or political system stands above His justice. An atheistic worldview rejects any authority higher than humanity itself, leaving those who hold power as the ultimate arbiters of social rules and moral standards.
-
-7. Christianity teaches that human beings are children of the Heavenly Father and should place their trust in Him, because human strength, wisdom, and life itself are finite. An atheistic worldview places its confidence in human reason, science, and technology, believing that humanity is ultimately capable of determining its own destiny.
-
-Notes: Historical and Philosophical Illustrations
-1. When a Scientific Theory Becomes a Social Philosophy
-
-Evolutionary theory is a scientific explanation of biological evolution. During the nineteenth century, however, some thinkers extended the concept of "survival of the fittest" into politics, economics, and society, giving rise to what later became known as Social Darwinism. These ideas influenced movements such as eugenics, colonialism, and certain forms of racial ideology. It should be noted, however, that most contemporary evolutionary biologists do not regard these conclusions as necessary implications of modern evolutionary biology itself.
-
-2. Where Do Human Rights Come From?
-
-The United States Declaration of Independence states:
-
-"We hold these truths to be self-evident, that all men are created equal... that they are endowed by their Creator with certain unalienable Rights."
-
-The modern Western understanding of human rights has been profoundly shaped by the Judeo-Christian tradition, which teaches that human dignity does not depend upon wealth, ability, or social status, but first and foremost upon humanity's identity as creatures made by God.
-
-3. Why Were the Nuremberg Trials Possible?
-
-After World War II, many Nazi officials defended themselves by arguing that they had merely obeyed the laws of their nation and the orders of their superiors. The Nuremberg Trials ultimately held that there exists a standard of justice higher than the laws of any particular state. This case is frequently cited in discussions of a fundamental philosophical question: if no moral standard exists above human authority, how can one judge actions that are legally permitted but morally unjust?
-
-4. Lessons from History
-
-The twentieth century witnessed immense human tragedies, including Nazi Germany, Stalin's Great Purge in the Soviet Union, and the Khmer Rouge regime in Cambodia. The causes of these catastrophes were extraordinarily complex and cannot be attributed solely to any single philosophy or scientific theory. Nevertheless, they serve as a sobering reminder that whenever any ideology claims ultimate authority while denying moral accountability beyond human power, the darker impulses of human nature may lead to profound suffering and destruction.
-
-<p style="margin-top: 3rem; text-align: center;">
+<p style="margin-top:3rem;text-align:center;">
+<a href="/wenji/xinyang/">← 返回信仰</a>
+</p>
   <a href="/wenji/xinyang/">← 返回信仰目錄</a>
 </p>
