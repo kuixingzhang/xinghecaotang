@@ -15,5 +15,5 @@ author_profile: false
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
-  <a href="/wenji/">← 返回文集目錄</a>
+  <a href="/wenji/">← 返回文集</a>
 </p>
