@@ -649,3 +649,52 @@ a{
   }
 
 }
+
+/* ==================================================
+   Xinghe Caotang Essay Style
+================================================== */
+
+.essay-title{
+    text-align:center;
+    margin-top:1rem;
+    margin-bottom:.3rem;
+}
+
+.essay-subtitle{
+    text-align:center;
+    font-size:1.15rem;
+    color:#777;
+    margin-bottom:3rem;
+}
+
+.essay-epigraph{
+
+    text-align:center;
+    max-width:700px;
+    margin:0 auto 4rem auto;
+
+}
+
+.epigraph-zh{
+
+    font-size:1.05rem;
+    color:#555;
+    line-height:2;
+
+}
+
+.epigraph-en{
+
+    font-size:.95rem;
+    color:#777;
+    line-height:1.9;
+    margin-top:1rem;
+
+}
+
+.epigraph-ref{
+
+    color:#888;
+    margin-top:1rem;
+
+}
