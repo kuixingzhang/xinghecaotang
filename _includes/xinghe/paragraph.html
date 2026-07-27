@@ -1,71 +1,11 @@
-.bi-row{
+<div class="bi-row">
 
-display:grid;
+  <div class="bi-zh">
+    {{ include.zh | markdownify }}
+  </div>
 
-grid-template-columns:1fr 1fr;
+  <div class="bi-en">
+    {{ include.en | markdownify }}
+  </div>
 
-gap:4rem;
-
-padding:2.4rem 0;
-
-border-top:1px solid #eeeeee;
-
-align-items:start;
-
-}
-
-.bi-row:first-of-type{
-
-border-top:none;
-
-}
-
-.bi-row>div{
-
-line-height:2;
-
-}
-
-.bi-row>div:first-child{
-
-padding-right:2rem;
-
-}
-
-.bi-row>div:last-child{
-
-padding-left:2rem;
-
-border-left:1px solid #efefef;
-
-font-size:.93rem;
-
-line-height:2.1;
-
-color:#444;
-
-}
-
-@media(max-width:900px){
-
-.bi-row{
-
-grid-template-columns:1fr;
-
-gap:2rem;
-
-}
-
-.bi-row>div:last-child{
-
-border-left:none;
-
-border-top:1px solid #efefef;
-
-padding-left:0;
-
-padding-top:2rem;
-
-}
-
-}
+</div>
