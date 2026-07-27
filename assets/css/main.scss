@@ -553,3 +553,52 @@ a{
   }
 
 }
+
+/* =========================
+   Bilingual Layout
+========================= */
+
+.bilingual-container{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:48px;
+  margin:2rem 0;
+}
+
+.lang-column{
+  line-height:2.0;
+}
+
+.lang-column h2,
+.lang-column h3{
+  margin-top:0;
+}
+
+.lang-column.zh{
+  padding-right:20px;
+}
+
+.lang-column.en{
+  padding-left:20px;
+  border-left:1px solid #ddd;
+}
+
+/* tablet */
+
+@media(max-width:1000px){
+
+.bilingual-container{
+    grid-template-columns:1fr;
+}
+
+.lang-column.en{
+    border-left:none;
+    padding-left:0;
+    margin-top:3rem;
+}
+
+.lang-column.zh{
+    padding-right:0;
+}
+
+}
