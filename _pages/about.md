@@ -1,10 +1,20 @@
 ---
-title: ""
-permalink: /about/
+title: "關於"
 layout: single
+permalink: /about/
 author_profile: false
+classes: wide
+toc: false
 ---
 
-草堂主人者，山東冠縣人，少喜讀書，好古文，學問不輟，歷濟南、上海，輾轉而至美國，迄今二十餘年矣。現居加州，以病理醫生為業。以詩言志，以道會友，周遊天下，樂此不疲，不知老之將至也。
+<h1 class="essay-title">關於</h1>
 
-The Master of Starlit Cottage is a native of Guan County, Shandong. Fond of reading from his youth, he has long cherished the ancient masters and never abandoned the pursuit of learning. His path took him from Jinan to Shanghai, and thence to the United States, where he has lived for over two decades. He now resides in California, practicing diagnostic pathology. He expresses his convictions through poetry, seeks fellowship through the Way, and finds inexhaustible joy in traveling the world—so engrossed in these pursuits that he scarcely perceives the coming of old age.
+<p class="essay-subtitle">
+<em>About the Author</em>
+</p>
+
+{% include xinghe/paragraph.html
+  zh="草堂主人者，山東冠縣人，少喜讀書，好古文，學問不輟，歷濟南、上海，輾轉而至美國，迄今二十餘年矣。現居加州，以病理醫生為業。以詩言志，以道會友，周遊天下，樂此不疲，不知老之將至也。"
+
+  en="The Master of Starlit Cottage was born in Guan County, Shandong. From an early age he delighted in books, developed a lasting affection for the Chinese classics, and never ceased the pursuit of learning. His journey carried him from Jinan to Shanghai, and eventually across the Pacific to the United States, where he has lived for more than two decades. He now resides in California, practicing diagnostic pathology. Through poetry he gives voice to his convictions; through a shared pursuit of truth he finds enduring friendship. He delights in traveling the world, and pursues these joys with such quiet devotion that he scarcely notices old age drawing near."
+%}
