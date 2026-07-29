@@ -97,6 +97,6 @@ But history is often written by the victors.
 After the success of the French Revolution, the Swiss Guards were for many years portrayed as defenders of the old regime and opponents of historical progress. Yet the Lion of Lucerne tells a different story. It asks the viewer to look beyond political victory and defeat, and to remember the enduring virtues of loyalty, courage, and faithfulness to one's word—even when such faithfulness demands the ultimate sacrifice.
 
 <p style="margin-top: 3rem; text-align: center;">
-  <a href="/xinglv/">← 返回行旅目錄</a>
+  <a href="/xinglv/">← 返回行旅</a>
 </p>
 
