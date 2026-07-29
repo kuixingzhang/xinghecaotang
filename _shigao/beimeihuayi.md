@@ -42,5 +42,5 @@ Next spring begins where friendship starts.
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
-  <a href="/shigao/">← 返回詩稿目錄</a>
+  <a href="/shigao/">← 返回詩稿</a>
 </p>
