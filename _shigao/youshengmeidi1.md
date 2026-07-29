@@ -30,14 +30,12 @@ Seated upon a great rock above the falls, I looked down upon the white cascade s
 Watching the river, I could not help but think of life itself. In youth we are like clear mountain springs, pure and untroubled. As we grow older, we meet the rocks of the world, sometimes rushing forward, sometimes flowing quietly, each according to its own course. What people call achievement is much like the grandeur of a waterfall—magnificent for a season and worthy of admiration. Yet its power comes from nothing more than yielding to the shape of the mountain and following the course prepared for it. At last, when the river leaves the canyon, it flows gently once again, like old age, its sharp edges worn away, at peace with the world. Every river finds its way to the sea and never turns back; so it is with life—we can never return to the mountain spring from which our journey first began.
 <br><br>
 </div>
-
 <div class="english-poem">
 Green peaks arise where snowy summits crown the mountain chain;<br>
 Through silent woods a crystal stream winds softly o'er the plain.<br>
 Then from the cliffs a leaping torrent bursts in dazzling flight,<br>
 A thousand feet it thunders down from heaven's vast domain.<br>
 </div>
-
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿</a>
 </p>
