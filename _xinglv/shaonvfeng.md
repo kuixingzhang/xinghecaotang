@@ -106,5 +106,5 @@ The mountain most commonly recognized as Europe's highest peak is Mount Elbrus, 
 ![少女峰](/assets/images/xinglv/shaonvfeng2.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
-  <a href="/xinglv/">← 返回行旅目錄</a>
+  <a href="/xinglv/">← 返回行旅</a>
 </p>
