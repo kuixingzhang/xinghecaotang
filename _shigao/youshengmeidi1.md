@@ -12,7 +12,7 @@ classes: poetry-page
 
 因念人生亦復如是。少時如高山清泉，澄明無染；及長，與世間磐石相激，或急或徐，各循其勢。世人所稱功業，猶瀑布之壯觀，轟然一時，令人仰止；然究其所以成勢，亦不過因山就勢，順流而下耳。及至流出峽谷，水復平靜，如人暮年，洗盡鋒芒，與世無爭。惟流水歸海，不可回頭；人生亦如是，終不能復來時之山泉。
 
-青巒疊翠雪連山，林壑清幽繞碧川。
+青巒疊翠雪連山，林壑清幽繞碧川。  
 忽見飛泉出絕壁，奔流千尺下雲天。
 
 2026年7月27日
@@ -22,11 +22,11 @@ classes: poetry-page
 
 <div class="english-preface">
 The greatest beauty of Yosemite lies in its waterfalls. To follow a mountain trail upstream in search of their source is perhaps the greatest delight for any traveler.
-
+<br><br>
 Today I climbed to the summit of Nevada Fall by way of the John Muir Trail. There I watched the distant snowfields begin to melt, their tiny rivulets gathering into brooks, and the brooks into a river. In its upper reaches the current flowed gently, so clear that the riverbed could be seen beneath the water. But after crossing a small bridge, the mountains suddenly broke away into a sheer precipice. The riverbed narrowed abruptly, the rushing torrent crashed against the granite, then plunged downward with a thunderous roar. Mist drifted upon the wind, cool droplets touched my face, and the heat of the day vanished at once.
-
+<br><br>
 Seated upon a great rock above the falls, I looked down upon the white cascade suspended in midair and gazed across the emerald peaks beyond. My heart was filled with quiet joy, and I could have remained there all day without weariness. I then descended by the Mist Trail, following the river through the valley. Before long, the water once again leapt over a cliff, becoming another magnificent waterfall—Vernal Fall. Its current was even more powerful; a rainbow arched across the torrent, while the glowing mist transformed the whole scene into a fairyland.
-
+<br><br>
 Watching the river, I could not help but think of life itself. In youth we are like clear mountain springs, pure and untroubled. As we grow older, we meet the rocks of the world, sometimes rushing forward, sometimes flowing quietly, each according to its own course. What people call achievement is much like the grandeur of a waterfall—magnificent for a season and worthy of admiration. Yet its power comes from nothing more than yielding to the shape of the mountain and following the course prepared for it. At last, when the river leaves the canyon, it flows gently once again, like old age, its sharp edges worn away, at peace with the world. Every river finds its way to the sea and never turns back; so it is with life—we can never return to the mountain spring from which our journey first began.
 
 </div>
@@ -36,8 +36,7 @@ Green peaks arise where snowy summits crown the mountain chain;<br>
 Through silent woods a crystal stream winds softly o'er the plain.<br>
 Then from the cliffs a leaping torrent bursts in dazzling flight,<br>
 A thousand feet it thunders down from heaven's vast domain.<br>
-
-<br>
+</div>
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shigao/">← 返回詩稿</a>
