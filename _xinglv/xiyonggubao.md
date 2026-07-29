@@ -57,5 +57,5 @@ Today, Chillon Castle has long since lost its military purpose, yet it continues
 More than simply a masterpiece of medieval architecture, Chillon Castle is a chapter of European history written in stone.
 
 <p style="margin-top: 3rem; text-align: center;">
-  <a href="/xinglv/">← 返回行旅目錄</a>
+  <a href="/xinglv/">← 返回行旅</a>
 </p>
