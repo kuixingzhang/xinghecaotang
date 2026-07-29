@@ -15,6 +15,7 @@ classes: poetry-page
 青巒疊翠雪連山，林壑清幽繞碧川。
 忽見飛泉出絕壁，奔流千尺下雲天。
 
+2026年7月27日
 ![優勝美地](/assets/images/poetry/youshengmeidi1.jpg)
 
 <h3>A Summer Gathering in Los Angeles</h3>
