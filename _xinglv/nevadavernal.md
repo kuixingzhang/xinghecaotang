@@ -41,30 +41,7 @@ toc: false
 %}
 
 ![維納爾瀑布](/assets/images/xinglv/vernal.jpg)
-     {% include xinghe/paragraph.html
-  zh="內華達瀑布與維納爾瀑布同屬默塞德河，卻各具風姿。內華達瀑布之美，在於雄渾磅礴；河水由平緩而急促，積蓄千鈞之勢，凌空飛瀉一百八十餘公尺，令人感受到大自然不可抗拒的力量。維納爾瀑布則勝於靈動親近。人行瀑側，水霧拂面，彩虹橫空，飛瀑彷彿觸手可及。前者令人心生敬畏，後者令人流連忘返；一剛一柔，一遠一近，共同構成了優勝美地最動人的山水畫卷。"
-  en="Although both waterfalls belong to the Merced River, each possesses a distinct personality. Nevada Fall impresses through sheer power. Its quiet current gathers irresistible force before plunging more than 180 meters into the canyon below, reminding visitors of nature's overwhelming strength. Vernal Fall, by contrast, is remembered for its intimacy. The trail passes so close to the cascading water that cool mist brushes one's face while rainbows seem almost within reach. One inspires reverence, the other invites companionship. Together they reveal two expressions of the same river—one majestic and commanding, the other graceful and welcoming—forming one of Yosemite's most unforgettable landscapes."
-%}
-
-{% include xinghe/paragraph.html
-  zh="一年四季，步道景色各不相同。暮春與初夏，冰雪初融，河水最盛，瀑布如萬馬奔騰，是一年中最壯觀的時節；盛夏天高氣爽，松林蒼翠，最宜健行遠足；秋日水勢漸緩，花崗岩絕壁完全顯露，金黃橡樹點綴其間，更添幾分寧靜；冬季白雪覆山，部分步道因積雪封閉，瀑布邊緣偶結冰凌，天地寂然，別具一番清冷肅穆之美。山川雖未改變，卻因季節輪轉而展現不同氣象，也使每一次重返優勝美地，都成為一次全新的相遇。"
-  en="The character of the trail changes with every season. In late spring and early summer, melting snow transforms the Merced River into a torrent, and the waterfalls reach their greatest power. Summer brings clear skies, fragrant pine forests, and ideal conditions for hiking. By autumn, the river grows quieter, revealing polished granite cliffs framed by golden oaks and maples. Winter covers the high country with snow, closing portions of the trail while delicate ice forms along the edges of the falls, lending the valley a solemn stillness. Though the mountains themselves remain unchanged, every season reveals another face of Yosemite, ensuring that no two visits are ever truly the same."
-%}
-
-{% include xinghe/paragraph.html
-  zh="今日，人們來到優勝美地，多半是為了欣賞壯麗風景，拍下一張張照片，留下旅途的紀念。然而，真正令人難忘的，往往並非照片裡的山峰與瀑布，而是身處其間時那份難以言喻的感受。當耳邊只剩流水與風聲，當目光越過峽谷遙望層巒疊嶂，人便會忽然明白，自然從不急於向人展示自己的偉大，它只是靜靜存在，而我們有幸在生命中的某一天，與它相遇。也許，這正是約翰·繆爾終其一生所希望告訴世人的道理：走進山林，不只是為了欣賞風景，更是為了重新認識自己。"
-  en="Most people come to Yosemite hoping to admire its celebrated scenery and return home with beautiful photographs. Yet the memories that endure are seldom the images preserved by a camera. What remains instead is the quiet feeling of having stood within a landscape far greater than oneself. When conversation gives way to the sound of rushing water and mountain wind, and when one's eyes follow the granite walls toward distant summits, an unexpected realization often emerges: nature never strives to impress us. It simply exists, patiently and magnificently, waiting for those willing to slow their steps. Perhaps this is the lesson John Muir hoped others would discover. We enter the mountains not merely to see beautiful places, but to recover a deeper understanding of ourselves."
-%}
-
-{% include xinghe/paragraph.html
-  zh="離開山谷時，我回首望向默塞德河。河水依舊向前奔流，瀑布依舊日夜轟鳴，花崗岩依舊靜默地矗立在天地之間。人來人往，不過是山川漫長歲月中的一瞬；而山河也正因無言，才更顯永恆。或許多年以後，關於旅程中的許多細節早已淡忘，但當再次想起優勝美地時，心中浮現的，仍將是那奔騰的河流、飛瀑的白霧，以及陽光下那一道橫跨山谷的彩虹。"
-  en="As I left the valley, I turned once more toward the Merced River. The water continued its timeless journey, the waterfalls roared without pause, and the granite cliffs stood in quiet permanence beneath the open sky. Countless travelers come and go, each passing through for only a fleeting moment, while the mountains remain almost beyond the measure of time. Perhaps that is why they move us so deeply. Years from now, many details of the journey will inevitably fade, yet Yosemite will return to memory not as a collection of landmarks, but as the sound of living water, the cool breath of mist, and a rainbow suspended above the valley—a reminder that some places do not simply delight the eye; they quietly enlarge the human spirit."
-%}
 
 <p style="margin-top:2.5rem;">
 <a href="/xinglv/">← 返回行旅</a>
 </p>
-
-<img src="/assets/images/xinglv/nevada.jpg"
-     alt="Nevada Fall"
-     style="max-width:100%; height:auto;">
