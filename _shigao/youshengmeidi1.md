@@ -28,7 +28,7 @@ Today I climbed to the summit of Nevada Fall by way of the John Muir Trail. Ther
 Seated upon a great rock above the falls, I looked down upon the white cascade suspended in midair and gazed across the emerald peaks beyond. My heart was filled with quiet joy, and I could have remained there all day without weariness. I then descended by the Mist Trail, following the river through the valley. Before long, the water once again leapt over a cliff, becoming another magnificent waterfall—Vernal Fall. Its current was even more powerful; a rainbow arched across the torrent, while the glowing mist transformed the whole scene into a fairyland.
 <br><br>
 Watching the river, I could not help but think of life itself. In youth we are like clear mountain springs, pure and untroubled. As we grow older, we meet the rocks of the world, sometimes rushing forward, sometimes flowing quietly, each according to its own course. What people call achievement is much like the grandeur of a waterfall—magnificent for a season and worthy of admiration. Yet its power comes from nothing more than yielding to the shape of the mountain and following the course prepared for it. At last, when the river leaves the canyon, it flows gently once again, like old age, its sharp edges worn away, at peace with the world. Every river finds its way to the sea and never turns back; so it is with life—we can never return to the mountain spring from which our journey first began.
-<br><br>
+<br>
 </div>
 <div class="english-poem">
 Green peaks arise where snowy summits crown the mountain chain;<br>
