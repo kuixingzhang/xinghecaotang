@@ -1,7 +1,7 @@
 ---
 title: "約翰·繆爾步道與迷霧步道"
 layout: single
-permalink: /xinglv/nevadafall/
+permalink: /xinglv/nevadavernal/
 author_profile: false
 classes: wide
 toc: false
