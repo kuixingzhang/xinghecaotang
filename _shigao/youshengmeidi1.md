@@ -18,7 +18,7 @@ classes: poetry-page
 2026年7月27日
 ![優勝美地](/assets/images/poetry/youshengmeidi1.jpg)
 
-<h3>A Summer Gathering in Los Angeles</h3>
+<h3>At Nevada Fall</h3>
 
 <div class="english-preface">
 The greatest beauty of Yosemite lies in its waterfalls. To follow a mountain trail upstream in search of their source is perhaps the greatest delight for any traveler.
