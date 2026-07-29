@@ -42,6 +42,6 @@ toc: false
 
 ![維納爾瀑布](/assets/images/xinglv/vernal.jpg)
 
-<p style="margin-top:2.5rem;">
-<a href="/xinglv/">← 返回行旅</a>
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/xinglv/">← 返回行旅</a>
 </p>
