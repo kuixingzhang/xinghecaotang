@@ -103,6 +103,10 @@ toc: false
   en="Europe's highest mountain is generally recognized as Mount Elbrus in the Caucasus Mountains of Russia, rising to 5,642 meters (18,510 feet). Within the Alps themselves, however, the highest peak is Mont Blanc, which stands on the border between France and Italy at approximately 4,806 meters (15,768 feet)."
 %}
 
+<p class="essay-date">
+2026年5月7日 · <em>May 7, 2026</em>
+</p>
+
 <img src="/assets/images/xinglv/shaonvfeng1.jpg"
      alt="少女峰"
      style="max-width:100%; height:auto;">
