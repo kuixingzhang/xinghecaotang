@@ -742,3 +742,16 @@ a{
     color:#888;
     letter-spacing:.04em;
 }
+
+.essay-date {
+  text-align: center;
+  margin: 2.5rem 0 1.2rem;
+  color: #777;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+
+.essay-date em {
+  font-style: italic;
+}
