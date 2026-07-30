@@ -4,6 +4,7 @@ title: "丹莊會"
 permalink: /shigao/danzhuanghui/
 author_profile: false
 ---
+## 丹莊會
 
 2023年蓋新閣（Geisinger）的第四屆病理研討會在美麗的丹莊（Danville）舉行，大咖雲集，精彩絕倫，不容錯過。從加州的小地方到賓州的小地方，路途遙遠，機車勞頓，但能見到這麼多新老朋友，還享受一場學術盛宴，則甘之如飴。是為記。
 
