@@ -5,6 +5,7 @@ permalink: /shigao/haoqi/
 author_profile: false
 classes: poetry-page
 ---
+## 豪氣
 
 少年提劍出鄉關，壯志凌雲氣若閒。  
 白駒過隙憑一躍，鳳凰浴火出涅槃。  
