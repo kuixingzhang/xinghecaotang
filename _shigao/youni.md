@@ -1,14 +1,11 @@
 ---
 layout: single
-title: "有你"
+title: ""
 permalink: /shigao/youni/
-author_profile: false
+auth有你or_profile: false
 classes: poetry-page
 ---
-
-
-沒有你的日子，曾經目空一切。  
-只覺世事輕易，除非自己不屑。  
+## 有你
 
 沒有你的日子，曾經苦苦尋覓。  
 讀遍古今聖賢，不見人生真諦。  
