@@ -34,10 +34,6 @@ toc: false
 福奇：科學英雄與「沉默的罪犯」
 </h2>
 
-<h2 class="essay-section">
-福奇：科學英雄與「沉默的罪犯」
-</h2>
-
 {% include xinghe/paragraph.html
   zh="福奇的重要經歷相當清晰。他長期擔任美國國家過敏與傳染病研究所（NIAID）所長，在新冠疫情期間成為美國政府公共衛生政策最具代表性的面孔。他推動疫苗研發，倡導社交距離與口罩政策，也曾公開否認實驗室洩漏具有可信度，並因增益功能研究（Gain-of-Function Research）的資助問題而長期捲入爭議。"
   en="The major milestones of Fauci's public career are well documented. For decades he served as Director of the National Institute of Allergy and Infectious Diseases (NIAID), eventually becoming the public face of America's pandemic response. He championed vaccine development, promoted masking and social distancing, dismissed the laboratory-leak hypothesis during the early stages of the pandemic, and later found himself at the center of continuing disputes over U.S. funding related to gain-of-function research."
