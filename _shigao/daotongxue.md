@@ -5,6 +5,7 @@ permalink: /shigao/daotongxue/
 author_profile: false
 classes: poetry-page
 ---
+## 悼同學並序 
 
 時君與我同齡，是山醫心內科研究生，我們一起碩士答辯，後來又一起在上二醫讀博士。他溫文儒雅，器宇不凡，今日忽聞心梗搶救無效，震驚之餘，又復悲痛。惟願生者保重，能夠白首相見。
 
