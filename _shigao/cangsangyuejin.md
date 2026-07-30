@@ -5,6 +5,7 @@ permalink: /shigao/cangsangyuejin/
 author_profile: false
 classes: poetry-page
 ---
+**滄桑閱盡**
 
 滄桑閱盡才悟道，浮華過後始見真。  
 人間本為羈旅地，奈何憔悴苦勞心。  
