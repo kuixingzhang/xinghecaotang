@@ -9,6 +9,7 @@ author_profile: false
 
 <div class="poetry-grid">
   <a href="/wenji/shehui/zuogong/">不肯做工，就不可吃饭</a>
+  <a href="/wenji/shehui/fauciandtrump/">福奇與川普：一段共同歷史的兩個不同畫像</a>
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
