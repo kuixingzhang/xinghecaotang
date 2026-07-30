@@ -6,7 +6,7 @@ permalink: /shigao/bieguxiang/
 author_profile: false
 classes: poetry-page
 ---
-**別故鄉**
+## 別故鄉
 
 <p>
 父母先後西去，我也不知不覺中進入了天命之年。父母在就有家，而我現在成了沒家的孩子。離別容易，但心頭的重擔和苦澀只有自己知道。
