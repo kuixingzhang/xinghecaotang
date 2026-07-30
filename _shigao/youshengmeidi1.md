@@ -16,7 +16,7 @@ classes: poetry-page
 忽見飛泉出絕壁，奔流千尺下雲天。
   
 <p class="essay-date">
-2026年5月7日 · <em>May 7, 2026</em>
+2026年7月27日 · <em>July 27, 2026</em>
 </p>
 
 ![優勝美地](/assets/images/poetry/youshengmeidi1.jpg)
