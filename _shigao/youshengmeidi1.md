@@ -15,7 +15,10 @@ classes: poetry-page
 青巒疊翠雪連山，林壑清幽繞碧川。  
 忽見飛泉出絕壁，奔流千尺下雲天。
   
-2026年7月27日
+<p class="essay-date">
+2026年5月7日 · <em>May 7, 2026</em>
+</p>
+
 ![優勝美地](/assets/images/poetry/youshengmeidi1.jpg)
 
 <h3>At Nevada Fall</h3>
