@@ -72,6 +72,11 @@ toc: false
   zh="真正令人感傷的，並不僅僅是他們戰死。而是他們效忠的對象失敗了。如果路易十六重新掌權，他們會成為拯救王朝的英雄。但歷史由勝利者書寫。法國革命成功以後，他們長期被描述為維護舊制度、阻擋歷史進步的人。"
   en="The deepest tragedy lies not simply in the deaths of the Swiss Guards, but in the fate of the cause to which they had pledged their loyalty. Had Louis XVI regained his throne, they might have been remembered as heroes who saved a monarchy. Instead, the Revolution prevailed, and history followed a different course. For generations, the Swiss Guards were portrayed as defenders of the old order—men who stood in the way of a new era rather than those who faithfully fulfilled the duty they had sworn to uphold."
 %}
+
+<p class="essay-date">
+2026年5月6日 · <em>May 6, 2026</em>
+</p>
+
 ![瑞士盧塞恩獅子紀念碑](/assets/images/xinglv/shizi.jpg)
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/xinglv/">← 返回行旅</a>
