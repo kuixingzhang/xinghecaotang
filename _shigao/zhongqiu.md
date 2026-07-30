@@ -5,6 +5,7 @@ permalink: /shigao/zhongqiu/
 author_profile: false
 classes: poetry-page
 ---
+## 中秋
 
 雲高日暮客愁新，夢斷鄉關曉夜沉。  
 篤志曾無辭遠屆，多情豈敢忘斯人。  
