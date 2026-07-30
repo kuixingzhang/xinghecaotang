@@ -5,6 +5,7 @@ permalink: /shigao/shaoniankuang/
 author_profile: false
 classes: poetry-page
 ---
+## 少年狂
 
 家裡有個彈跳棒，是上次回國時父母給買的，孩子不常玩，我卻喜歡跳。每一次跳跳就像回到少年，特別想念故鄉的親人和朋友。
 
