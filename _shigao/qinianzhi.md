@@ -5,6 +5,7 @@ permalink: /shigao/qinianzhi/
 author_profile: false
 classes: poetry-page
 ---
+## 山醫七年制畢業十六週年誌兼懷濟南
 
 少年決志出鄉關，四海英俊會濟南。  
 青青齊魯鍾神秀，滾滾黃河上雲端。  
