@@ -40,6 +40,10 @@ toc: false
   en="If Nevada Fall inspires awe through its overwhelming scale, Vernal Fall leaves an equally lasting impression through intimacy. Rising approximately 97 meters (317 feet), it is only about half as tall as its larger neighbor, yet many visitors remember it more vividly because the Mist Trail passes almost beside the waterfall itself. The word *vernal* means 'spring-like,' and nowhere is that name more fitting than during the season of melting snow. Then the Merced River pours over the cliff with astonishing force, filling the surrounding air with countless droplets that drift across the trail. Under clear skies, rainbows often appear as naturally as the mist itself. Step by step, hikers climb the granite staircase with the thunder of falling water echoing beside them. Conversation fades beneath the roar, replaced by the sound of rushing water and the cool breath of the spray. Some pause only briefly, while others remain for long moments, quietly watching the endless movement of river, light, and stone. Here one does not merely observe nature; one becomes, if only for a little while, part of its unfolding rhythm."
 %}
 
+<p class="essay-date">
+2026年7月27日 · <em>July 27, 2026</em>
+</p>
+
 ![維納爾瀑布](/assets/images/xinglv/vernal.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
