@@ -5,6 +5,7 @@ permalink: /shigao/kongfuzi/
 author_profile: false
 classes: poetry-page
 ---
+## 孔夫子
 
 千古誰識奎星閣，嘆鳳傷麟苦事多。  
 斯文不懼奔波遠，道窮豈敢忘弦歌。  
