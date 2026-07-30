@@ -64,6 +64,10 @@ toc: false
   en="Today, Chillon Castle no longer guards an Alpine passage, yet it has lost none of its presence. Reflected in the tranquil waters of Lake Geneva, it possesses the timeless beauty of a fairy tale. Behind its massive stone walls, however, linger stories of imprisonment, conviction, and the enduring human longing for freedom. Byron's poem transformed those memories into literature, while the castle itself continues to preserve them in stone. More than a masterpiece of medieval architecture, Chillon Castle is a chronicle of Europe carved in stone."
 %}
 
+<p class="essay-date">
+2026年5月7日 · <em>May 7, 2026</em>
+</p>
+
 <img src="/assets/images/xinglv/xiyonggubao.jpg"
      alt="西庸古堡"
      style="max-width:100%; height:auto;">
