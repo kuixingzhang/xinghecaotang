@@ -5,6 +5,7 @@ permalink: /shigao/xiariguanyu/
 author_profile: false
 classes: poetry-page
 ---
+## 夏日觀雨
 
 *南加州的旱季，本來豔陽高照，忽然電閃雷鳴，雨大如斗。往事如煙，前路茫茫，看世界滄桑變化，實中外亙古未有，有幸或不幸生於期間，感慨萬千，遂詩以誌之。*
 
