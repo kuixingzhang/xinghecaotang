@@ -5,8 +5,8 @@ permalink: /shigao/wenchengxiang/
 author_profile: false
 classes: poetry-page
 ---
-## 
-文丞相
+## 文丞相
+
 讀經明理一書生，鐵血干戈秉赤誠。  
 萬里奔波南北道，寸心不變虜王庭。  
 漢賊消長惟天意，中夏長安賴俊靈。  
