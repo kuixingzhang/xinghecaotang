@@ -5,7 +5,7 @@ permalink: /shigao/youshengmeidi1/
 author_profile: false
 classes: poetry-page
 ---
-**優勝美地之內華達瀑布**
+## 優勝美地之內華達瀑布
 
 優勝美地之美，莫過於瀑布；循山徑而上，探其源流，尤為遊者至樂。今日沿約翰·繆爾步道（John Muir Trail）登內華達瀑布（Nevada Fall）之巔，見遠山積雪初融，涓涓細流，匯而成溪，溪復成河。上游水勢平緩，澄澈見底；既過小橋，山勢忽折，峭壁千尺，河床驟狹，激石奔騰，咆哮直下，聲若驚雷；霧氣隨風飛散，水珠拂面，令人暑氣頓消。
 
