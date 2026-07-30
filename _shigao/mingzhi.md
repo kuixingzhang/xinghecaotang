@@ -5,6 +5,7 @@ permalink: /shigao/mingzhi/
 author_profile: false
 classes: poetry-page
 ---
+## 明志
 
 辛苦遭逢起一書，望斷天涯形影孤。  
 世間無緣堪比翼，天上有幸築金屋。  
