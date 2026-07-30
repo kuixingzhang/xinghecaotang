@@ -1,15 +1,12 @@
 ---
-
 layout: single
-
 title: "暮春憶舊"
-
 date: 2026-05-25
-
 permalink: /shigao/muchun-yijiu/
-
 classes: poetry-page
 ---
+
+## 暮春憶舊
 昨日還是求學少年，今天已經年過半百。惜乎時不我待，人生只有歸途；事事如煙，回憶卻時常入夢。
 
 齊州煙雨入殘春，千佛山下憶同門。  
