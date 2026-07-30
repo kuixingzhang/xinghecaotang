@@ -5,6 +5,7 @@ permalink: /shigao/likai/
 author_profile: false
 classes: poetry-page
 ---
+## 你何曾離開過我
 
 少年時我曾質疑，為什麼不讓我家富足，  
 你說，我已經讓你衣食無憂。  
