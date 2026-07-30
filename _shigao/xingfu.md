@@ -5,6 +5,7 @@ permalink: /shigao/xingfu/
 author_profile: false
 classes: poetry-page
 ---
+## 曾以為幸福只在遠處
 
 曾以為幸福只在遠處  
 現實中唯有痛苦  
