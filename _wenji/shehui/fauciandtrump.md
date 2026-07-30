@@ -1,7 +1,7 @@
 ---
 title: "福奇與川普：一段共同歷史的兩個不同畫像"
 layout: single
-permalink: /shehui/fauciandtrump/
+permalink: wenji/shehui/fauciandtrump/
 author_profile: false
 classes: wide
 toc: false
