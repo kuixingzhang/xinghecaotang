@@ -5,6 +5,7 @@ permalink: /shigao/xiangzhi/
 author_profile: false
 classes: poetry-page
 ---
+## 相知
 
 人生何患無春風，情到深處自動容。  
 知音總不費思慮，會心原是任我行。  
