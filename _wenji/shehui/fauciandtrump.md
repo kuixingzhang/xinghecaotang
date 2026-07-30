@@ -150,7 +150,7 @@ toc: false
 2026年7月29日 · <em>July 29, 2026</em>
 </p>
 
-![福奇與川普](/assets/images/shehui/fauciandtrump.jpg)
+![福奇與川普](/assets/images/wenji/fauciandtrump.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/shehui/">← 返回社會</a>
