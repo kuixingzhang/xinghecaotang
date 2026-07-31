@@ -1,7 +1,7 @@
 ---
 title: "母親"
 layout: single
-permalink: /wenji/muqin/
+permalink: /wenji/jinian/muqin/
 author_profile: false
 classes: wide
 toc: false
@@ -81,7 +81,7 @@ toc: false
 %}
 
 <p class="essay-date">
-2026年7月25日 · <em>July 25, 2026</em>
+2026年1月13日 · <em>January 13, 2026</em>
 </p>
 
 <img src="/assets/images/wenji/muqin.jpg"
