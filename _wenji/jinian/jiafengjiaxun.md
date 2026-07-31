@@ -286,3 +286,11 @@ toc: false
 <p style="text-align:center; margin-top:2.5rem; font-style:italic; color:#666;">
 May every family become a place where love is learned, character is formed, and hope is passed from one generation to the next.
 </p>
+
+<img src="/assets/images/wenji/jiafengjiaxun.jpg"
+     alt="淺議家風和家訓"
+     style="max-width:100%; height:auto;">
+
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/wenji/">← 返回文集</a>
+</p>
