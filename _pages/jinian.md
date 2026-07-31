@@ -10,6 +10,7 @@ author_profile: false
 <div class="poetry-grid">
   <a href="/wenji/jinian/muqin/">母親</a>
   <a href="/wenji/jinian/fuqin/">父親</a>
+  <a href="/wenji/jinian/jiafengjiaxun/">淺議家風和家訓</a>
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
