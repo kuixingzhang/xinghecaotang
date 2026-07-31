@@ -18,13 +18,6 @@ toc: false
 
 {% include xinghe/paragraph.html
   zh="創建和諧社會，倡導家教新風，一個老教育工作者的感悟，願與社會各界同仁共勉。"
-  en="These reflections were written after a lifetime devoted to education and family life. Rather than offering abstract theories, they represent lessons drawn from decades of teaching, raising children, and observing society. It is my hope that these thoughts may encourage families to cultivate stronger values, deeper affection, and a more harmonious home."
-%}
-<p class="essay-date">
-2008年8月6日 · <em>August 6, 2008</em>
-</p>
-{% include xinghe/paragraph.html
-  zh="創建和諧社會，倡導家教新風，一個老教育工作者的感悟，願與社會各界同仁共勉。"
   en="These reflections were written after a lifetime devoted to education, family, and the quiet responsibilities of everyday life. They are not offered as rigid rules, but as lessons learned through decades of experience—as a teacher, a husband, a father, and an observer of society. If they can encourage even a few families to cultivate stronger values, deeper affection, and greater harmony, then they will have fulfilled their purpose."
 %}
 
