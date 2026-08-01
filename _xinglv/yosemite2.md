@@ -51,7 +51,7 @@ toc: false
 %}
 
 <p class="essay-date">
-2026年7月31日 · <em>July 31, 2026</em>
+2026年5月15日 · <em>May 15, 2026</em>
 </p>
 ![優勝美地瀑布步道](/assets/images/xinglv/yosemite22.jpg)
 
