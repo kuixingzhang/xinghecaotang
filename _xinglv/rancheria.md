@@ -1,5 +1,5 @@
 ---
-title: "蘭切里亞瀑布步道"
+title: "蘭切里亞瀑布"
 layout: single
 permalink: /xinglv/rancheria/
 author_profile: false
