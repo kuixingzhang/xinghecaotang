@@ -9,8 +9,6 @@ toc: false
 
 <h1 class="essay-title">蘭切里亞瀑布</h1>
 
-<p class="essay-date">2026年8月1日　加州．內華達山脈</p>
-
 <p>
 蘭切里亞瀑布步道並不長，全程約兩英里，步道平緩，走起來原本應該十分輕鬆。然而我剛開始走在平地上，竟已有些氣喘，或許是剛從接近海平面的<strong>弗雷斯諾</strong>，一路驅車來到海拔約七千二百英尺（2195米）的<strong>內華達山脈</strong>，身體還來不及適應。
 </p>
@@ -53,8 +51,6 @@ From the top of the falls, white clouds drift lazily overhead while birds fill t
 </em>
 </p>
 
-![蘭切里亞瀑布](/assets/images/rancheria/rancheria2.jpg)
-
 <p>
 這裡並非著名景點，遊人卻遠比我想像中多，三五成群，不時有人坐在岩石上戲水、拍照。短短一個多小時，我至少遇見了五六十位遊客，頗有些出乎意料。
 </p>
@@ -63,4 +59,11 @@ From the top of the falls, white clouds drift lazily overhead while birds fill t
 <em>
 Although Rancheria Falls is far from being a famous destination, it attracted far more visitors than I had expected. Small groups gathered on the granite slabs, some photographing the falls while others cooled their feet in the clear mountain water. In little more than an hour, I encountered at least fifty or sixty hikers—an unexpectedly lively scene in what I had imagined would be a secluded corner of the Sierra.
 </em>
+</p>
+
+<p class="essay-date">2026年8月1日　加州．內華達山脈</p>
+![蘭切里亞瀑布](/assets/images/rancheria/rancheria2.jpg)
+
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/xinglv/">← 返回行旅</a>
 </p>
