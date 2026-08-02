@@ -27,7 +27,7 @@ toc: false
   en="At the foot of the waterfall, where the maintained trail ends, the real exploration begins. Anyone wishing to reach the top must follow a rough path worn by previous hikers. There are no constructed trails, no wooden steps, and no handrails. The granite slope, rising at more than sixty degrees, requires the use of both hands and feet, climbing carefully over exposed rock and tangled tree roots. Above the falls, the forest remains in its natural state, dense with trees and untouched by human alteration, as though it had remained unchanged for millions of years."
 %}
 
-![蘭切里亞瀑布](/assets/images/xinglv/rancheria2.jpg)
+![蘭切里亞瀑布](/assets/images/xinglv/rancheria1.jpg)
 
 {% include xinghe/paragraph.html
   zh="攀上瀑布頂端，白雲悠悠，鳥鳴喈喈，溪水在花崗岩上蜿蜒流淌，叮咚作響，忽然躍下岩壁，白浪懸空。然而下來後站在瀑布下方的巨石之上，水霧撲面而來，清爽無比，迎著陽光，映出道道彩虹，溪流繼續沿著花崗岩流瀉而下，遠處則是一望無際的松杉覆蓋群山，層巒疊翠，清幽開闊，令人流連忘返。"
@@ -43,11 +43,6 @@ toc: false
 2026年8月1日 · <em>August 1, 2026</em>
 </p>
   
-![蘭切里亞瀑布](/assets/images/xinglv/rancheria2.jpg)
-
-<p style="margin-top: 3rem; text-align: center;">
-  <a href="/xinglv/">← 返回行旅</a>
-</p>
 ![蘭切里亞瀑布](/assets/images/xinglv/rancheria2.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
