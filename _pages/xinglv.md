@@ -9,6 +9,7 @@ author_profile: false
 <h1>行旅</h1>
 
 <div class="poetry-grid">
+  <a href="/xinglv/rancheria/">蘭切里亞瀑布</a>
   <a href="/xinglv/nevadavernal/">约翰·缪尔步道和迷雾步道</a>
   <a href="/xinglv/yosemite2/">優勝美地瀑布</a>
   <a href="/xinglv/shizi/">瑞士盧塞恩獅子紀念碑</a>
