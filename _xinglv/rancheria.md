@@ -29,7 +29,7 @@ At the foot of the waterfall, where the official trail ends, the real adventure 
 </em>
 </p>
 
-![蘭切里亞瀑布](/assets/images/rancheria/rancheria1.jpg)
+![蘭切里亞瀑布](/assets/images/xinglv/rancheria1.jpg)
 
 <p>
 蘭切里亞瀑布坐落於內華達山脈西坡，瀑布所匯聚的溪水，主要來自冬季積雪與春夏融雪。每年五月、六月，積雪大量消融，溪流奔騰而下，形成高約一百五十英尺（約四十六米）的多級飛瀑；到了八月，雪水漸盡，溪流回歸平緩，因此瀑布也少了春日奔騰咆哮的氣勢。
@@ -62,7 +62,7 @@ Although Rancheria Falls is far from being a famous destination, it attracted fa
 </p>
 
 <p class="essay-date">2026年8月1日　加州．內華達山脈</p>
-![蘭切里亞瀑布](/assets/images/rancheria/rancheria2.jpg)
+![蘭切里亞瀑布](/assets/images/xinglv/rancheria2.jpg)
 
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/xinglv/">← 返回行旅</a>
