@@ -9,14 +9,6 @@ toc: false
 
 <h1 class="essay-title">對選舉程序的信心是民主制度的基石</h1>
 
-<p class="essay-date">2026-08-02</p>
-
-<p style="text-align: center;">
-  <img src="{{ '/assets/images/wenji/shehui/voting.jpg' | relative_url }}"
-       alt="對選舉程序的信心是民主制度的基石"
-       class="essay-image">
-</p>
-
 <p>
 《論語·顏淵》第十二篇第七章記載：
 </p>
@@ -189,4 +181,14 @@ In the end, democracy rests not simply on constitutional provisions or statutory
 
 <p class="english">
 Confucius' words from twenty-five centuries ago—“Without the trust of the people, a nation cannot stand”—remain one of the enduring principles of democratic government. A resilient democracy is not defined by making voting entirely effortless, but by establishing an electoral process that winners can embrace with confidence, losers can accept with dignity, and society as a whole can trust. Only when the process itself is worthy of confidence can the outcome command legitimacy. And only when the people trust the process can democracy achieve lasting stability.
+</p>
+
+<p class="essay-date">
+2026年8月2日 · <em>August 2, 2026</em>
+</p>
+
+![對選舉程序的信心是民主制度的基石](/assets/images/wenji/voting.jpg)
+
+<p style="margin-top: 3rem; text-align: center;">
+  <a href="/wenji/shehui/">← 返回社會</a>
 </p>
