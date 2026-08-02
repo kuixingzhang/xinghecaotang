@@ -108,5 +108,3 @@ toc: false
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/shehui/">← 返回社會</a>
 </p>
-  <a href="/wenji/shehui/">← 返回社會</a>
-</p>
