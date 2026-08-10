@@ -66,7 +66,7 @@ en="True freedom may lie in the courage to acknowledge an absolute frame of refe
 %}
 
 <p class="essay-date">2026-08-10</p> 
-![論神的絕對性與人的相對性](/assets/images/xinyang/relativity.jpg)
+![論神的絕對性與人的相對性](/assets/images/wenji/relativity.jpg)
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰</a>
 </p>
