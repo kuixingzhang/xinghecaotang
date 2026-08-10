@@ -12,6 +12,7 @@ author_profile: false
   <a href="/wenji/xinyang/shijieguan/">基督教與無神論世界觀的比較</a>
   <a href="/wenji/xinyang/shendeling/">不是倚靠勢力，不是倚靠才能</a>
   <a href="/wenji/xinyang/zhizu/">知足</a>
+  <a href="/wenji/xinyang/relativity/">論神的絕對性與人的相對性</a>
 </div>
 
 <p style="margin-top: 3rem; text-align: center;">
