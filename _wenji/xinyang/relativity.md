@@ -65,7 +65,9 @@ zh="真正的自由，或許就在於：敢於承認一個絕對的參照系，�
 en="True freedom may lie in the courage to acknowledge an absolute frame of reference and to allow every aspect of life—including our deepest affections and most cherished traditions—to be recalibrated before it. For God is not merely another choice alongside parents, nation, or tradition. He is the very source from which all things worthy of love, honor, and loyalty derive their worth."
 %}
 
-<p class="essay-date">2026-08-10</p> 
+<p class="essay-date">
+2026年8月9日 · <em>August 9, 2026</em>
+</p>
 ![論神的絕對性與人的相對性](/assets/images/wenji/relativity.jpg)
 <p style="margin-top: 3rem; text-align: center;">
   <a href="/wenji/xinyang/">← 返回信仰</a>
