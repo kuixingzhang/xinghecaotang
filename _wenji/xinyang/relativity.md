@@ -1,7 +1,7 @@
 --- 
 title: "論神的絕對性與人的相對性" 
 layout: single 
-permalink: _wenji/xinyang/relativity/ 
+permalink: /wenji/xinyang/relativity/ 
 author_profile: false 
 classes: wide 
 toc: false 
