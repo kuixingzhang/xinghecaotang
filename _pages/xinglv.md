@@ -15,4 +15,5 @@ author_profile: false
   <a href="/xinglv/shizi/">瑞士盧塞恩獅子紀念碑</a>
   <a href="/xinglv/shaonvfeng/">阿爾卑斯山之巔──少女峰</a>
   <a href="/xinglv/xiyonggubao/">西庸古堡</a>
+  <a href="/xinglv/pinnacle/">尖峰國家公園</a>
 </div>
